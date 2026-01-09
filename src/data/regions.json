@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mondstadt",
+    "name": "蒙德",
+    "color": "#33D7A0",
+    "icon": "/images/icon/area/Mondstadt.png",
+    "svgX":"1425",
+    "svgY":"250",
+    "bg":"/images/icon/area/view/Mondstadt.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "liyue",
+    "name": "璃月",
+    "color": "#FFB00D",
+    "icon": "/images/icon/area/Liyue.png",
+    "svgX":"1270",
+    "svgY":"370",
+    "bg":"/images/icon/area/view/Liyue.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "inazuma",
+    "name": "稻妻",
+    "color": "#CC80FF",
+    "icon": "/images/icon/area/Inazuma.png",
+    "svgX":"1600",
+    "svgY":"760",
+    "bg":"/images/icon/area/view/Inazuma.jpg",    
+    "mapAvailable": true
+  },
+  {
+    "id": "sumeru",
+    "name": "須彌",
+    "color": "#9be53d",
+    "icon": "/images/icon/area/Sumeru.png",
+    "svgX":"1000",
+    "svgY":"500",
+    "bg":"/images/icon/area/view/Sumeru.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "fontaine",
+    "name": "楓丹",
+    "color": "#00c0ff",
+    "svgX":"1000",
+    "svgY":"110",
+    "icon": "/images/icon/area/Fontaine.png",
+    "bg":"/images/icon/area/view/Fontaine.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "natlan",
+    "name": "納塔",
+    "color": "#ff6640",
+    "icon": "/images/icon/area/Natlan.png",
+    "svgX":"550",
+    "svgY":"600",
+    "bg":"/images/icon/area/view/Natlan.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "nod-krai",
+    "name": "挪德卡萊",
+    "color": "#74777a",
+    "icon": "/images/icon/area/Nod-Krai.png",
+    "svgX":"480",
+    "svgY":"200",
+    "bg":"/images/icon/area/view/Nod-Krai.jpg",
+    "mapAvailable": true
+  },
+  {
+    "id": "snezhnaya",
+    "name": "至冬",
+    "color": "#7af2f2",
+    "icon": null,
+    "svgX": null,
+    "svgY": null,
+    "bg": "/images/icon/area/view/Snezhnaya.jpg",
+    "mapAvailable": false
+  },
+  {
+    "id": "other",
+    "name": "其他",
+    "color": "#a9a9a9",
+    "icon": null,
+    "bg": "/images/icon/area/view/other.png",
+    "mapAvailable": false
+  }
+]

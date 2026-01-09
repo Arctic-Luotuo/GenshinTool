@@ -1,0 +1,991 @@
+[
+  {
+    "id": "jean",
+    "name": "琴",
+    "emoji": "/images/character/emoji/0314-1.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "mondstadt",
+    "birthday": "03月14日",
+    "avatar": "/images/character/headshot/Mondstadt/Jean.webp"
+  },
+  {
+    "id": "amber",
+    "name": "安柏",
+    "emoji": "/images/character/emoji/0810.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "mondstadt",
+    "birthday": "08月10日",
+    "avatar": "/images/character/headshot/Mondstadt/Amber.webp"
+  },
+  {
+    "id": "lisa",
+    "name": "麗莎",
+    "emoji": "/images/character/emoji/0609.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "mondstadt",
+    "birthday": "06月09日",
+    "avatar": "/images/character/headshot/Mondstadt/Lisa.webp"
+  },
+  {
+    "id": "kaeya",
+    "name": "凱亞",
+    "emoji": "/images/character/emoji/1130.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "mondstadt",
+    "birthday": "11月30日",
+    "avatar": "/images/character/headshot/Mondstadt/Kaeya.webp"
+  },
+  {
+    "id": "barbara",
+    "name": "芭芭拉",
+    "emoji": "/images/character/emoji/0705.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "mondstadt",
+    "birthday": "07月05日",
+    "avatar": "/images/character/headshot/Mondstadt/Barbara.webp"
+  },
+  {
+    "id": "diluc",
+    "name": "迪盧克",
+    "emoji": "/images/character/emoji/0430.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "mondstadt",
+    "birthday": "04月30日",
+    "avatar": "/images/character/headshot/Mondstadt/Diluc.webp"
+  },
+  {
+    "id": "razor",
+    "name": "雷澤",
+    "emoji": "/images/character/emoji/0909.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "mondstadt",
+    "birthday": "09月09日",
+    "avatar": "/images/character/headshot/Mondstadt/Razor.webp"
+  },
+  {
+    "id": "venti",
+    "name": "溫迪",
+    "emoji": "/images/character/emoji/0616.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "mondstadt",
+    "birthday": "06月16日",
+    "avatar": "/images/character/headshot/Mondstadt/Venti.webp"
+  },
+  {
+    "id": "klee",
+    "name": "可莉",
+    "emoji": "/images/character/emoji/0727-2.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "mondstadt",
+    "birthday": "07月27日",
+    "avatar": "/images/character/headshot/Mondstadt/Klee.webp"
+  },
+  {
+    "id": "bennett",
+    "name": "班尼特",
+    "emoji": "/images/character/emoji/0229.webp",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "mondstadt",
+    "birthday": "02月29日",
+    "avatar": "/images/character/headshot/Mondstadt/Bennett.webp"
+  },
+  {
+    "id": "noelle",
+    "name": "諾艾爾",
+    "emoji": "/images/character/emoji/0321.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "mondstadt",
+    "birthday": "03月21日",
+    "avatar": "/images/character/headshot/Mondstadt/Noelle.webp"
+  },
+  {
+    "id": "fischl",
+    "name": "菲謝爾",
+    "emoji": "/images/character/emoji/0527.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "mondstadt",
+    "birthday": "05月27日",
+    "avatar": "/images/character/headshot/Mondstadt/Fischl.webp"
+  },
+  {
+    "id": "sucrose",
+    "name": "砂糖",
+    "emoji": "/images/character/emoji/1126.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "mondstadt",
+    "birthday": "11月26日",
+    "avatar": "/images/character/headshot/Mondstadt/Sucrose.webp"
+  },
+  {
+    "id": "mona",
+    "name": "莫娜",
+    "emoji": "/images/character/emoji/0831.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "mondstadt",
+    "birthday": "08月31日",
+    "avatar": "/images/character/headshot/Mondstadt/Mona.webp"
+  },
+  {
+    "id": "diona",
+    "name": "迪奧娜",
+    "emoji": "/images/character/emoji/0118.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "mondstadt",
+    "birthday": "01月18日",
+    "avatar": "/images/character/headshot/Mondstadt/Diona.webp"
+  },
+  {
+    "id": "albedo",
+    "name": "阿貝多",
+    "emoji": "/images/character/emoji/0913.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "mondstadt",
+    "birthday": "09月13日",
+    "avatar": "/images/character/headshot/Mondstadt/Albedo.webp"
+  },
+  {
+    "id": "rosaria",
+    "name": "蘿莎莉亞",
+    "emoji": "/images/character/emoji/0124.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "mondstadt",
+    "birthday": "01月24日",
+    "avatar": "/images/character/headshot/Mondstadt/Rosaria.webp"
+  },
+  {
+    "id": "eula",
+    "name": "優菈",
+    "emoji": "/images/character/emoji/1025.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "mondstadt",
+    "birthday": "10月25日",
+    "avatar": "/images/character/headshot/Mondstadt/Eula.webp"
+  },
+  {
+    "id": "mika",
+    "name": "米卡",
+    "emoji": "/images/character/emoji/0811.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "mondstadt",
+    "birthday": "08月11日",
+    "avatar": "/images/character/headshot/Mondstadt/Mika.webp"
+  },
+  {
+    "id": "dahlia",
+    "name": "塔利雅",
+    "emoji": "/images/character/emoji/0525.webp",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "mondstadt",
+    "birthday": "05月25日",
+    "avatar": "/images/character/headshot/Mondstadt/Dahlia.webp"
+  },
+  {
+    "id": "durin",
+    "name": "杜林",
+    "emoji": "/images/character/emoji/0314-2.webp",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "mondstadt",
+    "birthday": "03月14日",
+    "avatar": "/images/character/headshot/Mondstadt/Durin.webp"
+  },
+  {
+    "id": "xiao",
+    "name": "魈",
+    "emoji": "/images/character/emoji/0417.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "liyue",
+    "birthday": "04月17日",
+    "avatar": "/images/character/headshot/Liyue/Xiao.webp"
+  },
+  {
+    "id": "beidou",
+    "name": "北斗",
+    "emoji": "/images/character/emoji/0214.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "liyue",
+    "birthday": "02月14日",
+    "avatar": "/images/character/headshot/Liyue/Beidou.webp"
+  },
+  {
+    "id": "ningguang",
+    "name": "凝光",
+    "emoji": "/images/character/emoji/0826.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "liyue",
+    "birthday": "08月26日",
+    "avatar": "/images/character/headshot/Liyue/Ningguang.webp"
+  },
+  {
+    "id": "xiangling",
+    "name": "香菱",
+    "emoji": "/images/character/emoji/1102.webp",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "liyue",
+    "birthday": "11月02日",
+    "avatar": "/images/character/headshot/Liyue/Xiangling.webp"
+  },
+  {
+    "id": "xingqiu",
+    "name": "行秋",
+    "emoji": "/images/character/emoji/1009.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "liyue",
+    "birthday": "10月09日",
+    "avatar": "/images/character/headshot/Liyue/Xingqiu.webp"
+  },
+  {
+    "id": "chongyun",
+    "name": "重雲",
+    "emoji": "/images/character/emoji/0907.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "liyue",
+    "birthday": "09月07日",
+    "avatar": "/images/character/headshot/Liyue/Chongyun.webp"
+  },
+  {
+    "id": "qiqi",
+    "name": "七七",
+    "emoji": "/images/character/emoji/0303.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "liyue",
+    "birthday": "03月03日",
+    "avatar": "/images/character/headshot/Liyue/Qiqi.webp"
+  },
+  {
+    "id": "keqing",
+    "name": "刻晴",
+    "emoji": "/images/character/emoji/1120.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "liyue",
+    "birthday": "11月20日",
+    "avatar": "/images/character/headshot/Liyue/Keqing.webp"
+  },
+  {
+    "id": "zhongli",
+    "name": "鍾離",
+    "emoji": "/images/character/emoji/1231.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "liyue",
+    "birthday": "12月31日",
+    "avatar": "/images/character/headshot/Liyue/Zhongli.webp"
+  },
+  {
+    "id": "xinyan",
+    "name": "辛焱",
+    "emoji": "/images/character/emoji/1016.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "liyue",
+    "birthday": "10月16日",
+    "avatar": "/images/character/headshot/Liyue/Xinyan.webp"
+  },
+  {
+    "id": "ganyu",
+    "name": "甘雨",
+    "emoji": "/images/character/emoji/1202.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "liyue",
+    "birthday": "12月02日",
+    "avatar": "/images/character/headshot/Liyue/Ganyu.webp"
+  },
+  {
+    "id": "hutao",
+    "name": "胡桃",
+    "emoji": "/images/character/emoji/0715.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "liyue",
+    "birthday": "07月15日",
+    "avatar": "/images/character/headshot/Liyue/HuTao.webp"
+  },
+  {
+    "id": "yanfei",
+    "name": "煙緋",
+    "emoji": "/images/character/emoji/0728.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "liyue",
+    "birthday": "07月28日",
+    "avatar": "/images/character/headshot/Liyue/Yanfei.webp"
+  },
+  {
+    "id": "shenhe",
+    "name": "申鶴",
+    "emoji": "/images/character/emoji/0310.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "liyue",
+    "birthday": "03月10日",
+    "avatar": "/images/character/headshot/Liyue/Shenhe.webp"
+  },
+  {
+    "id": "yunjin",
+    "name": "雲堇",
+    "emoji": "/images/character/emoji/0521.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "liyue",
+    "birthday": "05月21日",
+    "avatar": "/images/character/headshot/Liyue/YunJin.webp"
+  },
+  {
+    "id": "yelan",
+    "name": "夜蘭",
+    "emoji": "/images/character/emoji/0420.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "liyue",
+    "birthday": "04月20日",
+    "avatar": "/images/character/headshot/Liyue/Yelan.webp"
+  },
+  {
+    "id": "yaoyao",
+    "name": "瑤瑤",
+    "emoji": "/images/character/emoji/0306.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "liyue",
+    "birthday": "03月06日",
+    "avatar": "/images/character/headshot/Liyue/Yaoyao.webp"
+  },
+  {
+    "id": "baizhu",
+    "name": "白术",
+    "emoji": "/images/character/emoji/0425.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "liyue",
+    "birthday": "04月25日",
+    "avatar": "/images/character/headshot/Liyue/Baizhu.webp"
+  },
+  {
+    "id": "xianyun",
+    "name": "閒雲",
+    "emoji": "/images/character/emoji/0411.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "liyue",
+    "birthday": "04月11日",
+    "avatar": "/images/character/headshot/Liyue/Xianyun.webp"
+  },
+  {
+    "id": "gaming",
+    "name": "嘉明",
+    "emoji": "/images/character/emoji/1222.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "liyue",
+    "birthday": "12月22日",
+    "avatar": "/images/character/headshot/Liyue/Gaming.webp"
+  },
+  {
+    "id": "lanyan",
+    "name": "藍硯",
+    "emoji": "/images/character/emoji/0106.webp",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "liyue",
+    "birthday": "01月06日",
+    "avatar": "/images/character/headshot/Liyue/LanYan.webp"
+  },
+  {
+    "id": "zibai",
+    "name": "茲白",
+    "emoji": null,
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "liyue",
+    "birthday": "??月??日",
+    "avatar": "/images/character/new/Zibai.webp"
+  },
+  {
+    "id": "kamisato-ayaka",
+    "name": "神里綾華",
+    "emoji": "/images/character/emoji/0928.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "inazuma",
+    "birthday": "09月28日",
+    "avatar": "/images/character/headshot/Inazuma/Kamisato-Ayaka.webp"
+  },
+  {
+    "id": "kaedehara-kazuha",
+    "name": "楓原萬葉",
+    "emoji": "/images/character/emoji/1029.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "inazuma",
+    "birthday": "10月29日",
+    "avatar": "/images/character/headshot/Inazuma/Kaedehara-Kazuha.webp"
+  },
+  {
+    "id": "yoimiya",
+    "name": "宵宮",
+    "emoji": "/images/character/emoji/0621.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "inazuma",
+    "birthday": "06月21日",
+    "avatar": "/images/character/headshot/Inazuma/Yoimiya.webp"
+  },
+  {
+    "id": "sayu",
+    "name": "早柚",
+    "emoji": "/images/character/emoji/1019.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "inazuma",
+    "birthday": "10月19日",
+    "avatar": "/images/character/headshot/Inazuma/Sayu.webp"
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "雷電影",
+    "emoji": "/images/character/emoji/0626.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "inazuma",
+    "birthday": "06月26日",
+    "avatar": "/images/character/headshot/Inazuma/Raiden-Shogun.webp"
+  },
+  {
+    "id": "kujou-sara",
+    "name": "九條裟羅",
+    "emoji": "/images/character/emoji/0714.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "inazuma",
+    "birthday": "07月14日",
+    "avatar": "/images/character/headshot/Inazuma/Kujou-Sara.webp"
+  },
+  {
+    "id": "sangonomiya-kokomi",
+    "name": "珊瑚宮心海",
+    "emoji": "/images/character/emoji/0222.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "inazuma",
+    "birthday": "02月22日",
+    "avatar": "/images/character/headshot/Inazuma/Sangonomiya-Kokomi.webp"
+  },
+  {
+    "id": "thoma",
+    "name": "托馬",
+    "emoji": "/images/character/emoji/0109.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "inazuma",
+    "birthday": "01月09日",
+    "avatar": "/images/character/headshot/Inazuma/Thoma.webp"
+  },
+  {
+    "id": "arataki-itto",
+    "name": "荒瀧一斗",
+    "emoji": "/images/character/emoji/0601-1.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "inazuma",
+    "birthday": "06月01日",
+    "avatar": "/images/character/headshot/Inazuma/Arataki-Itto.webp"
+  },
+  {
+    "id": "gorou",
+    "name": "五郎",
+    "emoji": "/images/character/emoji/0518.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "inazuma",
+    "birthday": "05月18日",
+    "avatar": "/images/character/headshot/Inazuma/Gorou.webp"
+  },
+  {
+    "id": "yae-miko",
+    "name": "八重神子",
+    "emoji": "/images/character/emoji/0627.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "inazuma",
+    "birthday": "06月27日",
+    "avatar": "/images/character/headshot/Inazuma/Yae-Miko.webp"
+  },
+  {
+    "id": "kamisato-ayato",
+    "name": "神里綾人",
+    "emoji": "/images/character/emoji/0326.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "inazuma",
+    "birthday": "03月26日",
+    "avatar": "/images/character/headshot/Inazuma/Kamisato-Ayato.webp"
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "久岐忍",
+    "emoji": "/images/character/emoji/0727-1.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "inazuma",
+    "birthday": "07月27日",
+    "avatar": "/images/character/headshot/Inazuma/Kuki-Shinobu.webp"
+  },
+  {
+    "id": "shikanoin-heizou",
+    "name": "鹿野院平藏",
+    "emoji": "/images/character/emoji/0724.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "inazuma",
+    "birthday": "07月24日",
+    "avatar": "/images/character/headshot/Inazuma/Shikanoin-Heizou.webp"
+  },
+  {
+    "id": "kirara",
+    "name": "綺良良",
+    "emoji": "/images/character/emoji/0122.webp",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "inazuma",
+    "birthday": "01月22日",
+    "avatar": "/images/character/headshot/Inazuma/Kirara.webp"
+  },
+  {
+    "id": "yumemizuki-mizuki",
+    "name": "夢見月瑞希",
+    "emoji": "/images/character/emoji/0316.webp",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "inazuma",
+    "birthday": "03月16日",
+    "avatar": "/images/character/headshot/Inazuma/Yumemizuki-Mizuki.webp"
+  },
+  {
+    "id": "tighnari",
+    "name": "提納里",
+    "emoji": "/images/character/emoji/1229.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "sumeru",
+    "birthday": "12月29日",
+    "avatar": "/images/character/headshot/Sumeru/Tighnari.webp"
+  },
+  {
+    "id": "collei",
+    "name": "柯萊",
+    "emoji": "/images/character/emoji/0508.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "sumeru",
+    "birthday": "05月08日",
+    "avatar": "/images/character/headshot/Sumeru/Collei.webp"
+  },
+  {
+    "id": "dori",
+    "name": "多莉",
+    "emoji": "/images/character/emoji/1221.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "sumeru",
+    "birthday": "12月21日",
+    "avatar": "/images/character/headshot/Sumeru/Dori.webp"
+  },
+  {
+    "id": "cyno",
+    "name": "賽諾",
+    "emoji": "/images/character/emoji/0623.png",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "sumeru",
+    "birthday": "06月23日",
+    "avatar": "/images/character/headshot/Sumeru/Cyno.webp"
+  },
+  {
+    "id": "candace",
+    "name": "坎蒂絲",
+    "emoji": "/images/character/emoji/0503.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "sumeru",
+    "birthday": "05月03日",
+    "avatar": "/images/character/headshot/Sumeru/Candace.webp"
+  },
+  {
+    "id": "nilou",
+    "name": "妮露",
+    "emoji": "/images/character/emoji/1203.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "sumeru",
+    "birthday": "12月03日",
+    "avatar": "/images/character/headshot/Sumeru/Nilou.webp"
+  },
+  {
+    "id": "nahida",
+    "name": "納西妲",
+    "emoji": "/images/character/emoji/1027.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "sumeru",
+    "birthday": "10月27日",
+    "avatar": "/images/character/headshot/Sumeru/Nahida.webp"
+  },
+  {
+    "id": "layla",
+    "name": "萊依拉",
+    "emoji": "/images/character/emoji/1219.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "sumeru",
+    "birthday": "12月19日",
+    "avatar": "/images/character/headshot/Sumeru/Layla.webp"
+  },
+  {
+    "id": "wanderer",
+    "name": "阿帽",
+    "emoji": "/images/character/emoji/0103.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "sumeru",
+    "birthday": "01月03日",
+    "avatar": "/images/character/headshot/Sumeru/Wanderer.webp"
+  },
+  {
+    "id": "faruzan",
+    "name": "琺露珊",
+    "emoji": "/images/character/emoji/0820.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "sumeru",
+    "birthday": "08月20日",
+    "avatar": "/images/character/headshot/Sumeru/Faruzan.webp"
+  },
+  {
+    "id": "alhaitham",
+    "name": "艾爾海森",
+    "emoji": "/images/character/emoji/0211.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "sumeru",
+    "birthday": "02月11日",
+    "avatar": "/images/character/headshot/Sumeru/Alhaitham.webp"
+  },
+  {
+    "id": "dehya",
+    "name": "迪希雅",
+    "emoji": "/images/character/emoji/0407.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "sumeru",
+    "birthday": "04月07日",
+    "avatar": "/images/character/headshot/Sumeru/Dehya.webp"
+  },
+  {
+    "id": "kaveh",
+    "name": "卡維",
+    "emoji": "/images/character/emoji/0709.png",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "sumeru",
+    "birthday": "07月09日",
+    "avatar": "/images/character/headshot/Sumeru/Kaveh.webp"
+  },
+  {
+    "id": "sethos",
+    "name": "賽索斯",
+    "emoji": "/images/character/emoji/0531.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "sumeru",
+    "birthday": "05月31日",
+    "avatar": "/images/character/headshot/Sumeru/Sethos.webp"
+  },
+  {
+    "id": "lyney",
+    "name": "林尼",
+    "emoji": "/images/character/emoji/0202-1.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "fontaine",
+    "birthday": "02月02日",
+    "avatar": "/images/character/headshot/Fontaine/Lyney.webp"
+  },
+  {
+    "id": "lynette",
+    "name": "琳妮特",
+    "emoji": "/images/character/emoji/0202-2.png",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "fontaine",
+    "birthday": "02月02日",
+    "avatar": "/images/character/headshot/Fontaine/Lynette.webp"
+  },
+  {
+    "id": "freminet",
+    "name": "菲米尼",
+    "emoji": "/images/character/emoji/0924.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "fontaine",
+    "birthday": "09月24日",
+    "avatar": "/images/character/headshot/Fontaine/Freminet.webp"
+  },
+  {
+    "id": "neuvillette",
+    "name": "那維萊特",
+    "emoji": "/images/character/emoji/1218.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "fontaine",
+    "birthday": "12月18日",
+    "avatar": "/images/character/headshot/Fontaine/Neuvillette.webp"
+  },
+  {
+    "id": "wriothesley",
+    "name": "萊歐斯利",
+    "emoji": "/images/character/emoji/1123.webp",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "fontaine",
+    "birthday": "11月23日",
+    "avatar": "/images/character/headshot/Fontaine/Wriothesley.webp"
+  },
+  {
+    "id": "charlotte",
+    "name": "夏洛蒂",
+    "emoji": "/images/character/emoji/0410.png",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "fontaine",
+    "birthday": "04月10日",
+    "avatar": "/images/character/headshot/Fontaine/Charlotte.webp"
+  },
+  {
+    "id": "furina",
+    "name": "芙寧娜",
+    "emoji": "/images/character/emoji/1013.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "fontaine",
+    "birthday": "10月13日",
+    "avatar": "/images/character/headshot/Fontaine/Furina.webp"
+  },
+  {
+    "id": "navia",
+    "name": "娜薇婭",
+    "emoji": "/images/character/emoji/0816.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "fontaine",
+    "birthday": "08月16日",
+    "avatar": "/images/character/headshot/Fontaine/Navia.webp"
+  },
+  {
+    "id": "chevreuse",
+    "name": "夏沃蕾",
+    "emoji": "/images/character/emoji/0110.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "fontaine",
+    "birthday": "01月10日",
+    "avatar": "/images/character/headshot/Fontaine/Chevreuse.webp"
+  },
+  {
+    "id": "chiori",
+    "name": "千織",
+    "emoji": "/images/character/emoji/0817.png",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "fontaine",
+    "birthday": "08月17日",
+    "avatar": "/images/character/headshot/Fontaine/Chiori.webp"
+  },
+  {
+    "id": "arlecchino",
+    "name": "阿蕾奇諾",
+    "emoji": "/images/character/emoji/0822.png",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "fontaine",
+    "birthday": "08月22日",
+    "avatar": "/images/character/headshot/Fontaine/Arlecchino.webp"
+  },
+  {
+    "id": "clorinde",
+    "name": "克洛琳德",
+    "emoji": "/images/character/emoji/0920.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "fontaine",
+    "birthday": "09月20日",
+    "avatar": "/images/character/headshot/Fontaine/Clorinde.webp"
+  },
+  {
+    "id": "sigewinne",
+    "name": "希格雯",
+    "emoji": "/images/character/emoji/0330.webp",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "fontaine",
+    "birthday": "03月30日",
+    "avatar": "/images/character/headshot/Fontaine/Sigewinne.webp"
+  },
+  {
+    "id": "emilie",
+    "name": "艾梅莉埃",
+    "emoji": "/images/character/emoji/0922.webp",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "fontaine",
+    "birthday": "09月22日",
+    "avatar": "/images/character/headshot/Fontaine/Emilie.webp"
+  },
+  {
+    "id": "escoffier",
+    "name": "愛可菲",
+    "emoji": "/images/character/emoji/0608.webp",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "fontaine",
+    "birthday": "06月08日",
+    "avatar": "/images/character/headshot/Fontaine/Escoffier.webp"
+  },
+  {
+    "id": "mualani",
+    "name": "瑪拉妮",
+    "emoji": "/images/character/emoji/0803.webp",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "natlan",
+    "birthday": "08月03日",
+    "avatar": "/images/character/headshot/Natlan/Mualani.webp"
+  },
+  {
+    "id": "kachina",
+    "name": "卡齊娜",
+    "emoji": "/images/character/emoji/0422.webp",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "natlan",
+    "birthday": "04月22日",
+    "avatar": "/images/character/headshot/Natlan/Kachina.webp"
+  },
+  {
+    "id": "kinich",
+    "name": "基尼奇",
+    "emoji": "/images/character/emoji/1111.webp",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "natlan",
+    "birthday": "11月11日",
+    "avatar": "/images/character/headshot/Natlan/Kinich.webp"
+  },
+  {
+    "id": "xilonen",
+    "name": "希諾寧",
+    "emoji": "/images/character/emoji/0313.webp",
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "natlan",
+    "birthday": "03月13日",
+    "avatar": "/images/character/headshot/Natlan/Xilonen.webp"
+  },
+  {
+    "id": "chasca",
+    "name": "恰斯卡",
+    "emoji": "/images/character/emoji/1210.webp",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "natlan",
+    "birthday": "12月10日",
+    "avatar": "/images/character/headshot/Natlan/Chasca.webp"
+  },
+  {
+    "id": "ororon",
+    "name": "歐洛倫",
+    "emoji": "/images/character/emoji/1014.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "natlan",
+    "birthday": "10月14日",
+    "avatar": "/images/character/headshot/Natlan/Ororon.webp"
+  },
+  {
+    "id": "citlali",
+    "name": "茜特菈莉",
+    "emoji": "/images/character/emoji/0120.webp",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "natlan",
+    "birthday": "01月20日",
+    "avatar": "/images/character/headshot/Natlan/Citlali.webp"
+  },
+  {
+    "id": "mavuika",
+    "name": "瑪薇卡",
+    "emoji": "/images/character/emoji/0828.webp",
+    "element": "/images/icon/elemental/white/火.png",
+    "regionId": "natlan",
+    "birthday": "08月28日",
+    "avatar": "/images/character/headshot/Natlan/Mavuika.webp"
+  },
+  {
+    "id": "varesa",
+    "name": "瓦雷莎",
+    "emoji": "/images/character/emoji/1115.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "natlan",
+    "birthday": "11月15日",
+    "avatar": "/images/character/headshot/Natlan/Varesa.webp"
+  },
+  {
+    "id": "iansan",
+    "name": "伊安珊",
+    "emoji": "/images/character/emoji/0808.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "natlan",
+    "birthday": "08月08日",
+    "avatar": "/images/character/headshot/Natlan/Iansan.webp"
+  },
+  {
+    "id": "ifa",
+    "name": "伊法",
+    "emoji": "/images/character/emoji/0323.webp",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "natlan",
+    "birthday": "03月23日",
+    "avatar": "/images/character/headshot/Natlan/Ifa.webp"
+  },
+  {
+    "id": "ineffa",
+    "name": "伊涅芙",
+    "emoji": "/images/character/emoji/0402.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "nod-krai",
+    "birthday": "04月02日",
+    "avatar": "/images/character/headshot/Nod-Krai/Ineffa.webp"
+  },
+  {
+    "id": "lauma",
+    "name": "菈烏瑪",
+    "emoji": "/images/character/emoji/0301.webp",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "nod-krai",
+    "birthday": "03月01日",
+    "avatar": "/images/character/headshot/Nod-Krai/Lauma.webp"
+  },
+  {
+    "id": "aino",
+    "name": "愛諾",
+    "emoji": "/images/character/emoji/0921.webp",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "nod-krai",
+    "birthday": "09月21日",
+    "avatar": "/images/character/headshot/Nod-Krai/Aino.webp"
+  },
+  {
+    "id": "flins",
+    "name": "菲林斯",
+    "emoji": "/images/character/emoji/1031.webp",
+    "element": "/images/icon/elemental/white/雷.png",
+    "regionId": "nod-krai",
+    "birthday": "10月31日",
+    "avatar": "/images/character/headshot/Nod-Krai/Flins.webp"
+  },
+  {
+    "id": "nefer",
+    "name": "奈芙爾",
+    "emoji": "/images/character/emoji/0509.webp",
+    "element": "/images/icon/elemental/white/草.png",
+    "regionId": "nod-krai",
+    "birthday": "05月09日",
+    "avatar": "/images/character/headshot/Nod-Krai/Nefer.webp"
+  },
+  {
+    "id": "jahoda",
+    "name": "雅珂達",
+    "emoji": "/images/character/emoji/0105.webp",
+    "element": "/images/icon/elemental/white/風.png",
+    "regionId": "nod-krai",
+    "birthday": "01月05日",
+    "avatar": "/images/character/headshot/Nod-Krai/Jahoda.webp"
+  },
+  {
+    "id": "columbina-hyposelenia",
+    "name": "哥倫比婭",
+    "emoji": null,
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "nod-krai",
+    "birthday": "??月??日",
+    "avatar": "/images/character/new/Columbina-Hyposelenia.webp"
+  },{
+    "id": "illuga",
+    "name": "葉洛亞",
+    "emoji": null,
+    "element": "/images/icon/elemental/white/岩.png",
+    "regionId": "nod-krai",
+    "birthday": "??月??日",
+    "avatar": "/images/character/new/Illuga.webp"
+  },
+  {
+    "id": "tartaglia",
+    "name": "達達利亞",
+    "emoji": "/images/character/emoji/0720.png",
+    "element": "/images/icon/elemental/white/水.png",
+    "regionId": "snezhnaya",
+    "birthday": "07月20日",
+    "avatar": "/images/character/headshot/Snezhnaya/Tartaglia.webp"
+  },
+  {
+    "id": "paimon",
+    "name": "派蒙",
+    "emoji": "/images/character/emoji/0601-2.png",
+    "element": null,
+    "regionId": "other",
+    "birthday": "06月01日",
+    "avatar": "/images/character/headshot/other/Paimon.webp"
+  },
+  {
+    "id": "skirk",
+    "name": "絲柯克",
+    "emoji": "/images/character/emoji/1105.webp",
+    "element": "/images/icon/elemental/white/冰.png",
+    "regionId": "other",
+    "birthday": "11月05日",
+    "avatar": "/images/character/headshot/other/Skirk.webp"
+  }
+]

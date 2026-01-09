@@ -1,0 +1,36 @@
+/* 導覽列 */
+.sidebar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 150%;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 10; /* 疊在背景上 */
+}
+
+@media (min-width: 768px) {
+  .sidebar {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 150px; /* md:w-32 */
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 1.5rem;
+  }
+}
+
+/* 信件圖示 */
+.mail-icon {
+  width: 80px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.mail-icon:hover {
+  transform: scale(1.1);
+}
