@@ -26,7 +26,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
                  L910,170 L910,240 L950,320 L1020,380 L1110,380 Z`,className:"cursor-pointer fill-transparent",style:{transition:"fill 0.2s"},onMouseEnter:h=>r(h,f),onMouseLeave:s,onClick:()=>c(f)})})(),(()=>{const f=i("natlan");return Y.jsx("path",{d:`M825,590 L810,550 L630,550 L625,540 L665,470 L660,460 L570,400 L410,380 L290,380 L200,285 L130,300 \r
                  L100,270 L40,275 L26,340 L60,385 L45,425 L310,700 L310,810 L480,840 L650,750 \r
                  L750,720 L770,620 Z`,className:"cursor-pointer fill-transparent",style:{transition:"fill 0.2s"},onMouseEnter:h=>r(h,f),onMouseLeave:s,onClick:()=>c(f)})})(),(()=>{const f=i("nod-krai");return Y.jsx("path",{d:`M380,250 L400,150 L420,100 L460,70 L590,70 L650,100 L710,200 L690,280 \r
-                 L640,320 L630,360 L400,350 Z`,className:"cursor-pointer fill-transparent",style:{transition:"fill 0.2s"},onMouseEnter:h=>r(h,f),onMouseLeave:s,onClick:()=>c(f)})})()]})]})}const lT=JSON.parse('[{"id":"jean","name":"琴","emoji":"images/character/emoji/0314-1.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"03月14日","avatar":"images/character/headshot/Mondstadt/Jean.webp"},{"id":"amber","name":"安柏","emoji":"images/character/emoji/0810.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"08月10日","avatar":"images/character/headshot/Mondstadt/Amber.webp"},{"id":"lisa","name":"麗莎","emoji":"images/character/emoji/0609.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"06月09日","avatar":"images/character/headshot/Mondstadt/Lisa.webp"},{"id":"kaeya","name":"凱亞","emoji":"images/character/emoji/1130.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"11月30日","avatar":"images/character/headshot/Mondstadt/Kaeya.webp"},{"id":"barbara","name":"芭芭拉","emoji":"images/character/emoji/0705.png","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"07月05日","avatar":"images/character/headshot/Mondstadt/Barbara.webp"},{"id":"diluc","name":"迪盧克","emoji":"images/character/emoji/0430.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"04月30日","avatar":"images/character/headshot/Mondstadt/Diluc.webp"},{"id":"razor","name":"雷澤","emoji":"images/character/emoji/0909.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"09月09日","avatar":"images/character/headshot/Mondstadt/Razor.webp"},{"id":"venti","name":"溫迪","emoji":"images/character/emoji/0616.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"06月16日","avatar":"images/character/headshot/Mondstadt/Venti.webp"},{"id":"klee","name":"可莉","emoji":"images/character/emoji/0727-2.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"07月27日","avatar":"images/character/headshot/Mondstadt/Klee.webp"},{"id":"bennett","name":"班尼特","emoji":"images/character/emoji/0229.webp","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"02月29日","avatar":"images/character/headshot/Mondstadt/Bennett.webp"},{"id":"noelle","name":"諾艾爾","emoji":"images/character/emoji/0321.png","element":"images/icon/elemental/white/岩.png","regionId":"mondstadt","birthday":"03月21日","avatar":"images/character/headshot/Mondstadt/Noelle.webp"},{"id":"fischl","name":"菲謝爾","emoji":"images/character/emoji/0527.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"05月27日","avatar":"images/character/headshot/Mondstadt/Fischl.webp"},{"id":"sucrose","name":"砂糖","emoji":"images/character/emoji/1126.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"11月26日","avatar":"images/character/headshot/Mondstadt/Sucrose.webp"},{"id":"mona","name":"莫娜","emoji":"images/character/emoji/0831.png","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"08月31日","avatar":"images/character/headshot/Mondstadt/Mona.webp"},{"id":"diona","name":"迪奧娜","emoji":"images/character/emoji/0118.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"01月18日","avatar":"images/character/headshot/Mondstadt/Diona.webp"},{"id":"albedo","name":"阿貝多","emoji":"images/character/emoji/0913.png","element":"images/icon/elemental/white/岩.png","regionId":"mondstadt","birthday":"09月13日","avatar":"images/character/headshot/Mondstadt/Albedo.webp"},{"id":"rosaria","name":"蘿莎莉亞","emoji":"images/character/emoji/0124.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"01月24日","avatar":"images/character/headshot/Mondstadt/Rosaria.webp"},{"id":"eula","name":"優菈","emoji":"images/character/emoji/1025.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"10月25日","avatar":"images/character/headshot/Mondstadt/Eula.webp"},{"id":"mika","name":"米卡","emoji":"images/character/emoji/0811.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"08月11日","avatar":"images/character/headshot/Mondstadt/Mika.webp"},{"id":"dahlia","name":"塔利雅","emoji":"images/character/emoji/0525.webp","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"05月25日","avatar":"images/character/headshot/Mondstadt/Dahlia.webp"},{"id":"durin","name":"杜林","emoji":"images/character/emoji/0314-2.webp","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"03月14日","avatar":"images/character/headshot/Mondstadt/Durin.webp"},{"id":"xiao","name":"魈","emoji":"images/character/emoji/0417.png","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"04月17日","avatar":"images/character/headshot/Liyue/Xiao.webp"},{"id":"beidou","name":"北斗","emoji":"images/character/emoji/0214.png","element":"images/icon/elemental/white/雷.png","regionId":"liyue","birthday":"02月14日","avatar":"images/character/headshot/Liyue/Beidou.webp"},{"id":"ningguang","name":"凝光","emoji":"images/character/emoji/0826.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"08月26日","avatar":"images/character/headshot/Liyue/Ningguang.webp"},{"id":"xiangling","name":"香菱","emoji":"images/character/emoji/1102.webp","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"11月02日","avatar":"images/character/headshot/Liyue/Xiangling.webp"},{"id":"xingqiu","name":"行秋","emoji":"images/character/emoji/1009.png","element":"images/icon/elemental/white/水.png","regionId":"liyue","birthday":"10月09日","avatar":"images/character/headshot/Liyue/Xingqiu.webp"},{"id":"chongyun","name":"重雲","emoji":"images/character/emoji/0907.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"09月07日","avatar":"images/character/headshot/Liyue/Chongyun.webp"},{"id":"qiqi","name":"七七","emoji":"images/character/emoji/0303.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"03月03日","avatar":"images/character/headshot/Liyue/Qiqi.webp"},{"id":"keqing","name":"刻晴","emoji":"images/character/emoji/1120.png","element":"images/icon/elemental/white/雷.png","regionId":"liyue","birthday":"11月20日","avatar":"images/character/headshot/Liyue/Keqing.webp"},{"id":"zhongli","name":"鍾離","emoji":"images/character/emoji/1231.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"12月31日","avatar":"images/character/headshot/Liyue/Zhongli.webp"},{"id":"xinyan","name":"辛焱","emoji":"images/character/emoji/1016.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"10月16日","avatar":"images/character/headshot/Liyue/Xinyan.webp"},{"id":"ganyu","name":"甘雨","emoji":"images/character/emoji/1202.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"12月02日","avatar":"images/character/headshot/Liyue/Ganyu.webp"},{"id":"hutao","name":"胡桃","emoji":"images/character/emoji/0715.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"07月15日","avatar":"images/character/headshot/Liyue/HuTao.webp"},{"id":"yanfei","name":"煙緋","emoji":"images/character/emoji/0728.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"07月28日","avatar":"images/character/headshot/Liyue/Yanfei.webp"},{"id":"shenhe","name":"申鶴","emoji":"images/character/emoji/0310.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"03月10日","avatar":"images/character/headshot/Liyue/Shenhe.webp"},{"id":"yunjin","name":"雲堇","emoji":"images/character/emoji/0521.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"05月21日","avatar":"images/character/headshot/Liyue/YunJin.webp"},{"id":"yelan","name":"夜蘭","emoji":"images/character/emoji/0420.png","element":"images/icon/elemental/white/水.png","regionId":"liyue","birthday":"04月20日","avatar":"images/character/headshot/Liyue/Yelan.webp"},{"id":"yaoyao","name":"瑤瑤","emoji":"images/character/emoji/0306.png","element":"images/icon/elemental/white/草.png","regionId":"liyue","birthday":"03月06日","avatar":"images/character/headshot/Liyue/Yaoyao.webp"},{"id":"baizhu","name":"白术","emoji":"images/character/emoji/0425.png","element":"images/icon/elemental/white/草.png","regionId":"liyue","birthday":"04月25日","avatar":"images/character/headshot/Liyue/Baizhu.webp"},{"id":"xianyun","name":"閒雲","emoji":"images/character/emoji/0411.png","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"04月11日","avatar":"images/character/headshot/Liyue/Xianyun.webp"},{"id":"gaming","name":"嘉明","emoji":"images/character/emoji/1222.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"12月22日","avatar":"images/character/headshot/Liyue/Gaming.webp"},{"id":"lanyan","name":"藍硯","emoji":"images/character/emoji/0106.webp","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"01月06日","avatar":"images/character/headshot/Liyue/LanYan.webp"},{"id":"zibai","name":"茲白","emoji":"images/character/emoji/0315.webp","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"03月15日","avatar":"images/character/new/Zibai.webp"},{"id":"kamisato-ayaka","name":"神里綾華","emoji":"images/character/emoji/0928.png","element":"images/icon/elemental/white/冰.png","regionId":"inazuma","birthday":"09月28日","avatar":"images/character/headshot/Inazuma/Kamisato-Ayaka.webp"},{"id":"kaedehara-kazuha","name":"楓原萬葉","emoji":"images/character/emoji/1029.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"10月29日","avatar":"images/character/headshot/Inazuma/Kaedehara-Kazuha.webp"},{"id":"yoimiya","name":"宵宮","emoji":"images/character/emoji/0621.png","element":"images/icon/elemental/white/火.png","regionId":"inazuma","birthday":"06月21日","avatar":"images/character/headshot/Inazuma/Yoimiya.webp"},{"id":"sayu","name":"早柚","emoji":"images/character/emoji/1019.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"10月19日","avatar":"images/character/headshot/Inazuma/Sayu.webp"},{"id":"raiden-shogun","name":"雷電影","emoji":"images/character/emoji/0626.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"06月26日","avatar":"images/character/headshot/Inazuma/Raiden-Shogun.webp"},{"id":"kujou-sara","name":"九條裟羅","emoji":"images/character/emoji/0714.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"07月14日","avatar":"images/character/headshot/Inazuma/Kujou-Sara.webp"},{"id":"sangonomiya-kokomi","name":"珊瑚宮心海","emoji":"images/character/emoji/0222.png","element":"images/icon/elemental/white/水.png","regionId":"inazuma","birthday":"02月22日","avatar":"images/character/headshot/Inazuma/Sangonomiya-Kokomi.webp"},{"id":"thoma","name":"托馬","emoji":"images/character/emoji/0109.png","element":"images/icon/elemental/white/火.png","regionId":"inazuma","birthday":"01月09日","avatar":"images/character/headshot/Inazuma/Thoma.webp"},{"id":"arataki-itto","name":"荒瀧一斗","emoji":"images/character/emoji/0601-1.png","element":"images/icon/elemental/white/岩.png","regionId":"inazuma","birthday":"06月01日","avatar":"images/character/headshot/Inazuma/Arataki-Itto.webp"},{"id":"gorou","name":"五郎","emoji":"images/character/emoji/0518.png","element":"images/icon/elemental/white/岩.png","regionId":"inazuma","birthday":"05月18日","avatar":"images/character/headshot/Inazuma/Gorou.webp"},{"id":"yae-miko","name":"八重神子","emoji":"images/character/emoji/0627.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"06月27日","avatar":"images/character/headshot/Inazuma/Yae-Miko.webp"},{"id":"kamisato-ayato","name":"神里綾人","emoji":"images/character/emoji/0326.png","element":"images/icon/elemental/white/水.png","regionId":"inazuma","birthday":"03月26日","avatar":"images/character/headshot/Inazuma/Kamisato-Ayato.webp"},{"id":"kuki-shinobu","name":"久岐忍","emoji":"images/character/emoji/0727-1.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"07月27日","avatar":"images/character/headshot/Inazuma/Kuki-Shinobu.webp"},{"id":"shikanoin-heizou","name":"鹿野院平藏","emoji":"images/character/emoji/0724.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"07月24日","avatar":"images/character/headshot/Inazuma/Shikanoin-Heizou.webp"},{"id":"kirara","name":"綺良良","emoji":"images/character/emoji/0122.webp","element":"images/icon/elemental/white/草.png","regionId":"inazuma","birthday":"01月22日","avatar":"images/character/headshot/Inazuma/Kirara.webp"},{"id":"yumemizuki-mizuki","name":"夢見月瑞希","emoji":"images/character/emoji/0316.webp","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"03月16日","avatar":"images/character/headshot/Inazuma/Yumemizuki-Mizuki.webp"},{"id":"tighnari","name":"提納里","emoji":"images/character/emoji/1229.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"12月29日","avatar":"images/character/headshot/Sumeru/Tighnari.webp"},{"id":"collei","name":"柯萊","emoji":"images/character/emoji/0508.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"05月08日","avatar":"images/character/headshot/Sumeru/Collei.webp"},{"id":"dori","name":"多莉","emoji":"images/character/emoji/1221.webp","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"12月21日","avatar":"images/character/headshot/Sumeru/Dori.webp"},{"id":"cyno","name":"賽諾","emoji":"images/character/emoji/0623.png","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"06月23日","avatar":"images/character/headshot/Sumeru/Cyno.webp"},{"id":"candace","name":"坎蒂絲","emoji":"images/character/emoji/0503.png","element":"images/icon/elemental/white/水.png","regionId":"sumeru","birthday":"05月03日","avatar":"images/character/headshot/Sumeru/Candace.webp"},{"id":"nilou","name":"妮露","emoji":"images/character/emoji/1203.png","element":"images/icon/elemental/white/水.png","regionId":"sumeru","birthday":"12月03日","avatar":"images/character/headshot/Sumeru/Nilou.webp"},{"id":"nahida","name":"納西妲","emoji":"images/character/emoji/1027.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"10月27日","avatar":"images/character/headshot/Sumeru/Nahida.webp"},{"id":"layla","name":"萊依拉","emoji":"images/character/emoji/1219.png","element":"images/icon/elemental/white/冰.png","regionId":"sumeru","birthday":"12月19日","avatar":"images/character/headshot/Sumeru/Layla.webp"},{"id":"wanderer","name":"阿帽","emoji":"images/character/emoji/0103.png","element":"images/icon/elemental/white/風.png","regionId":"sumeru","birthday":"01月03日","avatar":"images/character/headshot/Sumeru/Wanderer.webp"},{"id":"faruzan","name":"琺露珊","emoji":"images/character/emoji/0820.png","element":"images/icon/elemental/white/風.png","regionId":"sumeru","birthday":"08月20日","avatar":"images/character/headshot/Sumeru/Faruzan.webp"},{"id":"alhaitham","name":"艾爾海森","emoji":"images/character/emoji/0211.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"02月11日","avatar":"images/character/headshot/Sumeru/Alhaitham.webp"},{"id":"dehya","name":"迪希雅","emoji":"images/character/emoji/0407.png","element":"images/icon/elemental/white/火.png","regionId":"sumeru","birthday":"04月07日","avatar":"images/character/headshot/Sumeru/Dehya.webp"},{"id":"kaveh","name":"卡維","emoji":"images/character/emoji/0709.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"07月09日","avatar":"images/character/headshot/Sumeru/Kaveh.webp"},{"id":"sethos","name":"賽索斯","emoji":"images/character/emoji/0531.webp","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"05月31日","avatar":"images/character/headshot/Sumeru/Sethos.webp"},{"id":"lyney","name":"林尼","emoji":"images/character/emoji/0202-1.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"02月02日","avatar":"images/character/headshot/Fontaine/Lyney.webp"},{"id":"lynette","name":"琳妮特","emoji":"images/character/emoji/0202-2.png","element":"images/icon/elemental/white/風.png","regionId":"fontaine","birthday":"02月02日","avatar":"images/character/headshot/Fontaine/Lynette.webp"},{"id":"freminet","name":"菲米尼","emoji":"images/character/emoji/0924.png","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"09月24日","avatar":"images/character/headshot/Fontaine/Freminet.webp"},{"id":"neuvillette","name":"那維萊特","emoji":"images/character/emoji/1218.png","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"12月18日","avatar":"images/character/headshot/Fontaine/Neuvillette.webp"},{"id":"wriothesley","name":"萊歐斯利","emoji":"images/character/emoji/1123.webp","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"11月23日","avatar":"images/character/headshot/Fontaine/Wriothesley.webp"},{"id":"charlotte","name":"夏洛蒂","emoji":"images/character/emoji/0410.png","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"04月10日","avatar":"images/character/headshot/Fontaine/Charlotte.webp"},{"id":"furina","name":"芙寧娜","emoji":"images/character/emoji/1013.png","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"10月13日","avatar":"images/character/headshot/Fontaine/Furina.webp"},{"id":"navia","name":"娜薇婭","emoji":"images/character/emoji/0816.png","element":"images/icon/elemental/white/岩.png","regionId":"fontaine","birthday":"08月16日","avatar":"images/character/headshot/Fontaine/Navia.webp"},{"id":"chevreuse","name":"夏沃蕾","emoji":"images/character/emoji/0110.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"01月10日","avatar":"images/character/headshot/Fontaine/Chevreuse.webp"},{"id":"chiori","name":"千織","emoji":"images/character/emoji/0817.png","element":"images/icon/elemental/white/岩.png","regionId":"fontaine","birthday":"08月17日","avatar":"images/character/headshot/Fontaine/Chiori.webp"},{"id":"arlecchino","name":"阿蕾奇諾","emoji":"images/character/emoji/0822.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"08月22日","avatar":"images/character/headshot/Fontaine/Arlecchino.webp"},{"id":"clorinde","name":"克洛琳德","emoji":"images/character/emoji/0920.webp","element":"images/icon/elemental/white/雷.png","regionId":"fontaine","birthday":"09月20日","avatar":"images/character/headshot/Fontaine/Clorinde.webp"},{"id":"sigewinne","name":"希格雯","emoji":"images/character/emoji/0330.webp","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"03月30日","avatar":"images/character/headshot/Fontaine/Sigewinne.webp"},{"id":"emilie","name":"艾梅莉埃","emoji":"images/character/emoji/0922.webp","element":"images/icon/elemental/white/草.png","regionId":"fontaine","birthday":"09月22日","avatar":"images/character/headshot/Fontaine/Emilie.webp"},{"id":"escoffier","name":"愛可菲","emoji":"images/character/emoji/0608.webp","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"06月08日","avatar":"images/character/headshot/Fontaine/Escoffier.webp"},{"id":"mualani","name":"瑪拉妮","emoji":"images/character/emoji/0803.webp","element":"images/icon/elemental/white/水.png","regionId":"natlan","birthday":"08月03日","avatar":"images/character/headshot/Natlan/Mualani.webp"},{"id":"kachina","name":"卡齊娜","emoji":"images/character/emoji/0422.webp","element":"images/icon/elemental/white/岩.png","regionId":"natlan","birthday":"04月22日","avatar":"images/character/headshot/Natlan/Kachina.webp"},{"id":"kinich","name":"基尼奇","emoji":"images/character/emoji/1111.webp","element":"images/icon/elemental/white/草.png","regionId":"natlan","birthday":"11月11日","avatar":"images/character/headshot/Natlan/Kinich.webp"},{"id":"xilonen","name":"希諾寧","emoji":"images/character/emoji/0313.webp","element":"images/icon/elemental/white/岩.png","regionId":"natlan","birthday":"03月13日","avatar":"images/character/headshot/Natlan/Xilonen.webp"},{"id":"chasca","name":"恰斯卡","emoji":"images/character/emoji/1210.webp","element":"images/icon/elemental/white/風.png","regionId":"natlan","birthday":"12月10日","avatar":"images/character/headshot/Natlan/Chasca.webp"},{"id":"ororon","name":"歐洛倫","emoji":"images/character/emoji/1014.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"10月14日","avatar":"images/character/headshot/Natlan/Ororon.webp"},{"id":"citlali","name":"茜特菈莉","emoji":"images/character/emoji/0120.webp","element":"images/icon/elemental/white/冰.png","regionId":"natlan","birthday":"01月20日","avatar":"images/character/headshot/Natlan/Citlali.webp"},{"id":"mavuika","name":"瑪薇卡","emoji":"images/character/emoji/0828.webp","element":"images/icon/elemental/white/火.png","regionId":"natlan","birthday":"08月28日","avatar":"images/character/headshot/Natlan/Mavuika.webp"},{"id":"varesa","name":"瓦雷莎","emoji":"images/character/emoji/1115.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"11月15日","avatar":"images/character/headshot/Natlan/Varesa.webp"},{"id":"iansan","name":"伊安珊","emoji":"images/character/emoji/0808.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"08月08日","avatar":"images/character/headshot/Natlan/Iansan.webp"},{"id":"ifa","name":"伊法","emoji":"images/character/emoji/0323.webp","element":"images/icon/elemental/white/風.png","regionId":"natlan","birthday":"03月23日","avatar":"images/character/headshot/Natlan/Ifa.webp"},{"id":"ineffa","name":"伊涅芙","emoji":"images/character/emoji/0402.webp","element":"images/icon/elemental/white/雷.png","regionId":"nod-krai","birthday":"04月02日","avatar":"images/character/headshot/Nod-Krai/Ineffa.webp"},{"id":"lauma","name":"菈烏瑪","emoji":"images/character/emoji/0301.webp","element":"images/icon/elemental/white/草.png","regionId":"nod-krai","birthday":"03月01日","avatar":"images/character/headshot/Nod-Krai/Lauma.webp"},{"id":"aino","name":"愛諾","emoji":"images/character/emoji/0921.webp","element":"images/icon/elemental/white/水.png","regionId":"nod-krai","birthday":"09月21日","avatar":"images/character/headshot/Nod-Krai/Aino.webp"},{"id":"flins","name":"菲林斯","emoji":"images/character/emoji/1031.webp","element":"images/icon/elemental/white/雷.png","regionId":"nod-krai","birthday":"10月31日","avatar":"images/character/headshot/Nod-Krai/Flins.webp"},{"id":"nefer","name":"奈芙爾","emoji":"images/character/emoji/0509.webp","element":"images/icon/elemental/white/草.png","regionId":"nod-krai","birthday":"05月09日","avatar":"images/character/headshot/Nod-Krai/Nefer.webp"},{"id":"jahoda","name":"雅珂達","emoji":"images/character/emoji/0105.webp","element":"images/icon/elemental/white/風.png","regionId":"nod-krai","birthday":"01月05日","avatar":"images/character/headshot/Nod-Krai/Jahoda.webp"},{"id":"columbina","name":"哥倫比婭","emoji":"images/character/emoji/0114.webp","element":"images/icon/elemental/white/水.png","regionId":"nod-krai","birthday":"01月14日","avatar":"images/character/headshot/Nod-Krai/columbina.webp"},{"id":"illuga","name":"葉洛亞","emoji":"images/character/emoji/1223.webp","element":"images/icon/elemental/white/岩.png","regionId":"nod-krai","birthday":"12月23日","avatar":"images/character/new/Illuga.webp"},{"id":"tartaglia","name":"達達利亞","emoji":"images/character/emoji/0720.png","element":"images/icon/elemental/white/水.png","regionId":"snezhnaya","birthday":"07月20日","avatar":"images/character/headshot/Snezhnaya/Tartaglia.webp"},{"id":"paimon","name":"派蒙","emoji":"images/character/emoji/0601-2.png","element":null,"regionId":"other","birthday":"06月01日","avatar":"images/character/headshot/other/Paimon.webp"},{"id":"skirk","name":"絲柯克","emoji":"images/character/emoji/1105.webp","element":"images/icon/elemental/white/冰.png","regionId":"other","birthday":"11月05日","avatar":"images/character/headshot/other/Skirk.webp"}]'),rT=JSON.parse('[{"wanderer":{"2023":[{"date":"01-03","title":"莫名其妙","letterId":"wanderer_2023"}],"2024":[{"date":"01-03","title":"愚蠢的人…","letterId":"wanderer_2024"}],"2025":[{"date":"01-03","title":"卡牌…","letterId":"wanderer_2025"}],"2026":[{"date":"01-03","title":"見面…","letterId":"wanderer_2026"}]}},{"jahoda":{"2026":[{"date":"01-05","title":"休息日…","letterId":"jahoda_2026"}]}},{"lanyan":{"2026":[{"date":"01-06","title":"來山裡玩！","letterId":"lanyan_2026"}]}},{"thoma":{"2022":[{"date":"01-09","title":"香噴噴…","letterId":"thoma_2022"}],"2023":[{"date":"01-09","title":"聚會","letterId":"thoma_2023"}],"2024":[{"date":"01-09","title":"開心事！","letterId":"thoma_2024"}],"2025":[{"date":"01-09","title":"特別生日會…","letterId":"thoma_2025"}],"2026":[{"date":"01-09","title":"新朋友！","letterId":"thoma_2026"}]}},{"chevreuse":{"2024":[{"date":"01-10","title":"休假日…","letterId":"chevreuse_2024"}],"2025":[{"date":"01-10","title":"休假日…","letterId":"chevreuse_2025"}],"2026":[{"date":"01-10","title":"強制休假…","letterId":"chevreuse_2026"}]}},{"diona":{"2021":[{"date":"01-18","title":"救救我喵…","letterId":"diona_2021"}],"2022":[{"date":"01-18","title":"送給你的！","letterId":"diona_2022"}],"2023":[{"date":"01-18","title":"來分蛋糕！","letterId":"diona_2023"}],"2024":[{"date":"01-18","title":"今天是特例！","letterId":"diona_2024"}],"2025":[{"date":"01-18","title":"河邊等你！","letterId":"diona_2025"}],"2026":[{"date":"01-18","title":"快來吃蛋糕！","letterId":"diona_2026"}]}},{"citlali":{"2025":[{"date":"01-20","title":"又是一希維特*…","letterId":"citlali_2025"}],"2026":[{"date":"01-20","title":"今天沒喝酒…","letterId":"citlali_2026"}]}},{"kirara":{"2024":[{"date":"01-22","title":"最棒的節日！","letterId":"kirara_2024"}],"2025":[{"date":"01-22","title":"要一起磨爪子嗎？","letterId":"kirara_2025"}],"2026":[{"date":"01-22","title":"厲害的大魚","letterId":"kirara_2026"}]}},{"rosaria":{"2022":[{"date":"01-24","title":"今天…","letterId":"rosaria_2022"}],"2023":[{"date":"01-24","title":"普通的一天。","letterId":"rosaria_2023"}],"2024":[{"date":"01-24","title":"難得…","letterId":"rosaria_2024"}],"2025":[{"date":"01-24","title":"敬你。","letterId":"rosaria_2025"}],"2026":[{"date":"01-24","title":"被迫工作…","letterId":"rosaria_2026"}]}},{"lyney":{"2024":[{"date":"02-02","title":"生日驚喜！","letterId":"lyney_2024"}],"2025":[{"date":"02-02","title":"不見不散！","letterId":"lyney_2025"}]}},{"lynette":{"2024":[{"date":"02-02","title":"生日驚喜…","letterId":"lynette_2024"}],"2025":[{"date":"02-02","title":"哈哈。哈。","letterId":"lynette_2025"}]}},{"alhaitham":{"2023":[{"date":"02-11","title":"……","letterId":"alhaitham_2023"}],"2024":[{"date":"02-11","title":"……","letterId":"alhaitham_2024"}],"2025":[{"date":"02-11","title":"……","letterId":"alhaitham_2025"}]}},{"beidou":{"2021":[{"date":"02-14","title":"最近過得可好？","letterId":"beidou_2021"}],"2022":[{"date":"02-14","title":"好東西！","letterId":"beidou_2022"}],"2023":[{"date":"02-14","title":"魚宴…","letterId":"beidou_2023"}],"2024":[{"date":"02-14","title":"異國見聞…","letterId":"beidou_2024"}],"2025":[{"date":"02-14","title":"休整間隙…","letterId":"beidou_2025"}]}},{"sangonomiya-kokomi":{"2022":[{"date":"02-22","title":"生日的安排…","letterId":"sangonomiya-kokomi_2022"}],"2023":[{"date":"02-22","title":"滄海之約","letterId":"sangonomiya-kokomi_2023"}],"2024":[{"date":"02-22","title":"書友交流會…","letterId":"sangonomiya-kokomi_2024"}],"2025":[{"date":"02-22","title":"重溫…","letterId":"sangonomiya-kokomi_2025"}]}},{"bennett":{"2021":[{"date":"02-29","title":"這是給你的！","letterId":"bennett_2021"}],"2022":[{"date":"02-29","title":"來吃蛋糕嗎？","letterId":"bennett_2022"}],"2023":[{"date":"02-29","title":"我希望…","letterId":"bennett_2023"}],"2024":[{"date":"02-29","title":"好日子！","letterId":"bennett_2024"}],"2025":[{"date":"02-29","title":"轉運？","letterId":"bennett_2025"}]}},{"qiqi":{"2021":[{"date":"03-03","title":"生日。","letterId":"qiqi_2021"}],"2022":[{"date":"03-03","title":"生日。","letterId":"qiqi_2022"}],"2023":[{"date":"03-03","title":"你，快樂。","letterId":"qiqi_2023"}],"2024":[{"date":"03-03","title":"生日願望…","letterId":"qiqi_2024"}],"2025":[{"date":"03-03","title":"祈福。","letterId":"qiqi_2025"}]}},{"yaoyao":{"2023":[{"date":"03-06","title":"瑤瑤敬邀","letterId":"yaoyao_2023"}],"2024":[{"date":"03-06","title":"萬事俱備，只欠…","letterId":"yaoyao_2024"}],"2025":[{"date":"03-06","title":"春天好呀！","letterId":"yaoyao_2025"}]}},{"shenhe":{"2022":[{"date":"03-10","title":"長久…","letterId":"shenhe_2022"}],"2023":[{"date":"03-10","title":"生辰…","letterId":"shenhe_2023"}],"2024":[{"date":"03-10","title":"我的手藝…","letterId":"shenhe_2024"}],"2025":[{"date":"03-10","title":"你的煩惱…","letterId":"shenhe_2025"}]}},{"xilonen":{"2025":[{"date":"03-13","title":"起了個大早…","letterId":"xilonen_2025"}]}},{"jean":{"2021":[{"date":"03-14","title":"關於慶祝生日的方式。","letterId":"jean_2021"}],"2022":[{"date":"03-14","title":"充實的一日。","letterId":"jean_2022"}],"2023":[{"date":"03-14","title":"意外的驚喜…","letterId":"jean_2023"}],"2024":[{"date":"03-14","title":"近來的欣喜…","letterId":"jean_2024"}],"2025":[{"date":"03-14","title":"母親…","letterId":"jean_2025"}]}},{"yumemizuki-mizuki":{"2025":[{"date":"03-16","title":"慶典試行…","letterId":"yumemizuki-mizuki_2025"}]}},{"noelle":{"2021":[{"date":"03-21","title":"想和你約定。","letterId":"noelle_2021"}],"2022":[{"date":"03-21","title":"我們的約定…","letterId":"noelle_2022"}],"2023":[{"date":"03-21","title":"請幫幫我！","letterId":"noelle_2023"}],"2024":[{"date":"03-21","title":"花朵…","letterId":"noelle_2024"}],"2025":[{"date":"03-21","title":"完美糖霜…","letterId":"noelle_2025"}]}},{"kamisato-ayato":{"2023":[{"date":"03-26","title":"敬啟","letterId":"kamisato-ayato_2023"}],"2024":[{"date":"03-26","title":"關於進展…","letterId":"kamisato-ayato_2024"}],"2025":[{"date":"03-26","title":"茶宴","letterId":"kamisato-ayato_2025"}]}},{"sigewinne":{"2025":[{"date":"03-30","title":"致可愛的人。","letterId":"sigewinne_2025"}]}},{"dehya":{"2023":[{"date":"04-07","title":"喲！讓我猜猜看…","letterId":"dehya_2023"}],"2024":[{"date":"04-07","title":"生日宴會…","letterId":"dehya_2024"}],"2025":[{"date":"04-07","title":"誠邀…","letterId":"dehya_2025"}]}},{"charlotte":{"2024":[{"date":"04-10","title":"拜託…","letterId":"charlotte_2024"}],"2025":[{"date":"04-10","title":"快嚐嚐…","letterId":"charlotte_2025"}]}},{"xianyun":{"2024":[{"date":"04-11","title":"人間煙火…","letterId":"xianyun_2024"}],"2025":[{"date":"04-11","title":"熱鬧…","letterId":"xianyun_2025"}]}},{"xiao":{"2021":[{"date":"04-17","title":"贈蝶予你。","letterId":"xiao_2021"}],"2022":[{"date":"04-17","title":"待你空閒時…","letterId":"xiao_2022"}],"2023":[{"date":"04-17","title":"若你得閒…","letterId":"xiao_2023"}],"2024":[{"date":"04-17","title":"夢之所見…","letterId":"xiao_2024"}],"2025":[{"date":"04-17","title":"護身陣法…","letterId":"xiao_2025"}]}},{"yelan":{"2023":[{"date":"04-20","title":"喝個茶…","letterId":"yelan_2023"}],"2024":[{"date":"04-20","title":"幾枝新花…","letterId":"yelan_2024"}],"2025":[{"date":"04-20","title":"休假…","letterId":"yelan_2025"}]}},{"kachina":{"2025":[{"date":"04-22","title":"主動出擊！","letterId":"kachina_2025"}]}},{"baizhu":{"2024":[{"date":"04-25","title":"須臾之間…","letterId":"baizhu_2024"}],"2025":[{"date":"04-25","title":"養生茶飲…","letterId":"baizhu_2025"}]}},{"diluc":{"2021":[{"date":"04-30","title":"近來可好？","letterId":"diluc_2021"}],"2022":[{"date":"04-30","title":"晚餐…","letterId":"diluc_2022"}],"2023":[{"date":"04-30","title":"新品…","letterId":"diluc_2023"}],"2024":[{"date":"04-30","title":"香氛…","letterId":"diluc_2024"}],"2025":[{"date":"04-30","title":"出門前夕…","letterId":"diluc_2025"}]}},{"candace":{"2023":[{"date":"05-03","title":"休息日…","letterId":"candace_2023"}],"2024":[{"date":"05-03","title":"美麗的石頭…","letterId":"candace_2024"}],"2025":[{"date":"05-03","title":"守護安眠…","letterId":"candace_2025"}]}},{"collei":{"2023":[{"date":"05-08","title":"怎麼辦怎麼辦…","letterId":"collei_2023"}],"2024":[{"date":"05-08","title":"故事書…","letterId":"collei_2024"}],"2025":[{"date":"05-08","title":"讀書會…","letterId":"collei_2025"}]}},{"gorou":{"2022":[{"date":"05-18","title":"蛋糕！","letterId":"gorou_2022"}],"2023":[{"date":"05-18","title":"武鬥會…","letterId":"gorou_2023"}],"2024":[{"date":"05-18","title":"改善伙食…","letterId":"gorou_2024"}],"2025":[{"date":"05-18","title":"請求援助…","letterId":"gorou_2025"}]}},{"yunjin":{"2022":[{"date":"05-21","title":"來吃些宵夜？","letterId":"yunjin_2022"}],"2023":[{"date":"05-21","title":"海上明月。","letterId":"yunjin_2023"}],"2024":[{"date":"05-21","title":"新戲的想法…","letterId":"yunjin_2024"}],"2025":[{"date":"05-21","title":"異鄉新感…","letterId":"yunjin_2025"}]}},{"fischl":{"2021":[{"date":"05-27","title":"命定之日…","letterId":"fischl_2021"}],"2022":[{"date":"05-27","title":"命定之日…","letterId":"fischl_2022"}],"2023":[{"date":"05-27","title":"七聖的昭告…","letterId":"fischl_2023"}],"2024":[{"date":"05-27","title":"貓之眷屬…","letterId":"fischl_2024"}],"2025":[{"date":"05-27","title":"聖詠音律…","letterId":"fischl_2025"}]}},{"sethos":{"2025":[{"date":"05-31","title":"「難題」…","letterId":"sethos_2025"}]}},{"paimon":{"2021":[{"date":"06-01","title":"派蒙的生日到啦！","letterId":"paimon_2021"}],"2022":[{"date":"06-01","title":"過生日！","letterId":"paimon_2022"}],"2023":[{"date":"06-01","title":"蛋糕在哪裡？？","letterId":"paimon_2023"}],"2024":[{"date":"06-01","title":"一起做蛋糕吧！","letterId":"paimon_2024"}],"2025":[{"date":"06-01","title":"我們真厲害！","letterId":"paimon_2025"}]}},{"arataki-itto":{"2022":[{"date":"06-01","title":"喜訊！本大爺！生日！","letterId":"arataki-itto_2022"}],"2023":[{"date":"06-01","title":"要開心啊，摯友！","letterId":"arataki-itto_2023"}],"2024":[{"date":"06-01","title":"天才？鬼才！","letterId":"arataki-itto_2024"}],"2025":[{"date":"06-01","title":"希娜小姐…","letterId":"arataki-itto_2025"}]}},{"escoffier":{"2025":[{"date":"06-08","title":"指定料理…","letterId":"escoffier_2025"}]}},{"lisa":{"2021":[{"date":"06-09","title":"想我了嗎？","letterId":"lisa_2021"}],"2022":[{"date":"06-09","title":"小可愛…","letterId":"lisa_2022"}],"2023":[{"date":"06-09","title":"等你的消息。","letterId":"lisa_2023"}],"2024":[{"date":"06-09","title":"今天的安排…","letterId":"lisa_2024"}],"2025":[{"date":"06-09","title":"成長…","letterId":"lisa_2025"}]}},{"venti":{"2021":[{"date":"06-16","title":"喲嗬——","letterId":"venti_2021"}],"2022":[{"date":"06-16","title":"風來囉——","letterId":"venti_2022"}],"2023":[{"date":"06-16","title":"藏寶圖","letterId":"venti_2023"}],"2024":[{"date":"06-16","title":"悠閒的一天。","letterId":"venti_2024"}],"2025":[{"date":"06-16","title":"不急哦。","letterId":"venti_2025"}]}},{"yoimiya":{"2022":[{"date":"06-21","title":"我的生日…","letterId":"yoimiya_2022"}],"2023":[{"date":"06-21","title":"大妖怪！","letterId":"yoimiya_2023"}],"2024":[{"date":"06-21","title":"捧星星…","letterId":"yoimiya_2024"}],"2025":[{"date":"06-21","title":"幸福瞬間！","letterId":"yoimiya_2025"}]}},{"cyno":{"2023":[{"date":"06-23","title":"又有飯局…","letterId":"cyno_2023"}],"2024":[{"date":"06-23","title":"對決…","letterId":"cyno_2024"}],"2025":[{"date":"06-23","title":"時間正好…","letterId":"cyno_2025"}]}},{"raiden-shogun":{"2022":[{"date":"06-26","title":"呵呵…","letterId":"raiden-shogun_2022"}],"2023":[{"date":"06-26","title":"願望…","letterId":"raiden-shogun_2023"}],"2024":[{"date":"06-26","title":"前行…","letterId":"raiden-shogun_2024"}],"2025":[{"date":"06-26","title":"轉變…","letterId":"raiden-shogun_2025"}]}},{"yae-miko":{"2022":[{"date":"06-27","title":"好巧啊…","letterId":"yae-miko_2022"}],"2023":[{"date":"06-27","title":"享受…","letterId":"yae-miko_2023"}],"2024":[{"date":"06-27","title":"趣事…","letterId":"yae-miko_2024"}],"2025":[{"date":"06-27","title":"真可憐啊…","letterId":"yae-miko_2025"}]}},{"barbara":{"2021":[{"date":"07-05","title":"願望…","letterId":"barbara_2021"}],"2022":[{"date":"07-05","title":"我的秘訣…","letterId":"barbara_2022"}],"2023":[{"date":"07-05","title":"偶像的力量…","letterId":"barbara_2023"}],"2024":[{"date":"07-05","title":"一首歌…","letterId":"barbara_2024"}],"2025":[{"date":"07-05","title":"相聚時刻…","letterId":"barbara_2025"}]}},{"kaveh":{"2023":[{"date":"07-09","title":"！！","letterId":"kaveh_2023"}],"2024":[{"date":"07-09","title":"？？","letterId":"kaveh_2024"}],"2025":[{"date":"07-09","title":"！！","letterId":"kaveh_2025"}]}},{"kujou-sara":{"2022":[{"date":"07-14","title":"願望…","letterId":"kujou-sara_2022"}],"2023":[{"date":"07-14","title":"其五…","letterId":"kujou-sara_2023"}],"2024":[{"date":"07-14","title":"護弓…","letterId":"kujou-sara_2024"}],"2025":[{"date":"07-14","title":"點撥","letterId":"kujou-sara_2025"}]}},{"hutao":{"2021":[{"date":"07-15","title":"本堂主摯友親啟。","letterId":"hutao_2021"}],"2022":[{"date":"07-15","title":"摯友摯友看這裡！","letterId":"hutao_2022"}],"2023":[{"date":"07-15","title":"摯友速來！","letterId":"hutao_2023"}],"2024":[{"date":"07-15","title":"摯友撞大運！","letterId":"hutao_2024"}],"2025":[{"date":"07-15","title":"摯友來看豬！","letterId":"hutao_2025"}]}},{"tartaglia":{"2021":[{"date":"07-20","title":"可算等到今天了！","letterId":"tartaglia_2021"}],"2022":[{"date":"07-20","title":"來見一面！","letterId":"tartaglia_2022"}],"2023":[{"date":"07-20","title":"特訓…","letterId":"tartaglia_2023"}],"2024":[{"date":"07-20","title":"防詐…","letterId":"tartaglia_2024"}],"2025":[{"date":"07-20","title":"老規矩…","letterId":"tartaglia_2025"}]}},{"shikanoin-heizou":{"2022":[{"date":"07-24","title":"小小的交易…","letterId":"shikanoin-heizou_2022"}],"2023":[{"date":"07-24","title":"晚餐…","letterId":"shikanoin-heizou_2023"}],"2024":[{"date":"07-24","title":"防詐…","letterId":"shikanoin-heizou_2024"}],"2025":[{"date":"07-24","title":"「證人」…","letterId":"shikanoin-heizou_2025"}]}},{"klee":{"2021":[{"date":"07-27","title":"一定要保密哦！","letterId":"klee_2021"}],"2022":[{"date":"07-27","title":"夏天！","letterId":"klee_2022"}],"2023":[{"date":"07-27","title":"大冒險！","letterId":"klee_2023"}],"2024":[{"date":"07-27","title":"是快樂日！","letterId":"klee_2024"}],"2025":[{"date":"07-27","title":"「砰砰涼涼生日會」","letterId":"klee_2025"}]}},{"kuki-shinobu":{"2022":[{"date":"07-27","title":"有時間嗎？","letterId":"kuki-shinobu_2022"}],"2023":[{"date":"07-27","title":"速來。","letterId":"kuki-shinobu_2023"}],"2024":[{"date":"07-27","title":"難得清靜…","letterId":"kuki-shinobu_2024"}],"2025":[{"date":"07-27","title":"共勉…","letterId":"kuki-shinobu_2025"}]}},{"yanfei":{"2021":[{"date":"07-28","title":"話說…","letterId":"yanfei_2021"}],"2022":[{"date":"07-28","title":"日期…","letterId":"yanfei_2022"}],"2023":[{"date":"07-28","title":"預約…","letterId":"yanfei_2023"}],"2024":[{"date":"07-28","title":"潤潤喉…","letterId":"yanfei_2024"}],"2025":[{"date":"07-28","title":"普法講座…","letterId":"yanfei_2025"}]}},{"mualani":{"2025":[{"date":"08-03","title":"「好運巨浪」！","letterId":"mualani_2025"}]}},{"iansan":{"2025":[{"date":"08-08","title":"「放縱日」…","letterId":"iansan_2025"}]}},{"amber":{"2021":[{"date":"08-10","title":"一起來野餐吧！","letterId":"amber_2021"}],"2022":[{"date":"08-10","title":"偵察騎士的邀請！","letterId":"amber_2022"}],"2023":[{"date":"08-10","title":"偵察騎士一日冒險！","letterId":"amber_2023"}],"2024":[{"date":"08-10","title":"新衣服！","letterId":"amber_2024"}],"2025":[{"date":"08-10","title":"進修…","letterId":"amber_2025"}]}},{"mika":{"2023":[{"date":"08-11","title":"里程碑…","letterId":"mika_2023"}],"2024":[{"date":"08-11","title":"集體生日…","letterId":"mika_2024"}],"2025":[{"date":"08-11","title":"彙報…","letterId":"mika_2025"}]}},{"navia":{"2024":[{"date":"08-16","title":"噹噹噹噹！","letterId":"navia_2024"}],"2025":[{"date":"08-16","title":"大展身手！","letterId":"navia_2025"}]}},{"chiori":{"2024":[{"date":"08-17","title":"旅遊…","letterId":"chiori_2024"}],"2025":[{"date":"08-17","title":"孤獨與自由…","letterId":"chiori_2025"}]}},{"faruzan":{"2023":[{"date":"08-20","title":"如果收到這封信…","letterId":"faruzan_2023"}],"2024":[{"date":"08-20","title":"講解…","letterId":"faruzan_2024"}],"2025":[{"date":"08-20","title":"探討…","letterId":"faruzan_2025"}]}},{"arlecchino":{"2024":[{"date":"08-22","title":"爐火正旺…","letterId":"arlecchino_2024"}],"2025":[{"date":"08-22","title":"「許久不見」…","letterId":"arlecchino_2025"}]}},{"ningguang":{"2021":[{"date":"08-26","title":"幸得一株芬芳。","letterId":"ningguang_2021"}],"2022":[{"date":"08-26","title":"小聚。","letterId":"ningguang_2022"}],"2023":[{"date":"08-26","title":"棋友難覓。","letterId":"ningguang_2023"}],"2024":[{"date":"08-26","title":"煩請撥冗…","letterId":"ningguang_2024"}],"2025":[{"date":"08-26","title":"閒敘建議…","letterId":"ningguang_2025"}]}},{"mavuika":{"2025":[{"date":"08-28","title":"一路前行…","letterId":"mavuika_2025"}]}},{"mona":{"2021":[{"date":"08-31","title":"寶貴的日子！","letterId":"mona_2021"}],"2022":[{"date":"08-31","title":"偉大的日子！","letterId":"mona_2022"}],"2023":[{"date":"08-31","title":"抱歉…","letterId":"mona_2023"}],"2024":[{"date":"08-31","title":"加油打氣…","letterId":"mona_2024"}],"2025":[{"date":"08-31","title":"吃喝玩樂…","letterId":"mona_2025"}]}},{"chongyun":{"2021":[{"date":"09-07","title":"今日…","letterId":"chongyun_2021"}],"2022":[{"date":"09-07","title":"家裡人說…","letterId":"chongyun_2022"}],"2023":[{"date":"09-07","title":"斬妖誅邪！","letterId":"chongyun_2023"}],"2024":[{"date":"09-07","title":"應驗！","letterId":"chongyun_2024"}],"2025":[{"date":"09-07","title":"新歲之誓…","letterId":"chongyun_2025"}]}},{"razor":{"2021":[{"date":"09-09","title":"出生的日子…","letterId":"razor_2021"}],"2022":[{"date":"09-09","title":"我記得…今天。","letterId":"razor_2022"}],"2023":[{"date":"09-09","title":"好久…不見。","letterId":"razor_2023"}],"2024":[{"date":"09-09","title":"一起去。","letterId":"razor_2024"}],"2025":[{"date":"09-09","title":"在心裡。","letterId":"razor_2025"}]}},{"albedo":{"2021":[{"date":"09-13","title":"致…","letterId":"albedo_2021"}],"2022":[{"date":"09-13","title":"需要你協助的畫作…","letterId":"albedo_2022"}],"2023":[{"date":"09-13","title":"舊日的畫作…","letterId":"albedo_2023"}],"2024":[{"date":"09-13","title":"新的課題…","letterId":"albedo_2024"}],"2025":[{"date":"09-13","title":"「新夥伴」…","letterId":"albedo_2025"}]}},{"clorinde":{"2024":[{"date":"09-20","title":"新的劇本…","letterId":"clorinde_2024"}],"2025":[{"date":"09-20","title":"武器保養…","letterId":"clorinde_2025"}]}},{"aino":{"2025":[{"date":"09-21","title":"終於到今天啦！","letterId":"aino_2025"}]}},{"emilie":{"2024":[{"date":"09-22","title":"靈感…","letterId":"emilie_2024"}],"2025":[{"date":"09-22","title":"綻放…","letterId":"emilie_2025"}]}},{"freminet":{"2023":[{"date":"09-24","title":"分享…","letterId":"freminet_2023"}],"2024":[{"date":"09-24","title":"秘密基地…","letterId":"freminet_2024"}],"2025":[{"date":"09-24","title":"音樂盒…","letterId":"freminet_2025"}]}},{"kamisato-ayaka":{"2021":[{"date":"09-28","title":"今夜…","letterId":"kamisato-ayaka_2021"}],"2022":[{"date":"09-28","title":"相約…","letterId":"kamisato-ayaka_2022"}],"2023":[{"date":"09-28","title":"故地…","letterId":"kamisato-ayaka_2023"}],"2024":[{"date":"09-28","title":"見面…","letterId":"kamisato-ayaka_2024"}],"2025":[{"date":"09-28","title":"暖意…","letterId":"kamisato-ayaka_2025"}]}},{"xingqiu":{"2020":[{"date":"10-09","title":"就我們兩個人！","letterId":"xingqiu_2020"}],"2021":[{"date":"10-09","title":"再得佳期。","letterId":"xingqiu_2021"}],"2022":[{"date":"10-09","title":"見字如面。","letterId":"xingqiu_2022"}],"2023":[{"date":"10-09","title":"我有一計…","letterId":"xingqiu_2023"}],"2024":[{"date":"10-09","title":"提筆相助…","letterId":"xingqiu_2024"}],"2025":[{"date":"10-09","title":"常看常新…","letterId":"xingqiu_2025"}]}},{"furina":{"2024":[{"date":"10-13","title":"「特邀函」","letterId":"furina_2024"}],"2025":[{"date":"10-13","title":"大明星生日！","letterId":"furina_2025"}]}},{"ororon":{"2025":[{"date":"10-14","title":"蔬菜…","letterId":"ororon_2025"}]}},{"xinyan":{"2021":[{"date":"10-16","title":"等你來！","letterId":"xinyan_2021"}],"2022":[{"date":"10-16","title":"特別演唱會！","letterId":"xinyan_2022"}],"2023":[{"date":"10-16","title":"音浪熱辣！","letterId":"xinyan_2023"}],"2024":[{"date":"10-16","title":"一起創作！","letterId":"xinyan_2024"}],"2025":[{"date":"10-16","title":"水下搖滾？","letterId":"xinyan_2025"}]}},{"sayu":{"2021":[{"date":"10-19","title":"小睡片刻！","letterId":"sayu_2021"}],"2022":[{"date":"10-19","title":"長高了…嗎？","letterId":"sayu_2022"}],"2023":[{"date":"10-19","title":"釣魚好難…","letterId":"sayu_2023"}],"2024":[{"date":"10-19","title":"問題很大…","letterId":"sayu_2024"}],"2025":[{"date":"10-19","title":"美夢成真？！","letterId":"sayu_2025"}]}},{"eula":{"2021":[{"date":"10-25","title":"生日…","letterId":"eula_2021"}],"2022":[{"date":"10-25","title":"放鬆時刻…","letterId":"eula_2022"}],"2023":[{"date":"10-25","title":"代理隊長…","letterId":"eula_2023"}],"2024":[{"date":"10-25","title":"浪花洗禮…","letterId":"eula_2024"}],"2025":[{"date":"10-25","title":"輪休…","letterId":"eula_2025"}]}},{"nahida":{"2023":[{"date":"10-27","title":"閉上眼睛吧…","letterId":"nahida_2023"}],"2024":[{"date":"10-27","title":"花車顛啊顛…","letterId":"nahida_2024"}],"2025":[{"date":"10-27","title":"美夢，與你共享。","letterId":"nahida_2025"}]}},{"kaedehara-kazuha":{"2021":[{"date":"10-29","title":"風起…","letterId":"kaedehara-kazuha_2021"}],"2022":[{"date":"10-29","title":"天涯同路。","letterId":"kaedehara-kazuha_2022"}],"2023":[{"date":"10-29","title":"紅葉時節…","letterId":"kaedehara-kazuha_2023"}],"2024":[{"date":"10-29","title":"同賞金秋。","letterId":"kaedehara-kazuha_2024"}],"2025":[{"date":"10-29","title":"歸處…","letterId":"kaedehara-kazuha_2025"}]}},{"flins":{"2025":[{"date":"10-31","title":"為您執燈…","letterId":"flins_2025"}]}},{"xiangling":{"2020":[{"date":"11-02","title":"生日想做的事！","letterId":"xiangling_2020"}],"2021":[{"date":"11-02","title":"鍋巴也想你了！","letterId":"xiangling_2021"}],"2022":[{"date":"11-02","title":"嚐鮮！","letterId":"xiangling_2022"}],"2023":[{"date":"11-02","title":"來吃飯！","letterId":"xiangling_2023"}],"2024":[{"date":"11-02","title":"火辣辣大餐！","letterId":"xiangling_2024"}],"2025":[{"date":"11-02","title":"退一步？進一步！","letterId":"xiangling_2025"}]}},{"skirk":{"2025":[{"date":"11-05","title":"記錄的方式…","letterId":"skirk_2025"}]}},{"kinich":{"2024":[{"date":"11-11","title":"度過生日的方式…","letterId":"kinich_2024"}],"2025":[{"date":"11-11","title":"值得紀念。","letterId":"kinich_2025"}]}},{"varesa":{"2025":[{"date":"11-15","title":"盡量吃…","letterId":"varesa_2025"}]}},{"keqing":{"2020":[{"date":"11-20","title":"晚上見！","letterId":"keqing_2020"}],"2021":[{"date":"11-20","title":"白駒過隙。","letterId":"keqing_2021"}],"2022":[{"date":"11-20","title":"想邀你參加宴席。","letterId":"keqing_2022"}],"2023":[{"date":"11-20","title":"心意…","letterId":"keqing_2023"}],"2024":[{"date":"11-20","title":"家宴…","letterId":"keqing_2024"}],"2025":[{"date":"11-20","title":"一同品嚐…","letterId":"keqing_2025"}]}},{"wriothesley":{"2023":[{"date":"11-23","title":"一路順風","letterId":"wriothesley_2023"}],"2024":[{"date":"11-23","title":"按勞分配。","letterId":"wriothesley_2024"}],"2025":[{"date":"11-23","title":"皆大歡喜","letterId":"wriothesley_2025"}]}},{"sucrose":{"2020":[{"date":"11-26","title":"該怎麼辦呢。","letterId":"sucrose_2020"}],"2021":[{"date":"11-26","title":"一些新發現。","letterId":"sucrose_2021"}],"2022":[{"date":"11-26","title":"假期…","letterId":"sucrose_2022"}],"2023":[{"date":"11-26","title":"秘密研究。","letterId":"sucrose_2023"}],"2024":[{"date":"11-26","title":"野外實驗…","letterId":"sucrose_2024"}],"2025":[{"date":"11-26","title":"研究…","letterId":"sucrose_2025"}]}},{"kaeya":{"2020":[{"date":"11-30","title":"說起來…","letterId":"kaeya_2020"}],"2021":[{"date":"11-30","title":"順著風…","letterId":"kaeya_2021"}],"2022":[{"date":"11-30","title":"打牌…","letterId":"kaeya_2022"}],"2023":[{"date":"11-30","title":"季節的味道…","letterId":"kaeya_2023"}],"2024":[{"date":"11-30","title":"玩個遊戲…","letterId":"kaeya_2024"}],"2025":[{"date":"11-30","title":"美酒…","letterId":"kaeya_2025"}]}},{"ganyu":{"2021":[{"date":"12-02","title":"想說的話…","letterId":"ganyu_2021"}],"2022":[{"date":"12-02","title":"賞月…","letterId":"ganyu_2022"}],"2023":[{"date":"12-02","title":"垂釣…","letterId":"ganyu_2023"}],"2024":[{"date":"12-02","title":"山間小憩。","letterId":"ganyu_2024"}],"2025":[{"date":"12-02","title":"偶得一面…","letterId":"ganyu_2025"}]}},{"nilou":{"2022":[{"date":"12-03","title":"沙漠…","letterId":"nilou_2022"}],"2023":[{"date":"12-03","title":"雨的舞蹈…","letterId":"nilou_2023"}],"2024":[{"date":"12-03","title":"舞蹈的意義…","letterId":"nilou_2024"}],"2025":[{"date":"12-03","title":"新的舞蹈…","letterId":"nilou_2025"}]}},{"chasca":{"2024":[{"date":"12-10","title":"陪伴…","letterId":"chasca_2024"}],"2025":[{"date":"12-10","title":"篝火晚會…","letterId":"chasca_2025"}]}},{"neuvillette":{"2023":[{"date":"12-18","title":"海沫村…","letterId":"neuvillette_2023"}],"2024":[{"date":"12-18","title":"久未問候…","letterId":"neuvillette_2024"}],"2025":[{"date":"12-18","title":"細雨將至…","letterId":"neuvillette_2025"}]}},{"layla":{"2022":[{"date":"12-19","title":"休息一天…","letterId":"layla_2022"}],"2023":[{"date":"12-19","title":"結題慶祝！","letterId":"layla_2023"}],"2024":[{"date":"12-19","title":"唉。","letterId":"layla_2024"}],"2025":[{"date":"12-19","title":"點心…","letterId":"layla_2025"}]}},{"dori":{"2022":[{"date":"12-21","title":"生日大酬賓","letterId":"dori_2022"}],"2023":[{"date":"12-21","title":"大生意！","letterId":"dori_2023"}],"2024":[{"date":"12-21","title":"免費進場！","letterId":"dori_2024"}],"2025":[{"date":"12-21","title":"好日子！","letterId":"dori_2025"}]}},{"gaming":{"2024":[{"date":"12-22","title":"打邊爐！","letterId":"gaming_2024"}],"2025":[{"date":"12-22","title":"時間到了！起身！","letterId":"gaming_2025"}]}},{"tighnari":{"2022":[{"date":"12-29","title":"真是不巧…","letterId":"tighnari_2022"}],"2023":[{"date":"12-29","title":"要來嗎？","letterId":"tighnari_2023"}],"2024":[{"date":"12-29","title":"納塔調查…","letterId":"tighnari_2024"}],"2025":[{"date":"12-29","title":"分你一些…","letterId":"tighnari_2025"}]}},{"zhongli":{"2020":[{"date":"12-31","title":"見信如晤。","letterId":"zhongli_2020"}],"2021":[{"date":"12-31","title":"一年之末。","letterId":"zhongli_2021"}],"2022":[{"date":"12-31","title":"歲末小敘","letterId":"zhongli_2022"}],"2023":[{"date":"12-31","title":"每至年末…","letterId":"zhongli_2023"}],"2024":[{"date":"12-31","title":"歲序更新…","letterId":"zhongli_2024"}],"2025":[{"date":"12-31","title":"歲暮乘閒…","letterId":"zhongli_2025"}]}}]'),sT={character:"wanderer",year:2026,sign:"阿帽 2026-01-03",content:`最近沒什麼閒工夫，也沒心思專門去為自己記個日子，有什麼必要呢？每個人都知道現在真正該做的是什麼，絕不是歡天喜地地聚在一起，像個閒人一樣地慶祝生日。
+                 L640,320 L630,360 L400,350 Z`,className:"cursor-pointer fill-transparent",style:{transition:"fill 0.2s"},onMouseEnter:h=>r(h,f),onMouseLeave:s,onClick:()=>c(f)})})()]})]})}const lT=JSON.parse('[{"id":"jean","name":"琴","emoji":"images/character/emoji/0314-1.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"03月14日","avatar":"images/character/headshot/Mondstadt/Jean.webp"},{"id":"amber","name":"安柏","emoji":"images/character/emoji/0810.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"08月10日","avatar":"images/character/headshot/Mondstadt/Amber.webp"},{"id":"lisa","name":"麗莎","emoji":"images/character/emoji/0609.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"06月09日","avatar":"images/character/headshot/Mondstadt/Lisa.webp"},{"id":"kaeya","name":"凱亞","emoji":"images/character/emoji/1130.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"11月30日","avatar":"images/character/headshot/Mondstadt/Kaeya.webp"},{"id":"barbara","name":"芭芭拉","emoji":"images/character/emoji/0705.png","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"07月05日","avatar":"images/character/headshot/Mondstadt/Barbara.webp"},{"id":"diluc","name":"迪盧克","emoji":"images/character/emoji/0430.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"04月30日","avatar":"images/character/headshot/Mondstadt/Diluc.webp"},{"id":"razor","name":"雷澤","emoji":"images/character/emoji/0909.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"09月09日","avatar":"images/character/headshot/Mondstadt/Razor.webp"},{"id":"venti","name":"溫迪","emoji":"images/character/emoji/0616.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"06月16日","avatar":"images/character/headshot/Mondstadt/Venti.webp"},{"id":"klee","name":"可莉","emoji":"images/character/emoji/0727-2.png","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"07月27日","avatar":"images/character/headshot/Mondstadt/Klee.webp"},{"id":"bennett","name":"班尼特","emoji":"images/character/emoji/0229.webp","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"02月29日","avatar":"images/character/headshot/Mondstadt/Bennett.webp"},{"id":"noelle","name":"諾艾爾","emoji":"images/character/emoji/0321.png","element":"images/icon/elemental/white/岩.png","regionId":"mondstadt","birthday":"03月21日","avatar":"images/character/headshot/Mondstadt/Noelle.webp"},{"id":"fischl","name":"菲謝爾","emoji":"images/character/emoji/0527.png","element":"images/icon/elemental/white/雷.png","regionId":"mondstadt","birthday":"05月27日","avatar":"images/character/headshot/Mondstadt/Fischl.webp"},{"id":"sucrose","name":"砂糖","emoji":"images/character/emoji/1126.png","element":"images/icon/elemental/white/風.png","regionId":"mondstadt","birthday":"11月26日","avatar":"images/character/headshot/Mondstadt/Sucrose.webp"},{"id":"mona","name":"莫娜","emoji":"images/character/emoji/0831.png","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"08月31日","avatar":"images/character/headshot/Mondstadt/Mona.webp"},{"id":"diona","name":"迪奧娜","emoji":"images/character/emoji/0118.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"01月18日","avatar":"images/character/headshot/Mondstadt/Diona.webp"},{"id":"albedo","name":"阿貝多","emoji":"images/character/emoji/0913.png","element":"images/icon/elemental/white/岩.png","regionId":"mondstadt","birthday":"09月13日","avatar":"images/character/headshot/Mondstadt/Albedo.webp"},{"id":"rosaria","name":"蘿莎莉亞","emoji":"images/character/emoji/0124.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"01月24日","avatar":"images/character/headshot/Mondstadt/Rosaria.webp"},{"id":"eula","name":"優菈","emoji":"images/character/emoji/1025.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"10月25日","avatar":"images/character/headshot/Mondstadt/Eula.webp"},{"id":"mika","name":"米卡","emoji":"images/character/emoji/0811.png","element":"images/icon/elemental/white/冰.png","regionId":"mondstadt","birthday":"08月11日","avatar":"images/character/headshot/Mondstadt/Mika.webp"},{"id":"dahlia","name":"塔利雅","emoji":"images/character/emoji/0525.webp","element":"images/icon/elemental/white/水.png","regionId":"mondstadt","birthday":"05月25日","avatar":"images/character/headshot/Mondstadt/Dahlia.webp"},{"id":"durin","name":"杜林","emoji":"images/character/emoji/0314-2.webp","element":"images/icon/elemental/white/火.png","regionId":"mondstadt","birthday":"03月14日","avatar":"images/character/headshot/Mondstadt/Durin.webp"},{"id":"xiao","name":"魈","emoji":"images/character/emoji/0417.png","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"04月17日","avatar":"images/character/headshot/Liyue/Xiao.webp"},{"id":"beidou","name":"北斗","emoji":"images/character/emoji/0214.png","element":"images/icon/elemental/white/雷.png","regionId":"liyue","birthday":"02月14日","avatar":"images/character/headshot/Liyue/Beidou.webp"},{"id":"ningguang","name":"凝光","emoji":"images/character/emoji/0826.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"08月26日","avatar":"images/character/headshot/Liyue/Ningguang.webp"},{"id":"xiangling","name":"香菱","emoji":"images/character/emoji/1102.webp","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"11月02日","avatar":"images/character/headshot/Liyue/Xiangling.webp"},{"id":"xingqiu","name":"行秋","emoji":"images/character/emoji/1009.png","element":"images/icon/elemental/white/水.png","regionId":"liyue","birthday":"10月09日","avatar":"images/character/headshot/Liyue/Xingqiu.webp"},{"id":"chongyun","name":"重雲","emoji":"images/character/emoji/0907.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"09月07日","avatar":"images/character/headshot/Liyue/Chongyun.webp"},{"id":"qiqi","name":"七七","emoji":"images/character/emoji/0303.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"03月03日","avatar":"images/character/headshot/Liyue/Qiqi.webp"},{"id":"keqing","name":"刻晴","emoji":"images/character/emoji/1120.png","element":"images/icon/elemental/white/雷.png","regionId":"liyue","birthday":"11月20日","avatar":"images/character/headshot/Liyue/Keqing.webp"},{"id":"zhongli","name":"鍾離","emoji":"images/character/emoji/1231.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"12月31日","avatar":"images/character/headshot/Liyue/Zhongli.webp"},{"id":"xinyan","name":"辛焱","emoji":"images/character/emoji/1016.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"10月16日","avatar":"images/character/headshot/Liyue/Xinyan.webp"},{"id":"ganyu","name":"甘雨","emoji":"images/character/emoji/1202.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"12月02日","avatar":"images/character/headshot/Liyue/Ganyu.webp"},{"id":"hutao","name":"胡桃","emoji":"images/character/emoji/0715.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"07月15日","avatar":"images/character/headshot/Liyue/HuTao.webp"},{"id":"yanfei","name":"煙緋","emoji":"images/character/emoji/0728.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"07月28日","avatar":"images/character/headshot/Liyue/Yanfei.webp"},{"id":"shenhe","name":"申鶴","emoji":"images/character/emoji/0310.png","element":"images/icon/elemental/white/冰.png","regionId":"liyue","birthday":"03月10日","avatar":"images/character/headshot/Liyue/Shenhe.webp"},{"id":"yunjin","name":"雲堇","emoji":"images/character/emoji/0521.png","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"05月21日","avatar":"images/character/headshot/Liyue/YunJin.webp"},{"id":"yelan","name":"夜蘭","emoji":"images/character/emoji/0420.png","element":"images/icon/elemental/white/水.png","regionId":"liyue","birthday":"04月20日","avatar":"images/character/headshot/Liyue/Yelan.webp"},{"id":"yaoyao","name":"瑤瑤","emoji":"images/character/emoji/0306.png","element":"images/icon/elemental/white/草.png","regionId":"liyue","birthday":"03月06日","avatar":"images/character/headshot/Liyue/Yaoyao.webp"},{"id":"baizhu","name":"白术","emoji":"images/character/emoji/0425.png","element":"images/icon/elemental/white/草.png","regionId":"liyue","birthday":"04月25日","avatar":"images/character/headshot/Liyue/Baizhu.webp"},{"id":"xianyun","name":"閒雲","emoji":"images/character/emoji/0411.png","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"04月11日","avatar":"images/character/headshot/Liyue/Xianyun.webp"},{"id":"gaming","name":"嘉明","emoji":"images/character/emoji/1222.png","element":"images/icon/elemental/white/火.png","regionId":"liyue","birthday":"12月22日","avatar":"images/character/headshot/Liyue/Gaming.webp"},{"id":"lanyan","name":"藍硯","emoji":"images/character/emoji/0106.webp","element":"images/icon/elemental/white/風.png","regionId":"liyue","birthday":"01月06日","avatar":"images/character/headshot/Liyue/LanYan.webp"},{"id":"zibai","name":"茲白","emoji":"images/character/emoji/0315.webp","element":"images/icon/elemental/white/岩.png","regionId":"liyue","birthday":"03月15日","avatar":"images/character/new/Zibai.webp"},{"id":"kamisato-ayaka","name":"神里綾華","emoji":"images/character/emoji/0928.png","element":"images/icon/elemental/white/冰.png","regionId":"inazuma","birthday":"09月28日","avatar":"images/character/headshot/Inazuma/Kamisato-Ayaka.webp"},{"id":"kaedehara-kazuha","name":"楓原萬葉","emoji":"images/character/emoji/1029.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"10月29日","avatar":"images/character/headshot/Inazuma/Kaedehara-Kazuha.webp"},{"id":"yoimiya","name":"宵宮","emoji":"images/character/emoji/0621.png","element":"images/icon/elemental/white/火.png","regionId":"inazuma","birthday":"06月21日","avatar":"images/character/headshot/Inazuma/Yoimiya.webp"},{"id":"sayu","name":"早柚","emoji":"images/character/emoji/1019.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"10月19日","avatar":"images/character/headshot/Inazuma/Sayu.webp"},{"id":"raiden-shogun","name":"雷電影","emoji":"images/character/emoji/0626.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"06月26日","avatar":"images/character/headshot/Inazuma/Raiden-Shogun.webp"},{"id":"kujou-sara","name":"九條裟羅","emoji":"images/character/emoji/0714.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"07月14日","avatar":"images/character/headshot/Inazuma/Kujou-Sara.webp"},{"id":"sangonomiya-kokomi","name":"珊瑚宮心海","emoji":"images/character/emoji/0222.png","element":"images/icon/elemental/white/水.png","regionId":"inazuma","birthday":"02月22日","avatar":"images/character/headshot/Inazuma/Sangonomiya-Kokomi.webp"},{"id":"thoma","name":"托馬","emoji":"images/character/emoji/0109.png","element":"images/icon/elemental/white/火.png","regionId":"inazuma","birthday":"01月09日","avatar":"images/character/headshot/Inazuma/Thoma.webp"},{"id":"arataki-itto","name":"荒瀧一斗","emoji":"images/character/emoji/0601-1.png","element":"images/icon/elemental/white/岩.png","regionId":"inazuma","birthday":"06月01日","avatar":"images/character/headshot/Inazuma/Arataki-Itto.webp"},{"id":"gorou","name":"五郎","emoji":"images/character/emoji/0518.png","element":"images/icon/elemental/white/岩.png","regionId":"inazuma","birthday":"05月18日","avatar":"images/character/headshot/Inazuma/Gorou.webp"},{"id":"yae-miko","name":"八重神子","emoji":"images/character/emoji/0627.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"06月27日","avatar":"images/character/headshot/Inazuma/Yae-Miko.webp"},{"id":"kamisato-ayato","name":"神里綾人","emoji":"images/character/emoji/0326.png","element":"images/icon/elemental/white/水.png","regionId":"inazuma","birthday":"03月26日","avatar":"images/character/headshot/Inazuma/Kamisato-Ayato.webp"},{"id":"kuki-shinobu","name":"久岐忍","emoji":"images/character/emoji/0727-1.png","element":"images/icon/elemental/white/雷.png","regionId":"inazuma","birthday":"07月27日","avatar":"images/character/headshot/Inazuma/Kuki-Shinobu.webp"},{"id":"shikanoin-heizou","name":"鹿野院平藏","emoji":"images/character/emoji/0724.png","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"07月24日","avatar":"images/character/headshot/Inazuma/Shikanoin-Heizou.webp"},{"id":"kirara","name":"綺良良","emoji":"images/character/emoji/0122.webp","element":"images/icon/elemental/white/草.png","regionId":"inazuma","birthday":"01月22日","avatar":"images/character/headshot/Inazuma/Kirara.webp"},{"id":"yumemizuki-mizuki","name":"夢見月瑞希","emoji":"images/character/emoji/0316.webp","element":"images/icon/elemental/white/風.png","regionId":"inazuma","birthday":"03月16日","avatar":"images/character/headshot/Inazuma/Yumemizuki-Mizuki.webp"},{"id":"tighnari","name":"提納里","emoji":"images/character/emoji/1229.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"12月29日","avatar":"images/character/headshot/Sumeru/Tighnari.webp"},{"id":"collei","name":"柯萊","emoji":"images/character/emoji/0508.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"05月08日","avatar":"images/character/headshot/Sumeru/Collei.webp"},{"id":"dori","name":"多莉","emoji":"images/character/emoji/1221.webp","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"12月21日","avatar":"images/character/headshot/Sumeru/Dori.webp"},{"id":"cyno","name":"賽諾","emoji":"images/character/emoji/0623.png","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"06月23日","avatar":"images/character/headshot/Sumeru/Cyno.webp"},{"id":"candace","name":"坎蒂絲","emoji":"images/character/emoji/0503.png","element":"images/icon/elemental/white/水.png","regionId":"sumeru","birthday":"05月03日","avatar":"images/character/headshot/Sumeru/Candace.webp"},{"id":"nilou","name":"妮露","emoji":"images/character/emoji/1203.png","element":"images/icon/elemental/white/水.png","regionId":"sumeru","birthday":"12月03日","avatar":"images/character/headshot/Sumeru/Nilou.webp"},{"id":"nahida","name":"納西妲","emoji":"images/character/emoji/1027.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"10月27日","avatar":"images/character/headshot/Sumeru/Nahida.webp"},{"id":"layla","name":"萊依拉","emoji":"images/character/emoji/1219.png","element":"images/icon/elemental/white/冰.png","regionId":"sumeru","birthday":"12月19日","avatar":"images/character/headshot/Sumeru/Layla.webp"},{"id":"wanderer","name":"阿帽","emoji":"images/character/emoji/0103.png","element":"images/icon/elemental/white/風.png","regionId":"sumeru","birthday":"01月03日","avatar":"images/character/headshot/Sumeru/Wanderer.webp"},{"id":"faruzan","name":"琺露珊","emoji":"images/character/emoji/0820.png","element":"images/icon/elemental/white/風.png","regionId":"sumeru","birthday":"08月20日","avatar":"images/character/headshot/Sumeru/Faruzan.webp"},{"id":"alhaitham","name":"艾爾海森","emoji":"images/character/emoji/0211.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"02月11日","avatar":"images/character/headshot/Sumeru/Alhaitham.webp"},{"id":"dehya","name":"迪希雅","emoji":"images/character/emoji/0407.png","element":"images/icon/elemental/white/火.png","regionId":"sumeru","birthday":"04月07日","avatar":"images/character/headshot/Sumeru/Dehya.webp"},{"id":"kaveh","name":"卡維","emoji":"images/character/emoji/0709.png","element":"images/icon/elemental/white/草.png","regionId":"sumeru","birthday":"07月09日","avatar":"images/character/headshot/Sumeru/Kaveh.webp"},{"id":"sethos","name":"賽索斯","emoji":"images/character/emoji/0531.webp","element":"images/icon/elemental/white/雷.png","regionId":"sumeru","birthday":"05月31日","avatar":"images/character/headshot/Sumeru/Sethos.webp"},{"id":"lyney","name":"林尼","emoji":"images/character/emoji/0202-1.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"02月02日","avatar":"images/character/headshot/Fontaine/Lyney.webp"},{"id":"lynette","name":"琳妮特","emoji":"images/character/emoji/0202-2.png","element":"images/icon/elemental/white/風.png","regionId":"fontaine","birthday":"02月02日","avatar":"images/character/headshot/Fontaine/Lynette.webp"},{"id":"freminet","name":"菲米尼","emoji":"images/character/emoji/0924.png","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"09月24日","avatar":"images/character/headshot/Fontaine/Freminet.webp"},{"id":"neuvillette","name":"那維萊特","emoji":"images/character/emoji/1218.png","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"12月18日","avatar":"images/character/headshot/Fontaine/Neuvillette.webp"},{"id":"wriothesley","name":"萊歐斯利","emoji":"images/character/emoji/1123.webp","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"11月23日","avatar":"images/character/headshot/Fontaine/Wriothesley.webp"},{"id":"charlotte","name":"夏洛蒂","emoji":"images/character/emoji/0410.png","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"04月10日","avatar":"images/character/headshot/Fontaine/Charlotte.webp"},{"id":"furina","name":"芙寧娜","emoji":"images/character/emoji/1013.png","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"10月13日","avatar":"images/character/headshot/Fontaine/Furina.webp"},{"id":"navia","name":"娜薇婭","emoji":"images/character/emoji/0816.png","element":"images/icon/elemental/white/岩.png","regionId":"fontaine","birthday":"08月16日","avatar":"images/character/headshot/Fontaine/Navia.webp"},{"id":"chevreuse","name":"夏沃蕾","emoji":"images/character/emoji/0110.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"01月10日","avatar":"images/character/headshot/Fontaine/Chevreuse.webp"},{"id":"chiori","name":"千織","emoji":"images/character/emoji/0817.png","element":"images/icon/elemental/white/岩.png","regionId":"fontaine","birthday":"08月17日","avatar":"images/character/headshot/Fontaine/Chiori.webp"},{"id":"arlecchino","name":"阿蕾奇諾","emoji":"images/character/emoji/0822.png","element":"images/icon/elemental/white/火.png","regionId":"fontaine","birthday":"08月22日","avatar":"images/character/headshot/Fontaine/Arlecchino.webp"},{"id":"clorinde","name":"克洛琳德","emoji":"images/character/emoji/0920.webp","element":"images/icon/elemental/white/雷.png","regionId":"fontaine","birthday":"09月20日","avatar":"images/character/headshot/Fontaine/Clorinde.webp"},{"id":"sigewinne","name":"希格雯","emoji":"images/character/emoji/0330.webp","element":"images/icon/elemental/white/水.png","regionId":"fontaine","birthday":"03月30日","avatar":"images/character/headshot/Fontaine/Sigewinne.webp"},{"id":"emilie","name":"艾梅莉埃","emoji":"images/character/emoji/0922.webp","element":"images/icon/elemental/white/草.png","regionId":"fontaine","birthday":"09月22日","avatar":"images/character/headshot/Fontaine/Emilie.webp"},{"id":"escoffier","name":"愛可菲","emoji":"images/character/emoji/0608.webp","element":"images/icon/elemental/white/冰.png","regionId":"fontaine","birthday":"06月08日","avatar":"images/character/headshot/Fontaine/Escoffier.webp"},{"id":"mualani","name":"瑪拉妮","emoji":"images/character/emoji/0803.webp","element":"images/icon/elemental/white/水.png","regionId":"natlan","birthday":"08月03日","avatar":"images/character/headshot/Natlan/Mualani.webp"},{"id":"kachina","name":"卡齊娜","emoji":"images/character/emoji/0422.webp","element":"images/icon/elemental/white/岩.png","regionId":"natlan","birthday":"04月22日","avatar":"images/character/headshot/Natlan/Kachina.webp"},{"id":"kinich","name":"基尼奇","emoji":"images/character/emoji/1111.webp","element":"images/icon/elemental/white/草.png","regionId":"natlan","birthday":"11月11日","avatar":"images/character/headshot/Natlan/Kinich.webp"},{"id":"xilonen","name":"希諾寧","emoji":"images/character/emoji/0313.webp","element":"images/icon/elemental/white/岩.png","regionId":"natlan","birthday":"03月13日","avatar":"images/character/headshot/Natlan/Xilonen.webp"},{"id":"chasca","name":"恰斯卡","emoji":"images/character/emoji/1210.webp","element":"images/icon/elemental/white/風.png","regionId":"natlan","birthday":"12月10日","avatar":"images/character/headshot/Natlan/Chasca.webp"},{"id":"ororon","name":"歐洛倫","emoji":"images/character/emoji/1014.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"10月14日","avatar":"images/character/headshot/Natlan/Ororon.webp"},{"id":"citlali","name":"茜特菈莉","emoji":"images/character/emoji/0120.webp","element":"images/icon/elemental/white/冰.png","regionId":"natlan","birthday":"01月20日","avatar":"images/character/headshot/Natlan/Citlali.webp"},{"id":"mavuika","name":"瑪薇卡","emoji":"images/character/emoji/0828.webp","element":"images/icon/elemental/white/火.png","regionId":"natlan","birthday":"08月28日","avatar":"images/character/headshot/Natlan/Mavuika.webp"},{"id":"varesa","name":"瓦雷莎","emoji":"images/character/emoji/1115.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"11月15日","avatar":"images/character/headshot/Natlan/Varesa.webp"},{"id":"iansan","name":"伊安珊","emoji":"images/character/emoji/0808.webp","element":"images/icon/elemental/white/雷.png","regionId":"natlan","birthday":"08月08日","avatar":"images/character/headshot/Natlan/Iansan.webp"},{"id":"ifa","name":"伊法","emoji":"images/character/emoji/0323.webp","element":"images/icon/elemental/white/風.png","regionId":"natlan","birthday":"03月23日","avatar":"images/character/headshot/Natlan/Ifa.webp"},{"id":"ineffa","name":"伊涅芙","emoji":"images/character/emoji/0402.webp","element":"images/icon/elemental/white/雷.png","regionId":"nod-krai","birthday":"04月02日","avatar":"images/character/headshot/Nod-Krai/Ineffa.webp"},{"id":"lauma","name":"菈烏瑪","emoji":"images/character/emoji/0301.webp","element":"images/icon/elemental/white/草.png","regionId":"nod-krai","birthday":"03月01日","avatar":"images/character/headshot/Nod-Krai/Lauma.webp"},{"id":"aino","name":"愛諾","emoji":"images/character/emoji/0921.webp","element":"images/icon/elemental/white/水.png","regionId":"nod-krai","birthday":"09月21日","avatar":"images/character/headshot/Nod-Krai/Aino.webp"},{"id":"flins","name":"菲林斯","emoji":"images/character/emoji/1031.webp","element":"images/icon/elemental/white/雷.png","regionId":"nod-krai","birthday":"10月31日","avatar":"images/character/headshot/Nod-Krai/Flins.webp"},{"id":"nefer","name":"奈芙爾","emoji":"images/character/emoji/0509.webp","element":"images/icon/elemental/white/草.png","regionId":"nod-krai","birthday":"05月09日","avatar":"images/character/headshot/Nod-Krai/Nefer.webp"},{"id":"jahoda","name":"雅珂達","emoji":"images/character/emoji/0105.webp","element":"images/icon/elemental/white/風.png","regionId":"nod-krai","birthday":"01月05日","avatar":"images/character/headshot/Nod-Krai/Jahoda.webp"},{"id":"columbina","name":"哥倫比婭","emoji":"images/character/emoji/0114.webp","element":"images/icon/elemental/white/水.png","regionId":"nod-krai","birthday":"01月14日","avatar":"images/character/headshot/Nod-Krai/columbina.webp"},{"id":"illuga","name":"葉洛亞","emoji":"images/character/emoji/1223.webp","element":"images/icon/elemental/white/岩.png","regionId":"nod-krai","birthday":"12月23日","avatar":"images/character/new/Illuga.webp"},{"id":"tartaglia","name":"達達利亞","emoji":"images/character/emoji/0720.png","element":"images/icon/elemental/white/水.png","regionId":"snezhnaya","birthday":"07月20日","avatar":"images/character/headshot/Snezhnaya/Tartaglia.webp"},{"id":"paimon","name":"派蒙","emoji":"images/character/emoji/0601-2.png","element":null,"regionId":"other","birthday":"06月01日","avatar":"images/character/headshot/other/Paimon.webp"},{"id":"skirk","name":"絲柯克","emoji":"images/character/emoji/1105.webp","element":"images/icon/elemental/white/冰.png","regionId":"other","birthday":"11月05日","avatar":"images/character/headshot/other/Skirk.webp"}]'),rT=JSON.parse('[{"wanderer":{"2023":[{"date":"01-03","title":"莫名其妙","letterId":"wanderer_2023"}],"2024":[{"date":"01-03","title":"愚蠢的人…","letterId":"wanderer_2024"}],"2025":[{"date":"01-03","title":"卡牌…","letterId":"wanderer_2025"}],"2026":[{"date":"01-03","title":"見面…","letterId":"wanderer_2026"}]}},{"jahoda":{"2026":[{"date":"01-05","title":"休息日…","letterId":"jahoda_2026"}]}},{"lanyan":{"2026":[{"date":"01-06","title":"來山裡玩！","letterId":"lanyan_2026"}]}},{"thoma":{"2022":[{"date":"01-09","title":"香噴噴…","letterId":"thoma_2022"}],"2023":[{"date":"01-09","title":"聚會","letterId":"thoma_2023"}],"2024":[{"date":"01-09","title":"開心事！","letterId":"thoma_2024"}],"2025":[{"date":"01-09","title":"特別生日會…","letterId":"thoma_2025"}],"2026":[{"date":"01-09","title":"新朋友！","letterId":"thoma_2026"}]}},{"chevreuse":{"2024":[{"date":"01-10","title":"休假日…","letterId":"chevreuse_2024"}],"2025":[{"date":"01-10","title":"休假日…","letterId":"chevreuse_2025"}],"2026":[{"date":"01-10","title":"強制休假…","letterId":"chevreuse_2026"}]}},{"diona":{"2021":[{"date":"01-18","title":"救救我喵…","letterId":"diona_2021"}],"2022":[{"date":"01-18","title":"送給你的！","letterId":"diona_2022"}],"2023":[{"date":"01-18","title":"來分蛋糕！","letterId":"diona_2023"}],"2024":[{"date":"01-18","title":"今天是特例！","letterId":"diona_2024"}],"2025":[{"date":"01-18","title":"河邊等你！","letterId":"diona_2025"}],"2026":[{"date":"01-18","title":"快來吃蛋糕！","letterId":"diona_2026"}]}},{"citlali":{"2025":[{"date":"01-20","title":"又是一希維特*…","letterId":"citlali_2025"}],"2026":[{"date":"01-20","title":"今天沒喝酒…","letterId":"citlali_2026"}]}},{"kirara":{"2024":[{"date":"01-22","title":"最棒的節日！","letterId":"kirara_2024"}],"2025":[{"date":"01-22","title":"要一起磨爪子嗎？","letterId":"kirara_2025"}],"2026":[{"date":"01-22","title":"厲害的大魚","letterId":"kirara_2026"}]}},{"rosaria":{"2022":[{"date":"01-24","title":"今天…","letterId":"rosaria_2022"}],"2023":[{"date":"01-24","title":"普通的一天。","letterId":"rosaria_2023"}],"2024":[{"date":"01-24","title":"難得…","letterId":"rosaria_2024"}],"2025":[{"date":"01-24","title":"敬你。","letterId":"rosaria_2025"}],"2026":[{"date":"01-24","title":"被迫工作…","letterId":"rosaria_2026"}]}},{"lyney":{"2024":[{"date":"02-02","title":"生日驚喜！","letterId":"lyney_2024"}],"2025":[{"date":"02-02","title":"不見不散！","letterId":"lyney_2025"}],"2026":[{"date":"02-02","title":"大驚喜…","letterId":"lyney_2026"}]}},{"lynette":{"2024":[{"date":"02-02","title":"生日驚喜…","letterId":"lynette_2024"}],"2025":[{"date":"02-02","title":"哈哈。哈。","letterId":"lynette_2025"}],"2026":[{"date":"02-02","title":"我知道。","letterId":"lynette_2026"}]}},{"alhaitham":{"2023":[{"date":"02-11","title":"……","letterId":"alhaitham_2023"}],"2024":[{"date":"02-11","title":"……","letterId":"alhaitham_2024"}],"2025":[{"date":"02-11","title":"……","letterId":"alhaitham_2025"}]}},{"beidou":{"2021":[{"date":"02-14","title":"最近過得可好？","letterId":"beidou_2021"}],"2022":[{"date":"02-14","title":"好東西！","letterId":"beidou_2022"}],"2023":[{"date":"02-14","title":"魚宴…","letterId":"beidou_2023"}],"2024":[{"date":"02-14","title":"異國見聞…","letterId":"beidou_2024"}],"2025":[{"date":"02-14","title":"休整間隙…","letterId":"beidou_2025"}]}},{"sangonomiya-kokomi":{"2022":[{"date":"02-22","title":"生日的安排…","letterId":"sangonomiya-kokomi_2022"}],"2023":[{"date":"02-22","title":"滄海之約","letterId":"sangonomiya-kokomi_2023"}],"2024":[{"date":"02-22","title":"書友交流會…","letterId":"sangonomiya-kokomi_2024"}],"2025":[{"date":"02-22","title":"重溫…","letterId":"sangonomiya-kokomi_2025"}]}},{"bennett":{"2021":[{"date":"02-29","title":"這是給你的！","letterId":"bennett_2021"}],"2022":[{"date":"02-29","title":"來吃蛋糕嗎？","letterId":"bennett_2022"}],"2023":[{"date":"02-29","title":"我希望…","letterId":"bennett_2023"}],"2024":[{"date":"02-29","title":"好日子！","letterId":"bennett_2024"}],"2025":[{"date":"02-29","title":"轉運？","letterId":"bennett_2025"}]}},{"qiqi":{"2021":[{"date":"03-03","title":"生日。","letterId":"qiqi_2021"}],"2022":[{"date":"03-03","title":"生日。","letterId":"qiqi_2022"}],"2023":[{"date":"03-03","title":"你，快樂。","letterId":"qiqi_2023"}],"2024":[{"date":"03-03","title":"生日願望…","letterId":"qiqi_2024"}],"2025":[{"date":"03-03","title":"祈福。","letterId":"qiqi_2025"}]}},{"yaoyao":{"2023":[{"date":"03-06","title":"瑤瑤敬邀","letterId":"yaoyao_2023"}],"2024":[{"date":"03-06","title":"萬事俱備，只欠…","letterId":"yaoyao_2024"}],"2025":[{"date":"03-06","title":"春天好呀！","letterId":"yaoyao_2025"}]}},{"shenhe":{"2022":[{"date":"03-10","title":"長久…","letterId":"shenhe_2022"}],"2023":[{"date":"03-10","title":"生辰…","letterId":"shenhe_2023"}],"2024":[{"date":"03-10","title":"我的手藝…","letterId":"shenhe_2024"}],"2025":[{"date":"03-10","title":"你的煩惱…","letterId":"shenhe_2025"}]}},{"xilonen":{"2025":[{"date":"03-13","title":"起了個大早…","letterId":"xilonen_2025"}]}},{"jean":{"2021":[{"date":"03-14","title":"關於慶祝生日的方式。","letterId":"jean_2021"}],"2022":[{"date":"03-14","title":"充實的一日。","letterId":"jean_2022"}],"2023":[{"date":"03-14","title":"意外的驚喜…","letterId":"jean_2023"}],"2024":[{"date":"03-14","title":"近來的欣喜…","letterId":"jean_2024"}],"2025":[{"date":"03-14","title":"母親…","letterId":"jean_2025"}]}},{"yumemizuki-mizuki":{"2025":[{"date":"03-16","title":"慶典試行…","letterId":"yumemizuki-mizuki_2025"}]}},{"noelle":{"2021":[{"date":"03-21","title":"想和你約定。","letterId":"noelle_2021"}],"2022":[{"date":"03-21","title":"我們的約定…","letterId":"noelle_2022"}],"2023":[{"date":"03-21","title":"請幫幫我！","letterId":"noelle_2023"}],"2024":[{"date":"03-21","title":"花朵…","letterId":"noelle_2024"}],"2025":[{"date":"03-21","title":"完美糖霜…","letterId":"noelle_2025"}]}},{"kamisato-ayato":{"2023":[{"date":"03-26","title":"敬啟","letterId":"kamisato-ayato_2023"}],"2024":[{"date":"03-26","title":"關於進展…","letterId":"kamisato-ayato_2024"}],"2025":[{"date":"03-26","title":"茶宴","letterId":"kamisato-ayato_2025"}]}},{"sigewinne":{"2025":[{"date":"03-30","title":"致可愛的人。","letterId":"sigewinne_2025"}]}},{"dehya":{"2023":[{"date":"04-07","title":"喲！讓我猜猜看…","letterId":"dehya_2023"}],"2024":[{"date":"04-07","title":"生日宴會…","letterId":"dehya_2024"}],"2025":[{"date":"04-07","title":"誠邀…","letterId":"dehya_2025"}]}},{"charlotte":{"2024":[{"date":"04-10","title":"拜託…","letterId":"charlotte_2024"}],"2025":[{"date":"04-10","title":"快嚐嚐…","letterId":"charlotte_2025"}]}},{"xianyun":{"2024":[{"date":"04-11","title":"人間煙火…","letterId":"xianyun_2024"}],"2025":[{"date":"04-11","title":"熱鬧…","letterId":"xianyun_2025"}]}},{"xiao":{"2021":[{"date":"04-17","title":"贈蝶予你。","letterId":"xiao_2021"}],"2022":[{"date":"04-17","title":"待你空閒時…","letterId":"xiao_2022"}],"2023":[{"date":"04-17","title":"若你得閒…","letterId":"xiao_2023"}],"2024":[{"date":"04-17","title":"夢之所見…","letterId":"xiao_2024"}],"2025":[{"date":"04-17","title":"護身陣法…","letterId":"xiao_2025"}]}},{"yelan":{"2023":[{"date":"04-20","title":"喝個茶…","letterId":"yelan_2023"}],"2024":[{"date":"04-20","title":"幾枝新花…","letterId":"yelan_2024"}],"2025":[{"date":"04-20","title":"休假…","letterId":"yelan_2025"}]}},{"kachina":{"2025":[{"date":"04-22","title":"主動出擊！","letterId":"kachina_2025"}]}},{"baizhu":{"2024":[{"date":"04-25","title":"須臾之間…","letterId":"baizhu_2024"}],"2025":[{"date":"04-25","title":"養生茶飲…","letterId":"baizhu_2025"}]}},{"diluc":{"2021":[{"date":"04-30","title":"近來可好？","letterId":"diluc_2021"}],"2022":[{"date":"04-30","title":"晚餐…","letterId":"diluc_2022"}],"2023":[{"date":"04-30","title":"新品…","letterId":"diluc_2023"}],"2024":[{"date":"04-30","title":"香氛…","letterId":"diluc_2024"}],"2025":[{"date":"04-30","title":"出門前夕…","letterId":"diluc_2025"}]}},{"candace":{"2023":[{"date":"05-03","title":"休息日…","letterId":"candace_2023"}],"2024":[{"date":"05-03","title":"美麗的石頭…","letterId":"candace_2024"}],"2025":[{"date":"05-03","title":"守護安眠…","letterId":"candace_2025"}]}},{"collei":{"2023":[{"date":"05-08","title":"怎麼辦怎麼辦…","letterId":"collei_2023"}],"2024":[{"date":"05-08","title":"故事書…","letterId":"collei_2024"}],"2025":[{"date":"05-08","title":"讀書會…","letterId":"collei_2025"}]}},{"gorou":{"2022":[{"date":"05-18","title":"蛋糕！","letterId":"gorou_2022"}],"2023":[{"date":"05-18","title":"武鬥會…","letterId":"gorou_2023"}],"2024":[{"date":"05-18","title":"改善伙食…","letterId":"gorou_2024"}],"2025":[{"date":"05-18","title":"請求援助…","letterId":"gorou_2025"}]}},{"yunjin":{"2022":[{"date":"05-21","title":"來吃些宵夜？","letterId":"yunjin_2022"}],"2023":[{"date":"05-21","title":"海上明月。","letterId":"yunjin_2023"}],"2024":[{"date":"05-21","title":"新戲的想法…","letterId":"yunjin_2024"}],"2025":[{"date":"05-21","title":"異鄉新感…","letterId":"yunjin_2025"}]}},{"fischl":{"2021":[{"date":"05-27","title":"命定之日…","letterId":"fischl_2021"}],"2022":[{"date":"05-27","title":"命定之日…","letterId":"fischl_2022"}],"2023":[{"date":"05-27","title":"七聖的昭告…","letterId":"fischl_2023"}],"2024":[{"date":"05-27","title":"貓之眷屬…","letterId":"fischl_2024"}],"2025":[{"date":"05-27","title":"聖詠音律…","letterId":"fischl_2025"}]}},{"sethos":{"2025":[{"date":"05-31","title":"「難題」…","letterId":"sethos_2025"}]}},{"paimon":{"2021":[{"date":"06-01","title":"派蒙的生日到啦！","letterId":"paimon_2021"}],"2022":[{"date":"06-01","title":"過生日！","letterId":"paimon_2022"}],"2023":[{"date":"06-01","title":"蛋糕在哪裡？？","letterId":"paimon_2023"}],"2024":[{"date":"06-01","title":"一起做蛋糕吧！","letterId":"paimon_2024"}],"2025":[{"date":"06-01","title":"我們真厲害！","letterId":"paimon_2025"}]}},{"arataki-itto":{"2022":[{"date":"06-01","title":"喜訊！本大爺！生日！","letterId":"arataki-itto_2022"}],"2023":[{"date":"06-01","title":"要開心啊，摯友！","letterId":"arataki-itto_2023"}],"2024":[{"date":"06-01","title":"天才？鬼才！","letterId":"arataki-itto_2024"}],"2025":[{"date":"06-01","title":"希娜小姐…","letterId":"arataki-itto_2025"}]}},{"escoffier":{"2025":[{"date":"06-08","title":"指定料理…","letterId":"escoffier_2025"}]}},{"lisa":{"2021":[{"date":"06-09","title":"想我了嗎？","letterId":"lisa_2021"}],"2022":[{"date":"06-09","title":"小可愛…","letterId":"lisa_2022"}],"2023":[{"date":"06-09","title":"等你的消息。","letterId":"lisa_2023"}],"2024":[{"date":"06-09","title":"今天的安排…","letterId":"lisa_2024"}],"2025":[{"date":"06-09","title":"成長…","letterId":"lisa_2025"}]}},{"venti":{"2021":[{"date":"06-16","title":"喲嗬——","letterId":"venti_2021"}],"2022":[{"date":"06-16","title":"風來囉——","letterId":"venti_2022"}],"2023":[{"date":"06-16","title":"藏寶圖","letterId":"venti_2023"}],"2024":[{"date":"06-16","title":"悠閒的一天。","letterId":"venti_2024"}],"2025":[{"date":"06-16","title":"不急哦。","letterId":"venti_2025"}]}},{"yoimiya":{"2022":[{"date":"06-21","title":"我的生日…","letterId":"yoimiya_2022"}],"2023":[{"date":"06-21","title":"大妖怪！","letterId":"yoimiya_2023"}],"2024":[{"date":"06-21","title":"捧星星…","letterId":"yoimiya_2024"}],"2025":[{"date":"06-21","title":"幸福瞬間！","letterId":"yoimiya_2025"}]}},{"cyno":{"2023":[{"date":"06-23","title":"又有飯局…","letterId":"cyno_2023"}],"2024":[{"date":"06-23","title":"對決…","letterId":"cyno_2024"}],"2025":[{"date":"06-23","title":"時間正好…","letterId":"cyno_2025"}]}},{"raiden-shogun":{"2022":[{"date":"06-26","title":"呵呵…","letterId":"raiden-shogun_2022"}],"2023":[{"date":"06-26","title":"願望…","letterId":"raiden-shogun_2023"}],"2024":[{"date":"06-26","title":"前行…","letterId":"raiden-shogun_2024"}],"2025":[{"date":"06-26","title":"轉變…","letterId":"raiden-shogun_2025"}]}},{"yae-miko":{"2022":[{"date":"06-27","title":"好巧啊…","letterId":"yae-miko_2022"}],"2023":[{"date":"06-27","title":"享受…","letterId":"yae-miko_2023"}],"2024":[{"date":"06-27","title":"趣事…","letterId":"yae-miko_2024"}],"2025":[{"date":"06-27","title":"真可憐啊…","letterId":"yae-miko_2025"}]}},{"barbara":{"2021":[{"date":"07-05","title":"願望…","letterId":"barbara_2021"}],"2022":[{"date":"07-05","title":"我的秘訣…","letterId":"barbara_2022"}],"2023":[{"date":"07-05","title":"偶像的力量…","letterId":"barbara_2023"}],"2024":[{"date":"07-05","title":"一首歌…","letterId":"barbara_2024"}],"2025":[{"date":"07-05","title":"相聚時刻…","letterId":"barbara_2025"}]}},{"kaveh":{"2023":[{"date":"07-09","title":"！！","letterId":"kaveh_2023"}],"2024":[{"date":"07-09","title":"？？","letterId":"kaveh_2024"}],"2025":[{"date":"07-09","title":"！！","letterId":"kaveh_2025"}]}},{"kujou-sara":{"2022":[{"date":"07-14","title":"願望…","letterId":"kujou-sara_2022"}],"2023":[{"date":"07-14","title":"其五…","letterId":"kujou-sara_2023"}],"2024":[{"date":"07-14","title":"護弓…","letterId":"kujou-sara_2024"}],"2025":[{"date":"07-14","title":"點撥","letterId":"kujou-sara_2025"}]}},{"hutao":{"2021":[{"date":"07-15","title":"本堂主摯友親啟。","letterId":"hutao_2021"}],"2022":[{"date":"07-15","title":"摯友摯友看這裡！","letterId":"hutao_2022"}],"2023":[{"date":"07-15","title":"摯友速來！","letterId":"hutao_2023"}],"2024":[{"date":"07-15","title":"摯友撞大運！","letterId":"hutao_2024"}],"2025":[{"date":"07-15","title":"摯友來看豬！","letterId":"hutao_2025"}]}},{"tartaglia":{"2021":[{"date":"07-20","title":"可算等到今天了！","letterId":"tartaglia_2021"}],"2022":[{"date":"07-20","title":"來見一面！","letterId":"tartaglia_2022"}],"2023":[{"date":"07-20","title":"特訓…","letterId":"tartaglia_2023"}],"2024":[{"date":"07-20","title":"防詐…","letterId":"tartaglia_2024"}],"2025":[{"date":"07-20","title":"老規矩…","letterId":"tartaglia_2025"}]}},{"shikanoin-heizou":{"2022":[{"date":"07-24","title":"小小的交易…","letterId":"shikanoin-heizou_2022"}],"2023":[{"date":"07-24","title":"晚餐…","letterId":"shikanoin-heizou_2023"}],"2024":[{"date":"07-24","title":"防詐…","letterId":"shikanoin-heizou_2024"}],"2025":[{"date":"07-24","title":"「證人」…","letterId":"shikanoin-heizou_2025"}]}},{"klee":{"2021":[{"date":"07-27","title":"一定要保密哦！","letterId":"klee_2021"}],"2022":[{"date":"07-27","title":"夏天！","letterId":"klee_2022"}],"2023":[{"date":"07-27","title":"大冒險！","letterId":"klee_2023"}],"2024":[{"date":"07-27","title":"是快樂日！","letterId":"klee_2024"}],"2025":[{"date":"07-27","title":"「砰砰涼涼生日會」","letterId":"klee_2025"}]}},{"kuki-shinobu":{"2022":[{"date":"07-27","title":"有時間嗎？","letterId":"kuki-shinobu_2022"}],"2023":[{"date":"07-27","title":"速來。","letterId":"kuki-shinobu_2023"}],"2024":[{"date":"07-27","title":"難得清靜…","letterId":"kuki-shinobu_2024"}],"2025":[{"date":"07-27","title":"共勉…","letterId":"kuki-shinobu_2025"}]}},{"yanfei":{"2021":[{"date":"07-28","title":"話說…","letterId":"yanfei_2021"}],"2022":[{"date":"07-28","title":"日期…","letterId":"yanfei_2022"}],"2023":[{"date":"07-28","title":"預約…","letterId":"yanfei_2023"}],"2024":[{"date":"07-28","title":"潤潤喉…","letterId":"yanfei_2024"}],"2025":[{"date":"07-28","title":"普法講座…","letterId":"yanfei_2025"}]}},{"mualani":{"2025":[{"date":"08-03","title":"「好運巨浪」！","letterId":"mualani_2025"}]}},{"iansan":{"2025":[{"date":"08-08","title":"「放縱日」…","letterId":"iansan_2025"}]}},{"amber":{"2021":[{"date":"08-10","title":"一起來野餐吧！","letterId":"amber_2021"}],"2022":[{"date":"08-10","title":"偵察騎士的邀請！","letterId":"amber_2022"}],"2023":[{"date":"08-10","title":"偵察騎士一日冒險！","letterId":"amber_2023"}],"2024":[{"date":"08-10","title":"新衣服！","letterId":"amber_2024"}],"2025":[{"date":"08-10","title":"進修…","letterId":"amber_2025"}]}},{"mika":{"2023":[{"date":"08-11","title":"里程碑…","letterId":"mika_2023"}],"2024":[{"date":"08-11","title":"集體生日…","letterId":"mika_2024"}],"2025":[{"date":"08-11","title":"彙報…","letterId":"mika_2025"}]}},{"navia":{"2024":[{"date":"08-16","title":"噹噹噹噹！","letterId":"navia_2024"}],"2025":[{"date":"08-16","title":"大展身手！","letterId":"navia_2025"}]}},{"chiori":{"2024":[{"date":"08-17","title":"旅遊…","letterId":"chiori_2024"}],"2025":[{"date":"08-17","title":"孤獨與自由…","letterId":"chiori_2025"}]}},{"faruzan":{"2023":[{"date":"08-20","title":"如果收到這封信…","letterId":"faruzan_2023"}],"2024":[{"date":"08-20","title":"講解…","letterId":"faruzan_2024"}],"2025":[{"date":"08-20","title":"探討…","letterId":"faruzan_2025"}]}},{"arlecchino":{"2024":[{"date":"08-22","title":"爐火正旺…","letterId":"arlecchino_2024"}],"2025":[{"date":"08-22","title":"「許久不見」…","letterId":"arlecchino_2025"}]}},{"ningguang":{"2021":[{"date":"08-26","title":"幸得一株芬芳。","letterId":"ningguang_2021"}],"2022":[{"date":"08-26","title":"小聚。","letterId":"ningguang_2022"}],"2023":[{"date":"08-26","title":"棋友難覓。","letterId":"ningguang_2023"}],"2024":[{"date":"08-26","title":"煩請撥冗…","letterId":"ningguang_2024"}],"2025":[{"date":"08-26","title":"閒敘建議…","letterId":"ningguang_2025"}]}},{"mavuika":{"2025":[{"date":"08-28","title":"一路前行…","letterId":"mavuika_2025"}]}},{"mona":{"2021":[{"date":"08-31","title":"寶貴的日子！","letterId":"mona_2021"}],"2022":[{"date":"08-31","title":"偉大的日子！","letterId":"mona_2022"}],"2023":[{"date":"08-31","title":"抱歉…","letterId":"mona_2023"}],"2024":[{"date":"08-31","title":"加油打氣…","letterId":"mona_2024"}],"2025":[{"date":"08-31","title":"吃喝玩樂…","letterId":"mona_2025"}]}},{"chongyun":{"2021":[{"date":"09-07","title":"今日…","letterId":"chongyun_2021"}],"2022":[{"date":"09-07","title":"家裡人說…","letterId":"chongyun_2022"}],"2023":[{"date":"09-07","title":"斬妖誅邪！","letterId":"chongyun_2023"}],"2024":[{"date":"09-07","title":"應驗！","letterId":"chongyun_2024"}],"2025":[{"date":"09-07","title":"新歲之誓…","letterId":"chongyun_2025"}]}},{"razor":{"2021":[{"date":"09-09","title":"出生的日子…","letterId":"razor_2021"}],"2022":[{"date":"09-09","title":"我記得…今天。","letterId":"razor_2022"}],"2023":[{"date":"09-09","title":"好久…不見。","letterId":"razor_2023"}],"2024":[{"date":"09-09","title":"一起去。","letterId":"razor_2024"}],"2025":[{"date":"09-09","title":"在心裡。","letterId":"razor_2025"}]}},{"albedo":{"2021":[{"date":"09-13","title":"致…","letterId":"albedo_2021"}],"2022":[{"date":"09-13","title":"需要你協助的畫作…","letterId":"albedo_2022"}],"2023":[{"date":"09-13","title":"舊日的畫作…","letterId":"albedo_2023"}],"2024":[{"date":"09-13","title":"新的課題…","letterId":"albedo_2024"}],"2025":[{"date":"09-13","title":"「新夥伴」…","letterId":"albedo_2025"}]}},{"clorinde":{"2024":[{"date":"09-20","title":"新的劇本…","letterId":"clorinde_2024"}],"2025":[{"date":"09-20","title":"武器保養…","letterId":"clorinde_2025"}]}},{"aino":{"2025":[{"date":"09-21","title":"終於到今天啦！","letterId":"aino_2025"}]}},{"emilie":{"2024":[{"date":"09-22","title":"靈感…","letterId":"emilie_2024"}],"2025":[{"date":"09-22","title":"綻放…","letterId":"emilie_2025"}]}},{"freminet":{"2023":[{"date":"09-24","title":"分享…","letterId":"freminet_2023"}],"2024":[{"date":"09-24","title":"秘密基地…","letterId":"freminet_2024"}],"2025":[{"date":"09-24","title":"音樂盒…","letterId":"freminet_2025"}]}},{"kamisato-ayaka":{"2021":[{"date":"09-28","title":"今夜…","letterId":"kamisato-ayaka_2021"}],"2022":[{"date":"09-28","title":"相約…","letterId":"kamisato-ayaka_2022"}],"2023":[{"date":"09-28","title":"故地…","letterId":"kamisato-ayaka_2023"}],"2024":[{"date":"09-28","title":"見面…","letterId":"kamisato-ayaka_2024"}],"2025":[{"date":"09-28","title":"暖意…","letterId":"kamisato-ayaka_2025"}]}},{"xingqiu":{"2020":[{"date":"10-09","title":"就我們兩個人！","letterId":"xingqiu_2020"}],"2021":[{"date":"10-09","title":"再得佳期。","letterId":"xingqiu_2021"}],"2022":[{"date":"10-09","title":"見字如面。","letterId":"xingqiu_2022"}],"2023":[{"date":"10-09","title":"我有一計…","letterId":"xingqiu_2023"}],"2024":[{"date":"10-09","title":"提筆相助…","letterId":"xingqiu_2024"}],"2025":[{"date":"10-09","title":"常看常新…","letterId":"xingqiu_2025"}]}},{"furina":{"2024":[{"date":"10-13","title":"「特邀函」","letterId":"furina_2024"}],"2025":[{"date":"10-13","title":"大明星生日！","letterId":"furina_2025"}]}},{"ororon":{"2025":[{"date":"10-14","title":"蔬菜…","letterId":"ororon_2025"}]}},{"xinyan":{"2021":[{"date":"10-16","title":"等你來！","letterId":"xinyan_2021"}],"2022":[{"date":"10-16","title":"特別演唱會！","letterId":"xinyan_2022"}],"2023":[{"date":"10-16","title":"音浪熱辣！","letterId":"xinyan_2023"}],"2024":[{"date":"10-16","title":"一起創作！","letterId":"xinyan_2024"}],"2025":[{"date":"10-16","title":"水下搖滾？","letterId":"xinyan_2025"}]}},{"sayu":{"2021":[{"date":"10-19","title":"小睡片刻！","letterId":"sayu_2021"}],"2022":[{"date":"10-19","title":"長高了…嗎？","letterId":"sayu_2022"}],"2023":[{"date":"10-19","title":"釣魚好難…","letterId":"sayu_2023"}],"2024":[{"date":"10-19","title":"問題很大…","letterId":"sayu_2024"}],"2025":[{"date":"10-19","title":"美夢成真？！","letterId":"sayu_2025"}]}},{"eula":{"2021":[{"date":"10-25","title":"生日…","letterId":"eula_2021"}],"2022":[{"date":"10-25","title":"放鬆時刻…","letterId":"eula_2022"}],"2023":[{"date":"10-25","title":"代理隊長…","letterId":"eula_2023"}],"2024":[{"date":"10-25","title":"浪花洗禮…","letterId":"eula_2024"}],"2025":[{"date":"10-25","title":"輪休…","letterId":"eula_2025"}]}},{"nahida":{"2023":[{"date":"10-27","title":"閉上眼睛吧…","letterId":"nahida_2023"}],"2024":[{"date":"10-27","title":"花車顛啊顛…","letterId":"nahida_2024"}],"2025":[{"date":"10-27","title":"美夢，與你共享。","letterId":"nahida_2025"}]}},{"kaedehara-kazuha":{"2021":[{"date":"10-29","title":"風起…","letterId":"kaedehara-kazuha_2021"}],"2022":[{"date":"10-29","title":"天涯同路。","letterId":"kaedehara-kazuha_2022"}],"2023":[{"date":"10-29","title":"紅葉時節…","letterId":"kaedehara-kazuha_2023"}],"2024":[{"date":"10-29","title":"同賞金秋。","letterId":"kaedehara-kazuha_2024"}],"2025":[{"date":"10-29","title":"歸處…","letterId":"kaedehara-kazuha_2025"}]}},{"flins":{"2025":[{"date":"10-31","title":"為您執燈…","letterId":"flins_2025"}]}},{"xiangling":{"2020":[{"date":"11-02","title":"生日想做的事！","letterId":"xiangling_2020"}],"2021":[{"date":"11-02","title":"鍋巴也想你了！","letterId":"xiangling_2021"}],"2022":[{"date":"11-02","title":"嚐鮮！","letterId":"xiangling_2022"}],"2023":[{"date":"11-02","title":"來吃飯！","letterId":"xiangling_2023"}],"2024":[{"date":"11-02","title":"火辣辣大餐！","letterId":"xiangling_2024"}],"2025":[{"date":"11-02","title":"退一步？進一步！","letterId":"xiangling_2025"}]}},{"skirk":{"2025":[{"date":"11-05","title":"記錄的方式…","letterId":"skirk_2025"}]}},{"kinich":{"2024":[{"date":"11-11","title":"度過生日的方式…","letterId":"kinich_2024"}],"2025":[{"date":"11-11","title":"值得紀念。","letterId":"kinich_2025"}]}},{"varesa":{"2025":[{"date":"11-15","title":"盡量吃…","letterId":"varesa_2025"}]}},{"keqing":{"2020":[{"date":"11-20","title":"晚上見！","letterId":"keqing_2020"}],"2021":[{"date":"11-20","title":"白駒過隙。","letterId":"keqing_2021"}],"2022":[{"date":"11-20","title":"想邀你參加宴席。","letterId":"keqing_2022"}],"2023":[{"date":"11-20","title":"心意…","letterId":"keqing_2023"}],"2024":[{"date":"11-20","title":"家宴…","letterId":"keqing_2024"}],"2025":[{"date":"11-20","title":"一同品嚐…","letterId":"keqing_2025"}]}},{"wriothesley":{"2023":[{"date":"11-23","title":"一路順風","letterId":"wriothesley_2023"}],"2024":[{"date":"11-23","title":"按勞分配。","letterId":"wriothesley_2024"}],"2025":[{"date":"11-23","title":"皆大歡喜","letterId":"wriothesley_2025"}]}},{"sucrose":{"2020":[{"date":"11-26","title":"該怎麼辦呢。","letterId":"sucrose_2020"}],"2021":[{"date":"11-26","title":"一些新發現。","letterId":"sucrose_2021"}],"2022":[{"date":"11-26","title":"假期…","letterId":"sucrose_2022"}],"2023":[{"date":"11-26","title":"秘密研究。","letterId":"sucrose_2023"}],"2024":[{"date":"11-26","title":"野外實驗…","letterId":"sucrose_2024"}],"2025":[{"date":"11-26","title":"研究…","letterId":"sucrose_2025"}]}},{"kaeya":{"2020":[{"date":"11-30","title":"說起來…","letterId":"kaeya_2020"}],"2021":[{"date":"11-30","title":"順著風…","letterId":"kaeya_2021"}],"2022":[{"date":"11-30","title":"打牌…","letterId":"kaeya_2022"}],"2023":[{"date":"11-30","title":"季節的味道…","letterId":"kaeya_2023"}],"2024":[{"date":"11-30","title":"玩個遊戲…","letterId":"kaeya_2024"}],"2025":[{"date":"11-30","title":"美酒…","letterId":"kaeya_2025"}]}},{"ganyu":{"2021":[{"date":"12-02","title":"想說的話…","letterId":"ganyu_2021"}],"2022":[{"date":"12-02","title":"賞月…","letterId":"ganyu_2022"}],"2023":[{"date":"12-02","title":"垂釣…","letterId":"ganyu_2023"}],"2024":[{"date":"12-02","title":"山間小憩。","letterId":"ganyu_2024"}],"2025":[{"date":"12-02","title":"偶得一面…","letterId":"ganyu_2025"}]}},{"nilou":{"2022":[{"date":"12-03","title":"沙漠…","letterId":"nilou_2022"}],"2023":[{"date":"12-03","title":"雨的舞蹈…","letterId":"nilou_2023"}],"2024":[{"date":"12-03","title":"舞蹈的意義…","letterId":"nilou_2024"}],"2025":[{"date":"12-03","title":"新的舞蹈…","letterId":"nilou_2025"}]}},{"chasca":{"2024":[{"date":"12-10","title":"陪伴…","letterId":"chasca_2024"}],"2025":[{"date":"12-10","title":"篝火晚會…","letterId":"chasca_2025"}]}},{"neuvillette":{"2023":[{"date":"12-18","title":"海沫村…","letterId":"neuvillette_2023"}],"2024":[{"date":"12-18","title":"久未問候…","letterId":"neuvillette_2024"}],"2025":[{"date":"12-18","title":"細雨將至…","letterId":"neuvillette_2025"}]}},{"layla":{"2022":[{"date":"12-19","title":"休息一天…","letterId":"layla_2022"}],"2023":[{"date":"12-19","title":"結題慶祝！","letterId":"layla_2023"}],"2024":[{"date":"12-19","title":"唉。","letterId":"layla_2024"}],"2025":[{"date":"12-19","title":"點心…","letterId":"layla_2025"}]}},{"dori":{"2022":[{"date":"12-21","title":"生日大酬賓","letterId":"dori_2022"}],"2023":[{"date":"12-21","title":"大生意！","letterId":"dori_2023"}],"2024":[{"date":"12-21","title":"免費進場！","letterId":"dori_2024"}],"2025":[{"date":"12-21","title":"好日子！","letterId":"dori_2025"}]}},{"gaming":{"2024":[{"date":"12-22","title":"打邊爐！","letterId":"gaming_2024"}],"2025":[{"date":"12-22","title":"時間到了！起身！","letterId":"gaming_2025"}]}},{"tighnari":{"2022":[{"date":"12-29","title":"真是不巧…","letterId":"tighnari_2022"}],"2023":[{"date":"12-29","title":"要來嗎？","letterId":"tighnari_2023"}],"2024":[{"date":"12-29","title":"納塔調查…","letterId":"tighnari_2024"}],"2025":[{"date":"12-29","title":"分你一些…","letterId":"tighnari_2025"}]}},{"zhongli":{"2020":[{"date":"12-31","title":"見信如晤。","letterId":"zhongli_2020"}],"2021":[{"date":"12-31","title":"一年之末。","letterId":"zhongli_2021"}],"2022":[{"date":"12-31","title":"歲末小敘","letterId":"zhongli_2022"}],"2023":[{"date":"12-31","title":"每至年末…","letterId":"zhongli_2023"}],"2024":[{"date":"12-31","title":"歲序更新…","letterId":"zhongli_2024"}],"2025":[{"date":"12-31","title":"歲暮乘閒…","letterId":"zhongli_2025"}]}}]'),sT={character:"wanderer",year:2026,sign:"阿帽 2026-01-03",content:`最近沒什麼閒工夫，也沒心思專門去為自己記個日子，有什麼必要呢？每個人都知道現在真正該做的是什麼，絕不是歡天喜地地聚在一起，像個閒人一樣地慶祝生日。
 但杜林堅持他的觀點。他說去見某人也算得上一種有意義的行動，團結在一起的人們本身就會傳遞出某種力量。
 我看他是想用這種方式為我調整狀態。
 見一面吧，讓我送你一點禮物。至少這一刻有兩個人能開心了。`},oT={character:"wanderer",year:2025,sign:"阿帽 2025-01-03",content:`生日當天見不到我已經變成周圍人的共識了。為什麼？根本毫無依據。
@@ -142,178 +142,187 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 給你帶了些花。花店的那個什麼蘿拉說，這是近期賣得最好的一種。
 …至少看起來是滿有趣的，會轉呢。
 美好的事物能帶給人不一樣的心情。它與我並不相配，但若是在你手中，想必會有所不同。
-總之，天亮了再來找我吧。`},UT={character:"lyney",year:2025,sign:"林尼 2025-02-02",content:`菲米尼幫我改造了魔術機關，忙了一夜，現在正在打瞌睡呢，辛苦他了。我呢，還很興奮，因為盛大的派對就要開幕囉——
+總之，天亮了再來找我吧。`},UT={character:"lyney",year:2026,sign:"林尼 2026-02-02",content:`又到了一年一度，必須認真思考某個難題的時候——該準備給大家怎麼樣的「驚喜」呢？
+如果用老魔術的話…也許能騙過其他孩子，但在琳妮特和菲米尼眼裡，恐怕我只要隨便彎一根手指，他們都能猜出我接下來要用的技巧…
+所以，我瞞著他們，研究了一個全新的魔術。不過嘛…要變那場魔術，還需要一個聰明伶俐、才思敏捷，還和我心意相通的朋友幫忙。
+快來找我吧，我保證，這將是你今年最棒的奇蹟時刻！
+另：別告訴琳妮特和菲米尼，好嗎？隨信附上「封口費」，我剛把它摘下來，你會喜歡的。`},BT={character:"lyney",year:2025,sign:"林尼 2025-02-02",content:`菲米尼幫我改造了魔術機關，忙了一夜，現在正在打瞌睡呢，辛苦他了。我呢，還很興奮，因為盛大的派對就要開幕囉——
 哎呀，帽子裡怎麼會藏了這麼多禮物呢？不把這些禮物清空，羅瑟蘭恐怕要生氣了。所以，需要大家都來幫忙，領走屬於自己的那份禮物！
 這個派對不僅僅是為琳妮特打造的，也是為每一位家人，更是為我自己準備的。家人緊密相連、歡聲笑語…就是我想要的最棒的禮物！
 對了，你的那份佔的空間不小，快來拿哦！忘記了嗎？
 我早就把你當成家人了。
-不見不散！`},BT={character:"lyney",year:2024,sign:"林尼 2024-02-02",content:`我們為琳妮特準備個生日驚喜吧！
+不見不散！`},kT={character:"lyney",year:2024,sign:"林尼 2024-02-02",content:`我們為琳妮特準備個生日驚喜吧！
 這件事情說來不難，辦起來卻不簡單。我們每年都會一起過生日，「驚喜派對」這種小把戲是瞞不過她的，只能在其他方面另做打算。
 今年的話，我想邀請一名「驚喜嘉賓」——沒錯，就是你！
 前幾年的「驚喜」都被她提前猜到了…雖然她也努力裝出了一副不知情的樣子。
 不過今年可以請到你的話，一定會是最棒的「驚喜」。
-怎麼樣，有空嗎？我已經想好了讓你華麗登場的魔術，就等你來彩排了！`},kT={character:"lynette",year:2025,sign:"琳妮特 2025-02-02",content:`躡手躡腳踩在地毯上的聲音很輕，但能傳到我耳朵裡。
+怎麼樣，有空嗎？我已經想好了讓你華麗登場的魔術，就等你來彩排了！`},HT={character:"lynette",year:2026,sign:"琳妮特 2026-02-02",content:`林尼以為我不知道。但工坊裡那些魔術道具的數量和擺放位置，我記得很清楚，所以，我已經發現了那些多出來的軸承和螺絲，還有道具上新增的刮擦痕跡。
+但我很擅長保守秘密，甚至也很擅長保守「我在保守秘密」這個秘密。所以，我並沒有告訴他這些事。
+以及，這是我為了魔術表演新學的繞口令，用這種方法可以很快吸引客人的注意力——看，面無表情成為了一種優勢。
+如果你想學快速唸誦繞口令的訣竅的話，我可以教你。
+但練繞口令很容易口乾，你先喝點茶吧。
+等林尼來了，我們一起去唸繞口令給他聽。這是他今年的生日禮物。`},qT={character:"lynette",year:2025,sign:"琳妮特 2025-02-02",content:`躡手躡腳踩在地毯上的聲音很輕，但能傳到我耳朵裡。
 今天早餐時，林尼和菲米尼的袖口都印有不同顏色的油墨，鞋面也沾了彩紙碎屑，可以推斷昨晚就是他們兩個在「秘密」佈置場地。
 我的任務就是保守秘密，當沒看見。
 「哈哈哈」。但我打算比平常多笑一聲。
 應該夠了，即使不出聲，林尼也能讀懂我的心情。還是一邊泡茶一邊進入待機模式適合我。
-家人們都有自己的專屬杯子，我也幫你準備了一個，來看看喜不喜歡吧。`},HT={character:"lynette",year:2024,sign:"琳妮特 2024-02-02",content:`前略。
+家人們都有自己的專屬杯子，我也幫你準備了一個，來看看喜不喜歡吧。`},IT={character:"lynette",year:2024,sign:"琳妮特 2024-02-02",content:`前略。
 林尼和我的生日到了。
 前年他準備的「驚喜」是在蛋糕裡藏了禮物，去年是讓羅瑟蘭叼著彩旗從帽子裡蹦出來…
 我的禮物就普通多了，反正不管花多少能量去準備，都會被他猜到…就像我可以猜到他的計畫一樣。
 但他好像一直樂此不疲的樣子，就隨他去吧。
 今年我本來想直接邀請你來，但總覺得林尼那邊大概還會拜託你一堆麻煩的事…
-如果真的變成這樣，可以請你配合他一下嗎？我會盡量裝作不知情的。`},qT={character:"alhaitham",year:2025,sign:"艾爾海森 2025-02-11",content:`眾所皆知，「富有」是相對的概念。知識的領域太過龐大，派蒙未能涉足的部分還有很多。但從她的讀書筆記來看，與很多人相比，她已經相當富有。
+如果真的變成這樣，可以請你配合他一下嗎？我會盡量裝作不知情的。`},YT={character:"alhaitham",year:2025,sign:"艾爾海森 2025-02-11",content:`眾所皆知，「富有」是相對的概念。知識的領域太過龐大，派蒙未能涉足的部分還有很多。但從她的讀書筆記來看，與很多人相比，她已經相當富有。
 為表祝賀，一個月前幫她在教令院報了一門課，相信通知已經送到她手裡了。
 如果能成功結業，以後可以申請在賢者的研究計畫當助理。
-另外，為確認報到情況，請回答：因論派社會與人文課程的導師全名是什麼？`},IT={character:"alhaitham",year:2024,sign:"艾爾海森 2024-02-11",content:`前幾天駐紮阿如村的學者派遣團回訪智慧宮，談到一些耳熟的名字。據說伊薩克現在能熟練讀寫學城體了，院裡還送了些初級課本給他。
+另外，為確認報到情況，請回答：因論派社會與人文課程的導師全名是什麼？`},GT={character:"alhaitham",year:2024,sign:"艾爾海森 2024-02-11",content:`前幾天駐紮阿如村的學者派遣團回訪智慧宮，談到一些耳熟的名字。據說伊薩克現在能熟練讀寫學城體了，院裡還送了些初級課本給他。
 我想，派蒙應該不會輸給伊薩克吧。
-隨信附上進階讀物。`},YT={character:"alhaitham",year:2023,sign:"艾爾海森 2023-02-11",content:`須彌沒有專門用於讀書的紀念日，這是一部分人不看紙質書的藉口。
+隨信附上進階讀物。`},XT={character:"alhaitham",year:2023,sign:"艾爾海森 2023-02-11",content:`須彌沒有專門用於讀書的紀念日，這是一部分人不看紙質書的藉口。
 記得派蒙對書有興趣，智慧宮裡有幾本適合她的讀物。
-看完這些，她就勝過了許多人。`},GT={character:"beidou",year:2025,sign:"北斗 2025-02-14",content:`船隊這會正在奧摩斯港整備呢，剛才隨意走進了一家酒館，沒想到老闆是個不折不扣的航海迷，還大方地送了幾道拿手菜！哈，璃月講究禮尚往來，我能白拿人家好處嗎？大副已經請老闆上甲板參觀去了，祝他玩得開心！
+看完這些，她就勝過了許多人。`},KT={character:"beidou",year:2025,sign:"北斗 2025-02-14",content:`船隊這會正在奧摩斯港整備呢，剛才隨意走進了一家酒館，沒想到老闆是個不折不扣的航海迷，還大方地送了幾道拿手菜！哈，璃月講究禮尚往來，我能白拿人家好處嗎？大副已經請老闆上甲板參觀去了，祝他玩得開心！
 每逢遇到投契的新朋友，就免不了想起你來！近來怎麼樣？趁著好酒好菜在前，要不要來見一面？
 時間得抓緊囉，吃飽喝足後馬上就要再次啟航了。不可否認，港口的確很寧靜舒適，但死兆星號可是為了波濤而生的。
-你也同意的吧？哈哈！`},XT={character:"beidou",year:2024,sign:"北斗 2024-02-14",content:`前陣子我帶領船隊拓展航線，途徑遺瓏埠，接著一路往西開到了楓丹的柔燈港。
+你也同意的吧？哈哈！`},ZT={character:"beidou",year:2024,sign:"北斗 2024-02-14",content:`前陣子我帶領船隊拓展航線，途徑遺瓏埠，接著一路往西開到了楓丹的柔燈港。
 航海這麼多年，什麼大風大浪沒見過？但這次我在當地人的推薦下嘗試了潛水，沒想到又見識到了一個新奇的世界。
 採海露花的時候，幾隻重甲蟹張牙舞爪地把我圍了起來，我乾脆一拳一個把牠們都打倒了。我必須說，久違地徒手戰鬥一回，感覺還滿暢快的。
-還有這些幽光星星也很漂亮，隨信一起寄給你當作紀念品。有機會就來找我聚聚，我準備幾道小菜給你，一起聊聊最近的冒險吧。`},KT={character:"beidou",year:2023,sign:"北斗 2023-02-14",content:`今早我動手捕了條魚，差不多有一艘小船那麼大吧。正巧趕上我生日，我乾脆就請萬民堂用牠辦了場全魚宴。
+還有這些幽光星星也很漂亮，隨信一起寄給你當作紀念品。有機會就來找我聚聚，我準備幾道小菜給你，一起聊聊最近的冒險吧。`},QT={character:"beidou",year:2023,sign:"北斗 2023-02-14",content:`今早我動手捕了條魚，差不多有一艘小船那麼大吧。正巧趕上我生日，我乾脆就請萬民堂用牠辦了場全魚宴。
 說起這條魚，第一次逮牠的時候，這傢伙本來已經被鉤住了嘴，但沒想到牠那尾巴力氣不小，一連搧紅了好幾個水手的臉，最後硬是掙脫了鐵鉤，游回了海裡。
-要是連一條魚都制不住，我的船隊也不配叫「南十字」了。總而言之，牠現在已經老老實實被做成了水煮魚。比起尋常的海魚，這魚的肉勁道了許多，味道也是一絕，你一定要來嚐嚐啊。`},ZT={character:"beidou",year:2022,sign:"北斗 2022-02-14",content:`最近弄到了一些賣相不錯的夜泊石，剛好等會帶去給你。我對礦石研究不深，但好東西還是不會看走眼的。
+要是連一條魚都制不住，我的船隊也不配叫「南十字」了。總而言之，牠現在已經老老實實被做成了水煮魚。比起尋常的海魚，這魚的肉勁道了許多，味道也是一絕，你一定要來嚐嚐啊。`},JT={character:"beidou",year:2022,sign:"北斗 2022-02-14",content:`最近弄到了一些賣相不錯的夜泊石，剛好等會帶去給你。我對礦石研究不深，但好東西還是不會看走眼的。
 這些石頭放在我手裡，無非就那麼些一般用途，給你倒是說不定會有新思路。想收藏用，還是想做首飾、做武器？哈哈，根據這個結果，也能看出你對礦石的品味，讓我也見識一下你的水準。
 今天我很閒，你呢？有時間嗎，要不要跟我隨處轉轉？
 什麼都不用帶，吃喝我包。也算是我們倆的老規矩了。
-你心裡有數的吧？不見不散！`},QT={character:"beidou",year:2021,sign:"北斗 2021-02-14",content:`時間過得可真快。這有時候一上船就不知道什麼時候腳才能著地，好巧不巧，這次出航遇上了暴風雨，電閃雷鳴，有兩個水手還以為回不來了。
+你心裡有數的吧？不見不散！`},FT={character:"beidou",year:2021,sign:"北斗 2021-02-14",content:`時間過得可真快。這有時候一上船就不知道什麼時候腳才能著地，好巧不巧，這次出航遇上了暴風雨，電閃雷鳴，有兩個水手還以為回不來了。
 哈，那我豈能讓他們害怕。這不連人帶船開回家了。
 來見我一面吧！今天是個好日子，讓你嚐嚐我的手藝。
-對了，路上我順道摘了些新鮮的「琉璃袋」，寄去給你了。聽香菱說你有陣子一直在找這種香料。下次有這種需要，直接跟我說一就行了。我幫你準備。`},JT={character:"bennett",year:2025,sign:"班尼特 2025-02-28",content:`呃，這是我今天寫的第三封信。第一封寫了一半，被打翻的茶水浸濕了…第二封信，一出門就被大風捲上天，我猜…它大概趕著去考飛行執照？
+對了，路上我順道摘了些新鮮的「琉璃袋」，寄去給你了。聽香菱說你有陣子一直在找這種香料。下次有這種需要，直接跟我說一就行了。我幫你準備。`},PT={character:"bennett",year:2025,sign:"班尼特 2025-02-28",content:`呃，這是我今天寫的第三封信。第一封寫了一半，被打翻的茶水浸濕了…第二封信，一出門就被大風捲上天，我猜…它大概趕著去考飛行執照？
 哈哈，沒關係，這一封一定能順利寄到你手裡！
 說回正題，昨天我在冒險時又被不知道哪來的石頭砸到頭了。本來這種事還滿常見的，但這次頭上卻腫了個大包！我覺得這石頭很特別，果然，帶回去後老爹們都說這是很好的鍛造原料。我特地附在信後面了，希望你用得上！
 這幾天我會乖乖養傷，你不用擔心我。再說，能撿到這麼好的石頭，簡直就是轉運的徵兆啊！
-班尼冒險團，新的一歲希望能向更遠的地方——出發！`},FT={character:"bennett",year:2024,sign:"班尼特 2024-02-29",content:`我的生日快要到了，這四年才有一次的日子，必須提早規劃，從睜眼的那刻起就準備好接下來一整天的行程。要感謝老爹們，陪他們多聊聊天、要拜訪朋友們，把生日當天難得的好運分享給大家，還要做些具有紀念意義的事，譬如說約你去新秘境裡一起冒險，再託派蒙用留影機為我們拍下畫片！
+班尼冒險團，新的一歲希望能向更遠的地方——出發！`},$T={character:"bennett",year:2024,sign:"班尼特 2024-02-29",content:`我的生日快要到了，這四年才有一次的日子，必須提早規劃，從睜眼的那刻起就準備好接下來一整天的行程。要感謝老爹們，陪他們多聊聊天、要拜訪朋友們，把生日當天難得的好運分享給大家，還要做些具有紀念意義的事，譬如說約你去新秘境裡一起冒險，再託派蒙用留影機為我們拍下畫片！
 我就這樣翻來覆去地想啊想，結果一整晚都沒睡著。不知不覺，連窗外的鳥都開始叫了…
 我實在躺不下去，乾脆不睡了！先行動起來，剩下的…剩下的再隨機應變就好。
-我把大蛋糕放在桌上了，等你來了我再切哦！`},PT={character:"bennett",year:2023,sign:"班尼特 2023-02-28",content:`其實今天並不能算是我真正的生日，還得再等一年才行。不過比起慶祝自己的誕生，還是和老爹們、朋友們聚在一起更重要也更開心。
+我把大蛋糕放在桌上了，等你來了我再切哦！`},WT={character:"bennett",year:2023,sign:"班尼特 2023-02-28",content:`其實今天並不能算是我真正的生日，還得再等一年才行。不過比起慶祝自己的誕生，還是和老爹們、朋友們聚在一起更重要也更開心。
 今年老爹們湊錢買了一個好大的雙層蛋糕，貴的果然不一樣！蛋糕上的奶油和水果好吃得讓我想流淚。
 每一年生日我都能得到蛋糕，還有大家的關心，我真的很幸福！
-我希望自己能把這份幸福也分享給你，所以隨信送了點小禮物，哈哈。謝謝你這一年來對我的照顧，以後我們還要一起冒險，做彼此的最佳拍檔！`},$T={character:"bennett",year:2022,sign:"班尼特 2022-02-28",content:`嘿嘿…真沒想到啊，在今天這個日子，我又收到了老爹們送來的蛋糕。其實，我心裡多少有點不好意思，可一想到這是他們對我的好意，就覺得必須要好好收下才行。
+我希望自己能把這份幸福也分享給你，所以隨信送了點小禮物，哈哈。謝謝你這一年來對我的照顧，以後我們還要一起冒險，做彼此的最佳拍檔！`},tx={character:"bennett",year:2022,sign:"班尼特 2022-02-28",content:`嘿嘿…真沒想到啊，在今天這個日子，我又收到了老爹們送來的蛋糕。其實，我心裡多少有點不好意思，可一想到這是他們對我的好意，就覺得必須要好好收下才行。
 報答老爹們是一件需要持之以恆的事情，對待朋友也是一樣，嘿嘿，我都明白的。
 說到這個，最近我得到了一件狼牙似的東西，看起來挺厲害的。它藏在一個很陰暗、很潮濕的祕境裡面，很不好弄，讓我吃了不少苦頭…
 總之，就把它當成我冒險的收穫，好好收著吧，希望你會喜歡！
-噢對了，蛋糕很大，我等你一起來吃喔！`},WT={character:"bennett",year:2021,sign:"班尼特 2021-02-28",content:`今天一早老爹們就為我準備了一大塊蛋糕，說是幫我過生日。可是，我真正的生日明明每四年才一次，就這樣收下禮物，還是有點不好意思。而且，要是沒有大家的照顧，我說不定早就倒在某個不為人知的角落了，絕不可能過得像現在這麼快樂。
+噢對了，蛋糕很大，我等你一起來吃喔！`},ex={character:"bennett",year:2021,sign:"班尼特 2021-02-28",content:`今天一早老爹們就為我準備了一大塊蛋糕，說是幫我過生日。可是，我真正的生日明明每四年才一次，就這樣收下禮物，還是有點不好意思。而且，要是沒有大家的照顧，我說不定早就倒在某個不為人知的角落了，絕不可能過得像現在這麼快樂。
 所以啊，我幫他們每個人都準備了回禮。然後，我也準備了你的！
 你也是我重要的人，我…我想表達對你的感謝…
 如果說現在我有什麼願望的話，希望…希望真正過生日那天，我的身邊也有你在，嘿嘿。
-哦！對了！蛋只是外表有點焦，味道是沒問題的！我煎了兩個，自己試吃了一個，這份煎蛋絕對安全，你就放心吃吧！`},tx={character:"qiqi",year:2025,sign:"七七 2025-03-03",content:`篝火，能用來祈福…
+哦！對了！蛋只是外表有點焦，味道是沒問題的！我煎了兩個，自己試吃了一個，這份煎蛋絕對安全，你就放心吃吧！`},nx={character:"qiqi",year:2025,sign:"七七 2025-03-03",content:`篝火，能用來祈福…
 什麼是祈福，不記得。誰說的，也不記得了。但祈福是好事，筆記上是這麼寫的。
 我想為你祈福，這件事，不會忘記。
 準備了好多木材，想跟你一起點火。
 有你在的話，高溫，我也不怕了。
-但白先生說，在額頭貼上冰霧花花瓣比較好。唔…涼涼的，很舒服。等你到了，我也幫你貼上。`},ex={character:"qiqi",year:2024,sign:"七七 2024-03-03",content:`「今天是七七的生日。」
+但白先生說，在額頭貼上冰霧花花瓣比較好。唔…涼涼的，很舒服。等你到了，我也幫你貼上。`},ax={character:"qiqi",year:2024,sign:"七七 2024-03-03",content:`「今天是七七的生日。」
 這是瑤瑤告訴我的。
 她還說只要我一口氣吹滅所有的蠟燭，願望就…就可以全部實現。
 可我擔心自己吹不完…
 所以我，把蠟燭凍滅了。全都是同時熄滅的，我保證。
 我許下了三個願望…呃，是什麼來著。
 對了…其中一個就是想見你。
-應該…能實現的吧。`},nx={character:"qiqi",year:2023,sign:"七七 2023-03-03",content:`生日，不重要。快樂，才重要。
+應該…能實現的吧。`},ix={character:"qiqi",year:2023,sign:"七七 2023-03-03",content:`生日，不重要。快樂，才重要。
 快樂的東西，不需要敕令也能知道。
 比如椰奶、小團雀，還有你。
 想想，就會快樂。能見到，會更快樂。
 我在做面部柔軟體操，等你來，看看新成果。
 我也會笑，像你一樣。
-呃，有點僵硬，我再練練。`},ax={character:"qiqi",year:2022,sign:"七七 2022-03-03",content:`今天又是我的生日，白先生說，可以許下生日願望。
+呃，有點僵硬，我再練練。`},lx={character:"qiqi",year:2022,sign:"七七 2022-03-03",content:`今天又是我的生日，白先生說，可以許下生日願望。
 我不記得上一個願望是什麼。應該已經實現了吧？
 新的願望，也很難想。
 不想要很大、很多的東西。只要是，觸摸得到的東西，就好了。
 想和你一起餵小團雀。
-穀子，我準備好了。`},ix={character:"qiqi",year:2021,sign:"七七 2021-03-03",content:`今天是我的生日，筆記上記著，所以能記得。
+穀子，我準備好了。`},rx={character:"qiqi",year:2021,sign:"七七 2021-03-03",content:`今天是我的生日，筆記上記著，所以能記得。
 雖然是生日，長壽麵，不需要。蠟燭，不需要。禮物…沒有也沒關係。
 生日…想要和你一起過。
 有你在旁邊，不需要其他東西，也是最好的生日了。
-我花了些時間來做菜，你早點來，涼了不好。`},lx={character:"yaoyao",year:2025,sign:"瑤瑤 2025-03-06",content:`小團雀們唧唧啾啾為你唱歌，小魚兒們轉轉悠悠為你跳舞，瑤瑤也藉著這封信祝你春天好呀！
+我花了些時間來做菜，你早點來，涼了不好。`},sx={character:"yaoyao",year:2025,sign:"瑤瑤 2025-03-06",content:`小團雀們唧唧啾啾為你唱歌，小魚兒們轉轉悠悠為你跳舞，瑤瑤也藉著這封信祝你春天好呀！
 雖說春天已經來了，但天氣乍暖還寒，正所謂「冰凍三尺，非一日之寒」，我猜還得冷一陣子呢…所以你睡覺的時候記得要蓋好被子哦，尤其要把肚子給蓋好，不要著涼了！
 好啦，正事交代完了，聊聊出去玩的事情吧？趁今天陽光好，出門踏春最適合不過了！我用新鮮的瓜果做了些點心，打算在路上吃。師父說，這就叫「咬春」，權當討個好彩頭嘛。
-那麼，我們等會見哦。`},rx={character:"yaoyao",year:2024,sign:"瑤瑤 2024-03-06",content:`之前我讀報紙給師父聽的時候，看到了你在其他地方的豐功偉績，替你開心之餘，又擔心你會想念璃月味道。今天我本想找師父告假，帶著七七一起來找你小聚，但留雲阿姨知道後，說要招呼大家一起慶祝。她一溜煙就叫來了甘雨姐姐和申鶴姐姐，我也喊上了七七，大家聚在一起可熱鬧了。
-對了，我還拜託了師姐，和我一起準備了很多璃月菜餚！連師父都說聞著就很道地哦。你快來趁熱嚐嚐，然後再講講你的冒險故事吧！畢竟「紙上得來終覺淺」嘛。`},sx={character:"yaoyao",year:2023,sign:"瑤瑤 2023-03-06",content:`今日是瑤瑤的生辰，幸得親朋照拂，一路順遂無憂。敬備菲酌，借作長談，恭候光臨。
+那麼，我們等會見哦。`},ox={character:"yaoyao",year:2024,sign:"瑤瑤 2024-03-06",content:`之前我讀報紙給師父聽的時候，看到了你在其他地方的豐功偉績，替你開心之餘，又擔心你會想念璃月味道。今天我本想找師父告假，帶著七七一起來找你小聚，但留雲阿姨知道後，說要招呼大家一起慶祝。她一溜煙就叫來了甘雨姐姐和申鶴姐姐，我也喊上了七七，大家聚在一起可熱鬧了。
+對了，我還拜託了師姐，和我一起準備了很多璃月菜餚！連師父都說聞著就很道地哦。你快來趁熱嚐嚐，然後再講講你的冒險故事吧！畢竟「紙上得來終覺淺」嘛。`},ux={character:"yaoyao",year:2023,sign:"瑤瑤 2023-03-06",content:`今日是瑤瑤的生辰，幸得親朋照拂，一路順遂無憂。敬備菲酌，借作長談，恭候光臨。
 好啦，正式的邀請函就寫到這裡…我仔細檢查了一遍，應該沒寫錯字。畢竟禮數馬虎不得，不然就會變成家長禮短！
 今天就吃點家常菜如何？早上我剛去地裡挖了不少新鮮蘿蔔，一個個可漂亮啦。別小看蘿蔔哦，營養價值高還容易保存，做法也有很多！這次我每樣各做一點，你多嚐嚐。
-嗯…我還是忍不住想多提醒你一句：身體才是冒險的本錢，不管遇到多麼棘手的困境，都要記得好好吃飯哦！`},ox={character:"shenhe",year:2025,sign:"申鶴 2025-03-10",content:`不久前，有兩位客人在萬民堂用餐，那位小姐在離開時對同行的先生哭訴：「只分甘不共苦的感情就像須彌的流沙」…
+嗯…我還是忍不住想多提醒你一句：身體才是冒險的本錢，不管遇到多麼棘手的困境，都要記得好好吃飯哦！`},cx={character:"shenhe",year:2025,sign:"申鶴 2025-03-10",content:`不久前，有兩位客人在萬民堂用餐，那位小姐在離開時對同行的先生哭訴：「只分甘不共苦的感情就像須彌的流沙」…
 起初，我並未洞見其中深意，直至觀察身邊同伴後才逐漸發覺，親密的家人間，似乎不只有歡樂的話題。平時，香菱會對卯先生抱怨烹飪難題，而師父也總會叮囑我，出門在外，如遇煩惱，要及時對她說。
 我希望，你我也能達到如此地步。因此，請說出你的煩惱，我會認真聆聽，如有需要，我會全力出手。
-至於我的困擾…嗯，不如相見後我再一一坦白吧。`},ux={character:"shenhe",year:2024,sign:"申鶴 2024-03-10",content:`最近這段時日但凡得閒，我便在一旁觀察和學習卯先生的烹飪技法，摘錄筆記，由此總結了不少經驗。
+至於我的困擾…嗯，不如相見後我再一一坦白吧。`},fx={character:"shenhe",year:2024,sign:"申鶴 2024-03-10",content:`最近這段時日但凡得閒，我便在一旁觀察和學習卯先生的烹飪技法，摘錄筆記，由此總結了不少經驗。
 但當我自己動起手來，卻遭遇了重重阻礙。比如說拆解鴨骨一不小心就會用力過猛，將鴨肉撕散；製作茶酥時又因為將麵皮擀得過薄，最後在包餡時露出裡面的餡料…我不想放棄，所以在那之後我又練習了許多次，香菱和鍋巴也給了我不少鼓勵。
-現在，請你嚐嚐我的手藝。`},cx={character:"shenhe",year:2023,sign:"申鶴 2023-03-10",content:`今日一早，師父特地為我熬了藥膳湯，又做了好幾道精緻的菜餚，還請來了削月築陽和理水疊山兩位真君小聚一番。
+現在，請你嚐嚐我的手藝。`},hx={character:"shenhe",year:2023,sign:"申鶴 2023-03-10",content:`今日一早，師父特地為我熬了藥膳湯，又做了好幾道精緻的菜餚，還請來了削月築陽和理水疊山兩位真君小聚一番。
 洞府之內，溫和的飯菜香氣配合熟悉的交談氛圍，令人安心。
 我也收集了琉璃袋內凝結的露水，取出了存放許久的甘香藥草，製成了簡單的茶點。雖不能與師父的廚藝相提並論，但它也代表了我的些許心意…和踏入人世的改變。
 若是你願在品嚐後略作評點，我心中就沒有缺憾了。
-另外，藥膳湯的份量很足。我只盛了一小碗，又將餘下的藥湯當成湯底，為你做了一碗麵…希望你喜歡。`},fx={character:"shenhe",year:2022,sign:"申鶴 2022-03-10",content:`在你那邊，過生日的這一天，需要遵循什麼習俗嗎？
+另外，藥膳湯的份量很足。我只盛了一小碗，又將餘下的藥湯當成湯底，為你做了一碗麵…希望你喜歡。`},dx={character:"shenhe",year:2022,sign:"申鶴 2022-03-10",content:`在你那邊，過生日的這一天，需要遵循什麼習俗嗎？
 以往師父知我不需身外之物，每到此日，只會送上一句祝福。因此，生日要吃「長壽麵」這種說法，我也是最近才學來的。
 我無意追求壽命的長度，卻想與結緣之人相處得長久。
 我向擅長烹飪的師父請教，要怎樣才能將它做得足夠好吃，師父卻希望我自己領悟。
 我不知道自己究竟悟出了幾分，或許這只能由你來評判。
-我等你來。`},hx={character:"xilonen",year:2025,sign:"希諾寧 2025-03-13",content:`呼啊…今天鬧鐘定得有點太早了，睡得的確有點少。
+我等你來。`},mx={character:"xilonen",year:2025,sign:"希諾寧 2025-03-13",content:`呼啊…今天鬧鐘定得有點太早了，睡得的確有點少。
 也沒辦法，我一睡下去就沒完沒了，總不能把大早上來我家作客的朋友們都晾在外面吧。
 之前有一年，卡齊娜一大早就送禮物過來，看我沒起床，就乖乖抱著禮物盒在門外等著。結果…一直等到太陽下山了我也沒醒。還是路過的瑪薇卡把門踢開，才把我搖醒了…
 自從那次生日之後，我就專門做了一臺只會在我生日當天啟用的「生日專用鬧鐘」。
 哦對了，今天招待卡齊娜的時候，我和她一起做了很多糖果，她說滿好吃的，也分你一點。
-…等等，瑪薇卡怎麼還沒出現？她不會又在打什麼鬼主意了吧…`},dx={character:"jean",year:2025,sign:"琴 2025-03-14",content:`很久之前，母親來信告訴我，西風騎士團的遠征取得了可觀進展，並由此做出了一個重大決定：根據途中收集到的新線索，大團長將前往挪德卡萊，進行更深一步探尋與查證，而她和諸多騎士則領命回到荊夫港駐防。
+…等等，瑪薇卡怎麼還沒出現？她不會又在打什麼鬼主意了吧…`},gx={character:"jean",year:2025,sign:"琴 2025-03-14",content:`很久之前，母親來信告訴我，西風騎士團的遠征取得了可觀進展，並由此做出了一個重大決定：根據途中收集到的新線索，大團長將前往挪德卡萊，進行更深一步探尋與查證，而她和諸多騎士則領命回到荊夫港駐防。
 荊夫港與蒙德城的距離雖然不算太遠，但母親與我公務繁忙，這段時間也未曾見上一面。
 本以為這樣的日子會一直持續下去。沒想到，昨天傍晚，母親和芭芭拉竟然一同出現在騎士團門口。
 母親在風中的身姿依然颯爽挺拔，看到她久違的笑容，我險些忘記回應一個騎士禮。
-我會和家人共度這難得的一天。我烤了不少茶點，如果你有時間的話，也請來小聚。`},mx={character:"jean",year:2024,sign:"琴 2024-03-14",content:`時間總是過得很快，不知不覺又到了我的生日。
+我會和家人共度這難得的一天。我烤了不少茶點，如果你有時間的話，也請來小聚。`},yx={character:"jean",year:2024,sign:"琴 2024-03-14",content:`時間總是過得很快，不知不覺又到了我的生日。
 昨晚，我收到了母親的來信和禮物。她在遠征途中獲得了一把品質上好的劍，使用起來尤為輕便。她希望這把劍能助我征討魔物時更加得心應手。
 讀完信後，我不由得想起最近的變化，看著窗外靜謐的風景發了很久的呆。
 其實，在母親離開蒙德的這段時間，周邊魔物的數量已經大幅減少，留駐的西風騎士們也成長了許多，我的工作壓力正在逐年減輕。
 這其中自然也有許多你的功勞。
 要是今天有空，不妨來騎士團坐坐吧。
-我準備了精心烤製的披薩，不豐不儉，正適合與你一同分享近來的欣喜。`},gx={character:"jean",year:2023,sign:"琴 2023-03-14",content:`久疏問候，近來可好？
+我準備了精心烤製的披薩，不豐不儉，正適合與你一同分享近來的欣喜。`},px={character:"jean",year:2023,sign:"琴 2023-03-14",content:`久疏問候，近來可好？
 前陣子我剛剛完成工作，就收到了意外的邀請——總部的餐廳更換了新的爐灶和廚具，還應用了調查小隊開發的輔助裝置，大家希望我去驗收改造成果。
 雖然這項工作通常由後勤部門負責，但考慮到「伙食是士氣的支柱之一」，我也有責任好好考察一番。
 沒想到，這又是一次驚喜的慶祝會。大家等待著我，為我送上了諸多禮物與祝福。
 我非常感動，用新的爐灶做了一份尺寸特大的披薩，每位騎士都分到了一塊。
 此前多次承蒙你的照顧，請你也來分享這份喜悅。
-今後若有閒暇時間，還望多回騎士團看看。`},yx={character:"jean",year:2022,sign:"琴 2022-03-14",content:`今天一早，我被騎士團的大家趕出了辦公室。說是只要不工作，去哪散心都可以。
+今後若有閒暇時間，還望多回騎士團看看。`},vx={character:"jean",year:2022,sign:"琴 2022-03-14",content:`今天一早，我被騎士團的大家趕出了辦公室。說是只要不工作，去哪散心都可以。
 儘管知道大家是出於好心，但當著我的面叮囑守門的騎士不能放我進去，還是有點過於嚴格了。
 我去了一趟風起地，又沿路登上了摘星崖。
 很久沒有親自外出巡邏。我發現蒙德郊外有一些安全隱患，之後得召集眾人制訂進一步的方案。
 隨信附上沿路採摘的鮮花和清剿魔物後收集的素材，希望能為你的旅途提供幫助。
-…仔細想想，今天也過得非常充實。`},px={character:"jean",year:2021,sign:"琴 2021-03-14",content:`騎士團的大家到我這裡把所有工作都搶走了，還完全不接受反駁，說是讓我好好放鬆一天。我很感謝他們的好意，但…生日對我而言，並不是一個需要慶祝的日子。
+…仔細想想，今天也過得非常充實。`},bx={character:"jean",year:2021,sign:"琴 2021-03-14",content:`騎士團的大家到我這裡把所有工作都搶走了，還完全不接受反駁，說是讓我好好放鬆一天。我很感謝他們的好意，但…生日對我而言，並不是一個需要慶祝的日子。
 從小，我的生日都是跟母親一同度過。以旁人眼光來看，或許那些都稱不上是常見的「慶祝」吧。既沒有玩樂，也沒有蛋糕，只有一個必須去的地方－風起地。
 我並非有什麼怨言。不如說，習慣那樣的儀式之後，我反而有些不適應如今這種需要「設宴慶祝」的生日了。
 過得太簡單會辜負大家的心意，過得太隆重也不太恰當。生日的儀式，確實值得深思…
 我考慮了很久，想要和你面對面聊聊，聽聽你的建議。
-你見多識廣，或許就能找出適合我的慶祝方式，或是…就這樣慶祝也好。`},vx={character:"noelle",year:2025,sign:"諾艾爾 2025-03-21",content:`報告前輩，今天需要我提供幫助的委託都出奇地輕鬆。幫忙體驗某處好看的風景、幫忙試吃某道好吃的料理…我明白大家的好意，我會認真完成的！
+你見多識廣，或許就能找出適合我的慶祝方式，或是…就這樣慶祝也好。`},Sx={character:"noelle",year:2025,sign:"諾艾爾 2025-03-21",content:`報告前輩，今天需要我提供幫助的委託都出奇地輕鬆。幫忙體驗某處好看的風景、幫忙試吃某道好吃的料理…我明白大家的好意，我會認真完成的！
 好久沒在野外悠閒散步了，今天蒙德城的風似乎飄著蒲公英酒的香氣，落落莓和樹莓也特別新鮮，我打算做一個莓果蛋糕來回報大家！
 只是，雖然我常說「什麼都可以交給我」，但在「撒出完美糖霜」這類需要精確控制力度的事情上，我不算太有把握…
 如果你在的話，一定可以輕鬆地利用風元素，讓糖霜均勻鋪灑。能請你幫幫我嗎？
-請放心，我一定會將蛋糕頂上最大最甜的果實留給你的！`},bx={character:"noelle",year:2024,sign:"諾艾爾 2024-03-21",content:`每到這個季節，蒙德各處的鮮花都在陸續綻放，繽紛的原野看著就讓人心情舒暢。
+請放心，我一定會將蛋糕頂上最大最甜的果實留給你的！`},_x={character:"noelle",year:2024,sign:"諾艾爾 2024-03-21",content:`每到這個季節，蒙德各處的鮮花都在陸續綻放，繽紛的原野看著就讓人心情舒暢。
 我採下了整整一籃野花，想著可以把這些野花編成花環和小型裝飾品，裝點騎士團內大大小小的房間。
 但在我回騎士團的路上，有群熟悉的孩子一見到我就簇擁而上，「諾艾爾姐姐」地叫著我…既讓人害羞，又熱情得讓人抵擋不了…
 沒辦法，這些花朵我就跟孩子們一起分享吧。等教會大家怎麼做花朵手環，然後送給家人，他們的父母一定也會很開心的。
-我也準備了要送給你的…你願意一起來看看嗎？`},Sx={character:"noelle",year:2023,sign:"諾艾爾 2023-03-21",content:`最近還順利嗎？有件事情，我想請你幫個忙。
+我也準備了要送給你的…你願意一起來看看嗎？`},Tx={character:"noelle",year:2023,sign:"諾艾爾 2023-03-21",content:`最近還順利嗎？有件事情，我想請你幫個忙。
 具體來說…以往節日期間，騎士團的成員們總會忙於籌備工作。趁最近有些空閒，我想為大家單獨籌辦一次野餐會。
 規劃行程、確定地點、完成場景的佈置並事先準備好營造氛圍的小道具…這些對我來說都不是問題！唯獨料理的選擇讓我很傷腦筋。大家偏好的口味不盡相同，選擇傳統的蒙德菜也會顯得缺乏新意…
 我好不容易才擬定了這一版菜單，但我對須彌菜餚的鑽研實在不深，想請你先試試味道！
-拜託了！前輩！`},_x={character:"noelle",year:2022,sign:"諾艾爾 2022-03-21",content:`在過去的一年裡，我一日也沒有鬆懈。
+拜託了！前輩！`},xx={character:"noelle",year:2022,sign:"諾艾爾 2022-03-21",content:`在過去的一年裡，我一日也沒有鬆懈。
 無論是作為女僕向身邊的人提供幫助，還是自己的日常訓練方面，我都在努力做到最好。
 也會有感覺自己快要堅持不下去的時候…
 每到這種時候，我都會眺望群星。一想到遠比我閃耀的你，也在這片夜空之下的某處努力著，就覺得自己的疲憊不再值得一提。
 這一天終於來了，比想像中還早了一點。我的心中有些忐忑不安，當然更多的還是期待。
 現在，我終於可以向你展示我努力的成果。
-請一定要來見證！`},Tx={character:"noelle",year:2021,sign:"諾艾爾 2021-03-21",content:`今天在騎士團訓練的時候，收到了一束來自蒙德市民們的鮮花。
+請一定要來見證！`},Ex={character:"noelle",year:2021,sign:"諾艾爾 2021-03-21",content:`今天在騎士團訓練的時候，收到了一束來自蒙德市民們的鮮花。
 琴團長說，這是大家對我的感謝，還給了我生日祝福。
 其實，我幫助別人的時候並不會期待回報。但大家能因此記住我，我還是很感動。
 今年的我，比起去年的我，應該算是有些進步了吧。
 但距離成為能讓你依賴的堅盾，還存在差距…
 這也是我的夢想之一。為了你，我還要更加努力才行！
-請期待吧，等到明年今日，我一定會把努力的成果展現給你看！`},xx={character:"sigewinne",year:2025,sign:"希格雯 2025-03-30",content:`可愛的你，最近好嗎？梅洛彼得堡一切如常，不用太掛心哦。
+請期待吧，等到明年今日，我一定會把努力的成果展現給你看！`},Ax={character:"sigewinne",year:2025,sign:"希格雯 2025-03-30",content:`可愛的你，最近好嗎？梅洛彼得堡一切如常，不用太掛心哦。
 儘管水下的物資有限，大家也還是在用心陪我過生日呢。我也很享受生日的這天，能觀察到許多人面部肌肉變化的過程：從送禮物前的緊張，到我收下時鬆一口氣，再到聽了讚美後的欣喜…讓我迫不及待想要畫下來留作紀念。
 說到這個，你想看看你的貼紙嗎？圓潤的頭骨、雪白的牙齒、緊緻的眼輪匝肌、清澈的眼睛…在我眼裡，你的臉蛋就是這麼可愛哦。
-你去納塔也有一陣子了，沒有弄壞身體吧？不如就趁今天見一面吧，我來幫你好好做個身體檢查，確認你健康後我才能放心喲。`},Ex={character:"dehya",year:2025,sign:"迪希雅 2025-04-07",content:`我接了個護送商隊穿越沙漠的委託，雇主是個有意思的納塔人，跟我聊了很多，還聊到了拯救納塔的異鄉英雄！看來你在納塔的偉績相當振奮人心哦？
+你去納塔也有一陣子了，沒有弄壞身體吧？不如就趁今天見一面吧，我來幫你好好做個身體檢查，確認你健康後我才能放心喲。`},wx={character:"dehya",year:2025,sign:"迪希雅 2025-04-07",content:`我接了個護送商隊穿越沙漠的委託，雇主是個有意思的納塔人，跟我聊了很多，還聊到了拯救納塔的異鄉英雄！看來你在納塔的偉績相當振奮人心哦？
 委託結束後，這位雇主不僅多結了帳，還送了許多特產小吃。熱情的納塔人，我喜歡！
 說來，這些小吃可真漂亮，顏色豐富度都快可以比得上我的妝匣了！趁今天得空，我打算拿去跟我資助的孩子們分著吃了。
-你有空嗎？不如來向大家講講你的事蹟吧。因為，不只孩子們，就連我也沒聽過癮呢！`},Ax={character:"dehya",year:2024,sign:"迪希雅 2024-04-07",content:`前些日子陪迪娜澤黛去沙漠探險，剛回來不久她又馬不停蹄地幫我準備生日宴會。本來我也想幫忙籌備，結果她說我不用管別的，只要漂漂亮亮地出席就好。於是我就翻出「妝匣」試了幾種時下流行的妝容，又搭配了不少好看的裙子，但最後還是沒能決定要穿哪一套…要是挑選衣服也像挑選武器一樣簡單就好了。
-總之，請一定要來參加宴會。太久沒在沙漠裡走路不習慣的話，我可以帶馱獸來接你！`},wx={character:"dehya",year:2023,sign:"迪希雅 2023-04-07",content:`嗨，最近好嗎？還在旅行嗎？
+你有空嗎？不如來向大家講講你的事蹟吧。因為，不只孩子們，就連我也沒聽過癮呢！`},Mx={character:"dehya",year:2024,sign:"迪希雅 2024-04-07",content:`前些日子陪迪娜澤黛去沙漠探險，剛回來不久她又馬不停蹄地幫我準備生日宴會。本來我也想幫忙籌備，結果她說我不用管別的，只要漂漂亮亮地出席就好。於是我就翻出「妝匣」試了幾種時下流行的妝容，又搭配了不少好看的裙子，但最後還是沒能決定要穿哪一套…要是挑選衣服也像挑選武器一樣簡單就好了。
+總之，請一定要來參加宴會。太久沒在沙漠裡走路不習慣的話，我可以帶馱獸來接你！`},jx={character:"dehya",year:2023,sign:"迪希雅 2023-04-07",content:`嗨，最近好嗎？還在旅行嗎？
 今天是我生日，打算在阿如村過，想請你一起來玩。
 去年的生日是在沙漠裡過的。從馱獸背上醒來，看到太陽就想著：又長大了一歲，要成為更厲害的自己才行。
 後來又覺得不用要求太多，生日用來紀念就好，開心最重要。
@@ -321,319 +330,319 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 你記得塞塔蕾吧？那位女學者！她現在也經常和我們一起聚會，到時候應該也會來。
 總之，阿如村等你，不見不散！
 
-另，不知道誰跟坎蒂絲說大戰用的枕頭裡面要塞稻米，打起來力道才對…不過你別擔心，我已經沒收了她的米。`},Mx={character:"charlotte",year:2025,sign:"夏洛蒂 2025-04-10",content:`今天我去上班的時候，歐芙小姐把一盒點心和一本厚厚的新聞冊一起放在我桌上。
+另，不知道誰跟坎蒂絲說大戰用的枕頭裡面要塞稻米，打起來力道才對…不過你別擔心，我已經沒收了她的米。`},Cx={character:"charlotte",year:2025,sign:"夏洛蒂 2025-04-10",content:`今天我去上班的時候，歐芙小姐把一盒點心和一本厚厚的新聞冊一起放在我桌上。
 她說，這本新聞冊記錄了她從進入蒸汽鳥報社以來報導過的所有「重磅新聞」。
 「夏洛蒂小姐，所謂重磅新聞，就是指一經登報，就會導致您不得不離開工位，甚至離開楓丹廷的新聞。」
 嘿嘿…我仔細看了看，這樣的新聞還真不少…
 不過，這也證明了我採編新聞的能力很厲害嘛，你說對吧？
 今年我一定會繼續努力，寫出更多更好更厲害的新聞！
 在此之上…盡量不給歐芙小姐和我老爸添麻煩…
-哎呀，不說這些，那點心很好吃哦，你也嚐嚐吧。`},jx={character:"charlotte",year:2024,sign:"夏洛蒂 2024-04-10",content:`哎呀，總算從報社裡逃出來了…嚇死我了…
+哎呀，不說這些，那點心很好吃哦，你也嚐嚐吧。`},zx={character:"charlotte",year:2024,sign:"夏洛蒂 2024-04-10",content:`哎呀，總算從報社裡逃出來了…嚇死我了…
 一聽說今天是我的生日，報社裡的記者們非要幫我做一個專訪，說是要為讀者們呈上一篇「論述為什麼夏洛蒂會成為如今的夏洛蒂」的鴻篇巨製…他們想要跟蹤報導我整整一年，做一個超長篇報導，預訂在我明年生日發表！
 才不要！
 我假裝去換衣服然後趁機從三樓翻出窗戶，順著旁邊的水管爬了下去。
 現在，我正蹲在歐芙小姐家裡寫這封信給你，絕對沒有人敢隨便闖進主編的屋子。
 但是…我現在也出不去了…
-要是你有空的話，就快點過來幫我解圍吧！拜託拜託拜託，我會請你去吃大餐的！`},Cx={character:"xianyun",year:2025,sign:"閒雲 2025-04-11",content:`本仙定居璃月港已有一段時日，誠然，人間俗務連連，不及奧藏山灑脫逍遙。不過凡人獨有的溫情恰恰蘊藏在這素常往來之間。
+要是你有空的話，就快點過來幫我解圍吧！拜託拜託拜託，我會請你去吃大餐的！`},Rx={character:"xianyun",year:2025,sign:"閒雲 2025-04-11",content:`本仙定居璃月港已有一段時日，誠然，人間俗務連連，不及奧藏山灑脫逍遙。不過凡人獨有的溫情恰恰蘊藏在這素常往來之間。
 就拿今早而言，幾個鄰家小孩專程登門，一口氣背了不少生辰賀詞，最後還祝本仙活到百歲。漱玉怕本仙聽了不悅，慌忙圓場。呵呵，童言誠摯，徒兒又頗有孝心，本仙高興還來不及。
 所以，本仙也給小輩們準備了些回禮，仙家符籙傍身，助你們避禍就福。甘雨、申鶴和漱玉的我都包好了，你跟小傢伙也各有一份，勿要爭搶，生辰宴後一個個排好隊來領吧。
-咳！慶生這天熱鬧一番，是為迎合璃月習俗，合乎情理。`},zx={character:"xianyun",year:2024,sign:"閒雲 2024-04-11",content:`久居山中，本仙素來對生辰之事不甚在意，更不喜鋪張。
+咳！慶生這天熱鬧一番，是為迎合璃月習俗，合乎情理。`},Dx={character:"xianyun",year:2024,sign:"閒雲 2024-04-11",content:`久居山中，本仙素來對生辰之事不甚在意，更不喜鋪張。
 但甘雨那孩子提議不如藉生辰佳日設宴，邀請幾位親近朋友團聚一番，也不失為一件美事…
 本仙正巧製出了一臺能蒸出各類點心的機關巧械，也是時候讓大夥見識見識了。配上本仙新買的茶葉，只怕小輩們會品嚐得忘了時辰。
 各位新朋舊友都已來了家裡，不如你也來吃個便飯如何？
-無需費心準備禮物，人到就行。`},Rx={character:"xiao",year:2025,sign:"魈 2025-04-17",content:`近日在荻花洲清剿邪崇，不曾料想巨石之旁，似乎有你留下的劍痕…
+無需費心準備禮物，人到就行。`},Ox={character:"xiao",year:2025,sign:"魈 2025-04-17",content:`近日在荻花洲清剿邪崇，不曾料想巨石之旁，似乎有你留下的劍痕…
 我自是信任你的武勇。但倘若動輒依仗武藝，隻身涉險，難保每次皆能全身而退…
 在這世間，仍有許多人為你牽掛。
 …罷了，我本不擅勸說…
-你就將這枚松石貼身存放吧。我已將仙氣封存其中，願能護你周全。`},Dx={character:"xiao",year:2024,sign:"魈 2024-04-17",content:`我本不喜入夢，無論夢中所見為何，都無法自控、難以擺脫。
+你就將這枚松石貼身存放吧。我已將仙氣封存其中，願能護你周全。`},Lx={character:"xiao",year:2024,sign:"魈 2024-04-17",content:`我本不喜入夢，無論夢中所見為何，都無法自控、難以擺脫。
 但近日在夢中…卻頻頻見到你的身影。
 所夢皆為閒遊、踏青之事，每每醒來，我都不禁自問可有做這般「美夢」的資格…
 或許在夢之外見你一面，就能找到解答？
-如願相見，且喚我名。`},Ox={character:"xiao",year:2023,sign:"魈 2023-04-17",content:`今日，我到削月那走了一趟。
+如願相見，且喚我名。`},Nx={character:"xiao",year:2023,sign:"魈 2023-04-17",content:`今日，我到削月那走了一趟。
 卻不料對方面色驚慌，連連詢問是否有大事發生。
 …我不過是聽取你的建議，與許久未見的老友會會面罷了。
 你知我不善交際，幾經解釋才讓他放下疑心，未料他隨即又說：「擇日不如撞日，索性讓留雲張羅個飯局…」
 換作以前，我或許會拒絕。事到如今，比起聚會的因由、餐食的濃淡、氛圍的熱鬧或清寡…我更在乎身旁的對象。有你在，清心亦勝佳餚之香。
-若你得閒，可否一同來小聚一番？`},Lx={character:"xiao",year:2022,sign:"魈 2022-04-17",content:`今日獨自走在孤雲閣岸邊，沿途拾來數枚星螺。
+若你得閒，可否一同來小聚一番？`},Vx={character:"xiao",year:2022,sign:"魈 2022-04-17",content:`今日獨自走在孤雲閣岸邊，沿途拾來數枚星螺。
 曾聽說它內藏玄妙，能傳遞言語。試著湊近耳邊，卻聽不見任何說話聲，惟有空洞的風。
 無妨。
 邪祟的忿恨、劫難的預兆…還有你的呼喚。能聽見這些，對我足矣。
-待你空閒時，再與我說說吧，你從星螺中聽見過什麼。`},Nx={character:"xiao",year:2021,sign:"魈 2021-04-17",content:`今日閒來無事。本想尋隻晶蝶贈予你，裝飾在你髮間，想來…應該不錯。
+待你空閒時，再與我說說吧，你從星螺中聽見過什麼。`},Ux={character:"xiao",year:2021,sign:"魈 2021-04-17",content:`今日閒來無事。本想尋隻晶蝶贈予你，裝飾在你髮間，想來…應該不錯。
 一回神才發現…抓得多了些，望你不要介意。
 如欲相見，便喚我名。
 …我並不在意什麼生辰、慶賀，也不想去人來人往之處。
-只要是和你共度一段時光便好。`},Vx={character:"yelan",year:2025,sign:"夜蘭 2025-04-20",content:`近來情報收集還算順利，個別人士的抱怨與哀嚎不提也罷。
+只要是和你共度一段時光便好。`},Bx={character:"yelan",year:2025,sign:"夜蘭 2025-04-20",content:`近來情報收集還算順利，個別人士的抱怨與哀嚎不提也罷。
 聊點開心的。
 我幫自己安排了一場旅行，而楓丹果真是個度假的好地方。劇場的演出很精彩，所幸，像臺上那樣有著高超演技的犯人寥寥無幾，否則會拖慢收工進度的。
 原本我還打算多待幾天，但很可惜線報先來了。真遺憾，普通遊客的行程只好匆匆結束了。
 但願這次的「籌碼」足以充當打斷我假期的代價。否則…呵，誰知道呢。
 對了，臨走前幫你選了些伴手禮，味道不錯。
-嚐嚐就好，甜蜜的東西…別貪嘴。`},Ux={character:"yelan",year:2024,sign:"夜蘭 2024-04-20",content:`這世上總有那麼些人，什麼日子都不安分。
+嚐嚐就好，甜蜜的東西…別貪嘴。`},kx={character:"yelan",year:2024,sign:"夜蘭 2024-04-20",content:`這世上總有那麼些人，什麼日子都不安分。
 經過好幾天追蹤，我終於抓獲了一起走私案件的犯人，附贈了一番令他難忘的審問。
 有他交代的資訊，剩下的就好處理了。我只能說，拖到今天也算他們自己運氣不好。
 總之，事件算是徹底完結，可以好好休息了。
 今天我已經不想再進行任何腦力勞動，多餘的寒暄和慰問也可以免了。不如簡單找個地方喝個茶…你會陪我的吧？
-案子的細節我是不會說的。至於其他的話題，見了面再慢慢聊囉？`},Bx={character:"yelan",year:2023,sign:"夜蘭 2023-04-20",content:`前段時間，我心血來潮擲了幾枚骰子，從清單裡選擇了「蓄養花卉」這一項。
+案子的細節我是不會說的。至於其他的話題，見了面再慢慢聊囉？`},Hx={character:"yelan",year:2023,sign:"夜蘭 2023-04-20",content:`前段時間，我心血來潮擲了幾枚骰子，從清單裡選擇了「蓄養花卉」這一項。
 我想著為家裡添點顏色也不錯，就去花市選了幾株花枝種下。
 但這些花剛落盆不久，我就被託付了幾樁懸案。奔忙數月，只為花匆匆澆過幾次水。本以為吃盡枯渴，恐怕是開不出花了，沒想到它卻頗為頑強，硬生生蓄出了數朵花苞。古時人說的「凌寒獨自開」，想必就是讚頌這類堅韌的花吧。
-好茶已備，想來一同賞花的話，趁早。`},kx={character:"kachina",year:2025,sign:"卡齊娜 2025-04-22",content:`請來我的生日會！
+好茶已備，想來一同賞花的話，趁早。`},qx={character:"kachina",year:2025,sign:"卡齊娜 2025-04-22",content:`請來我的生日會！
 哪怕只是寫下這行字，我都覺得…邁出了一大步！
 對於我來說，這是意義非凡的一年，不僅因為參加了巡夜者戰爭…更重要的是認識了你！我想要靠自己的努力，成為像你一樣值得信賴和依靠的夥伴！
 那、那就從主動邀請朋友來生日會開始吧！往年都是瑪拉妮偷偷為我準備…今年我想勇敢一次！我還準備了對大家說的話，想在這個比較正式的場合感謝大家對我的幫助…
 在生日會開始之前，能請你當我的演講老師，先聽我讀一遍感謝信嗎？要在大家面前講這麼多話，我心裡沒底…
-不嫌棄的話，背包裡的寶石請你隨便挑！`},Hx={character:"baizhu",year:2025,sign:"白术 2025-04-25",content:`一行歪扭的字句——
+不嫌棄的話，背包裡的寶石請你隨便挑！`},Ix={character:"baizhu",year:2025,sign:"白术 2025-04-25",content:`一行歪扭的字句——
 在嗎？唉，還是你來勸勸白术吧，剛看完診又在試藥，這下當真苦上加苦囉。
 以下是俊秀的字跡——
 見笑了，如你所見，在用蛇尾寫字一事上長生已有一些造詣。她所言不假，但還是容我補充闡明吧。
 眼下正值春夏交替之際，人體易感疲乏，阿桂也因奔波送藥染恙，不卜廬自然比平日更忙碌些。我認為清補的養生茶飲對提高正氣有幫助，於是看完診便加緊揀選湯料。
 所幸，經過多日嘗試，口味和藥性均已調整得當，配方與原料隨信附上，空閒時不妨試著沖泡飲用。
-祝身康體健，布帆無恙。`},qx={character:"baizhu",year:2024,sign:"白术 2024-04-25",content:`前些日子同長生一道回了趟沉玉谷，卻見我少年時所植茶樹，如今已枝繁葉茂。
+祝身康體健，布帆無恙。`},Yx={character:"baizhu",year:2024,sign:"白术 2024-04-25",content:`前些日子同長生一道回了趟沉玉谷，卻見我少年時所植茶樹，如今已枝繁葉茂。
 當年離谷之際，其身尚不盈一握…真是令人感嘆時光荏苒。
 趁著茶葉新嫩，我們採擷了不少。璃月品茗歷來有「頭茬」一說，最新的茶當敬最重要之客。你若有空，不妨來不卜廬一品？
 
 「一定要來哦——連七七都記掛著，要先請你來呢。」
-——這句話是長生要我加的，她還在練習怎麼用尾巴握筆。`},Ix={character:"diluc",year:2025,sign:"迪盧克 2025-04-30",content:`近來，我觀察到花香風味的酒水飲品銷量有所上漲，所用品種也不僅限於蒙德當地。
+——這句話是長生要我加的，她還在練習怎麼用尾巴握筆。`},Gx={character:"diluc",year:2025,sign:"迪盧克 2025-04-30",content:`近來，我觀察到花香風味的酒水飲品銷量有所上漲，所用品種也不僅限於蒙德當地。
 雖然進口對應的花種在酒莊培育也是策略之一，但我更想藉此機會往別國走走，加以實地考察，進而做出最恰當的判斷。
 酒莊事務我已託付埃澤處理，蒙德有西風騎士團守護，恐怕也無需我置喙。
 此行不會花費過多時間。
-特此來信，以免你來訪時撲空。`},Yx={character:"diluc",year:2024,sign:"迪盧克 2024-04-30",content:`託你的福，美酒與煉金香氛的組合在市場上反應不錯，不少酒客託人向我傳達了他們的喜愛之情。但在我看來，真正應該收下這些褒獎的人是你。
+特此來信，以免你來訪時撲空。`},Xx={character:"diluc",year:2024,sign:"迪盧克 2024-04-30",content:`託你的福，美酒與煉金香氛的組合在市場上反應不錯，不少酒客託人向我傳達了他們的喜愛之情。但在我看來，真正應該收下這些褒獎的人是你。
 若是遵照禮節，我原本應該盡早邀請你來酒莊共進晚宴，當面致謝，但挑選禮物花了不少時間。思來想去，還是親手準備比較適當。
 這款香氛是我在愛德琳指導下製作的，是我較為中意的一款香型。
-希望你也喜歡。`},Gx={character:"diluc",year:2023,sign:"迪盧克 2023-04-30",content:`距上次聯絡已有些時日，希望你近來旅途順利。
+希望你也喜歡。`},Kx={character:"diluc",year:2023,sign:"迪盧克 2023-04-30",content:`距上次聯絡已有些時日，希望你近來旅途順利。
 酒莊這邊一切都好​​。此前從須彌運回了一批香辛料，我嘗試用它們調製了幾款新品，雖然初入口的口感有些新奇，但其層次豐富，我猜想整體反響應該會很不錯。
 在它正式問世之前，不知你是否願意先行品嚐？要知道，你的建議總是能為我帶來寶貴的幫助。
-我會準備好與它相得益彰的餐點。晚上見。`},Xx={character:"diluc",year:2022,sign:"迪盧克 2022-04-30",content:`要不是剛好有機會，我恐怕無法想到這件事。
+我會準備好與它相得益彰的餐點。晚上見。`},Zx={character:"diluc",year:2022,sign:"迪盧克 2022-04-30",content:`要不是剛好有機會，我恐怕無法想到這件事。
 眼下落落莓正值最佳賞味時期，脆嫩飽滿、入口香甜。
 可惜，它只能成長在濕潤多風的山地，難以人工培育。自然生長的數量又很有限，不足以納入釀造業。
 說回正題。我手邊種種事情已經處理完畢，還算順利，不知你近況如何？
 如果有空閒時間，今天可以共進晚餐。
 我想將採來的落落莓製成飲品和你分享。時機難得，奢侈點也無妨。
-至於信中不方便說的，留待見面後再敘。`},Kx={character:"diluc",year:2021,sign:"迪盧克 2021-04-30",content:`今年水果的品質普遍優於往年。想讓你第一時間品嚐這份美味，隨信附上了親手調製的蘋果釀。
+至於信中不方便說的，留待見面後再敘。`},Qx={character:"diluc",year:2021,sign:"迪盧克 2021-04-30",content:`今年水果的品質普遍優於往年。想讓你第一時間品嚐這份美味，隨信附上了親手調製的蘋果釀。
 你的旅程是否順利？在外漂泊，難免會出現意料之外的情況。隨機應變的經驗是其一，擁有能夠幫上忙的助力則是其二。
 我觀察過你處理的方式。可圈可點…足夠讓人放心。
 你的身上有許多令人欽慕的優秀品質。你的凝聚力，對我來說也十分耀眼。近來，我時常以你為鏡，思考自己的行為。這對我來說算是一種很新奇的體驗，同時也很愉快。
 我恐怕，也該以更努力的姿態前進。
-我們的目標雖不相同，道路卻互相交錯。我會同你在一起。`},Zx={character:"candace",year:2025,sign:"坎蒂絲 2025-05-03",content:`在沙漠，我們習慣將最好的棗椰製成糖果，用來待客贈禮。安普叔說今年的棗椰長得很好，我已將最飽滿的果實挑揀了出來，留給阿如村親愛的客人。
+我們的目標雖不相同，道路卻互相交錯。我會同你在一起。`},Jx={character:"candace",year:2025,sign:"坎蒂絲 2025-05-03",content:`在沙漠，我們習慣將最好的棗椰製成糖果，用來待客贈禮。安普叔說今年的棗椰長得很好，我已將最飽滿的果實挑揀了出來，留給阿如村親愛的客人。
 客商的馱鈴聲常在黎明響起，學者們捧著卷宗典籍穿行在村落中，孩子們用稚嫩的聲音分享防沙壁另一側的趣聞…阿如村與雨林的往來日漸頻密，這一切，有賴於你曾駐足此地。
 無論何時，若旅途感到疲倦，不妨回村裡稍作歇息吧。這裡或許沒有狂歡的篝火，但我會守護你整夜的安眠。
-阿如村永遠歡迎你。`},Qx={character:"candace",year:2024,sign:"坎蒂絲 2024-05-03",content:`不久前，有旅行商人遠道而來，在阿如村周邊販售起了市面上罕見的寶石與飾品。在確認對方的來意良善之後，我本應婉言謝絕那些推薦，轉身離去的…
+阿如村永遠歡迎你。`},Fx={character:"candace",year:2024,sign:"坎蒂絲 2024-05-03",content:`不久前，有旅行商人遠道而來，在阿如村周邊販售起了市面上罕見的寶石與飾品。在確認對方的來意良善之後，我本應婉言謝絕那些推薦，轉身離去的…
 但當輝石赤褐色的光芒映入眼中，我不由想起了自己小時候，祖父對我講過的傳說…
 如今，戰火已被風沙掩埋。沙漠子民在漫長的顛沛後，終於過上了安穩的生活。
-如果有意的話，請來村子一趟。就讓這些美麗的石頭充當媒介，就讓我來為你講述，曾經發生在這片沙原上的故事吧。`},Jx={character:"candace",year:2023,sign:"坎蒂絲 2023-05-03",content:`迪希雅今天一大早就帶了一大箱禮物來到村裡，有衣服、首飾和香粉。說是嘗試和平時不一樣的風格，可以讓心情變好。她還帶著「熾光獵獸」的團員，要幫我巡視村子四周。
+如果有意的話，請來村子一趟。就讓這些美麗的石頭充當媒介，就讓我來為你講述，曾經發生在這片沙原上的故事吧。`},Px={character:"candace",year:2023,sign:"坎蒂絲 2023-05-03",content:`迪希雅今天一大早就帶了一大箱禮物來到村裡，有衣服、首飾和香粉。說是嘗試和平時不一樣的風格，可以讓心情變好。她還帶著「熾光獵獸」的團員，要幫我巡視村子四周。
 我明白她的好意，卻不想讓她為我費這些心，最後她搬出了我在枕頭大戰裡輸給她的事情…真拿她沒辦法。
 趁這個機會，我來展現一下自己的烹飪手藝，為村裡的各位做一頓好料吧。
 如果你也能來的話，那就再好不過了。
 但沙漠路途艱險，要是​​你此刻正在遙遠的地方旅行，也不用勉強，擇日再來就好。
-我會一直在村裡。`},Fx={character:"collei",year:2025,sign:"柯萊 2025-05-08",content:`不久後，教令院會有一場關於植物辨識的小型讀書會，提納里師父希望我來幫忙指導一下學弟妹們做作業…雖然巡林期間跟著師父看過不少植物，能認的字也多了很多…但我真的能做好嗎？要是鬧了什麼笑話，十個樹洞都不夠鑽…
+我會一直在村裡。`},$x={character:"collei",year:2025,sign:"柯萊 2025-05-08",content:`不久後，教令院會有一場關於植物辨識的小型讀書會，提納里師父希望我來幫忙指導一下學弟妹們做作業…雖然巡林期間跟著師父看過不少植物，能認的字也多了很多…但我真的能做好嗎？要是鬧了什麼笑話，十個樹洞都不夠鑽…
 啊不行不行，幫助大家學習是好事，我要努力做好準備才是！
 我打算結合做過的筆記，重新觀察一遍常見的植物，可以的話，能請你陪我一起去雨林逛逛嗎？你見識和經歷都很豐富，說不定會提出我沒考慮過的問題，這樣一來正好能讓筆記更完善！
-零食我會準備好的，感激不盡！`},Px={character:"collei",year:2024,sign:"柯萊 2024-05-08",content:`昨晚，安柏寄給我的故事書提前送到了，我已經連夜把它讀完了！
+零食我會準備好的，感激不盡！`},Wx={character:"collei",year:2024,sign:"柯萊 2024-05-08",content:`昨晚，安柏寄給我的故事書提前送到了，我已經連夜把它讀完了！
 情節簡單好懂，也沒有什麼不認識的字。主角是一隻有著大大耳朵和長長尾巴的狐狸先生，居住在遙遠的大森林裡，圍繞著他和他的朋友，發生了一連串詼諧有趣的故事。
 不得不說，要不是這位主角先生性格狡猾，動不動謊話成篇，我有幾次眼前都快浮現出提納里師父的臉了！就連今早和他打招呼的時候，我可能都沒控制好自己的表情…
 哎呀，一激動就寫了那麼多。
 我想說的是，咳咳，多虧了大家的幫助，日積月累，我還是有不小的進步哦。
-這份感謝，我也想讓你知道。`},$x={character:"collei",year:2023,sign:"柯萊 2023-05-08",content:`前幾天我巡林回來的時候，不小心聽見琺露珊前輩跟師父說，要幫我辦驚喜生日派對，辦得越盛大越好…師父居然就這樣同意了！還說要叫賽諾先生來。
+這份感謝，我也想讓你知道。`},tE={character:"collei",year:2023,sign:"柯萊 2023-05-08",content:`前幾天我巡林回來的時候，不小心聽見琺露珊前輩跟師父說，要幫我辦驚喜生日派對，辦得越盛大越好…師父居然就這樣同意了！還說要叫賽諾先生來。
 熟人還好，就怕有我沒見過的面孔…更要命的是我已經提前知道了，要怎麼才能演出「驚喜」的感覺？
 師父他們花了那麼多心思，我真的不想掃了大家的興。
 你願意來我的生日派對嗎？來給我一些建議…或者，幫我緩解氣氛？
 事關重大！實在麻煩你了！
 
-我平時寫信都會請師父幫忙檢查錯字，但這次只能靠自已了。應該…不會出問題吧？`},Wx={character:"gorou",year:2025,sign:"五郎 2025-05-18",content:`在八重堂最近寄來的答疑信件中，有一封篇幅繁冗，文風尤為恣肆。雖然編輯備註無需在意，隨意回覆即可。但我認為，無論面對將士還是讀者，都應推誠相待。
+我平時寫信都會請師父幫忙檢查錯字，但這次只能靠自已了。應該…不會出問題吧？`},eE={character:"gorou",year:2025,sign:"五郎 2025-05-18",content:`在八重堂最近寄來的答疑信件中，有一封篇幅繁冗，文風尤為恣肆。雖然編輯備註無需在意，隨意回覆即可。但我認為，無論面對將士還是讀者，都應推誠相待。
 只是…寫信人通篇陳述自己是一位精通武藝、繪畫、搖滾音樂、昆蟲行為學、卡牌遊藝，統領著精銳部將，還能在天領奉行等機要場所頻繁出入的頭目。他洋洋灑灑數頁後便戛然而止，並未提及任何需要我答疑的內容…
 你見聞廣博，可曾結識過這般英豪？在你看來，他們會遭逢怎樣的困擾？我試著擬了一則回書，想請你抽閒參詳斧正。
-請允許我以海祇島新鮮捕撈的水產相報！`},tE={character:"gorou",year:2024,sign:"五郎 2024-05-18",content:`近來可好？
+請允許我以海祇島新鮮捕撈的水產相報！`},nE={character:"gorou",year:2024,sign:"五郎 2024-05-18",content:`近來可好？
 上次從你們那裡買到的煉金藥劑非常棒！大家幹活時更有力氣了，那趟貨船還帶來了比以往更為豐富的物產。
 說到物產…雖說大家都明白，只依靠進口貨物並非長久之計，但現在心急也沒用，還得步步為營、踏踏實實地改善海祇島的生產情況。而這其中，鼓舞和保持士氣也十分重要。我和將士們商量了一番，最後大家一起用口味新奇的配料製作了一份慶祝的蛋糕！
-你可是這次的大功臣，請務必分享這份「士氣蛋糕」。在今後的日子裡，與我們一同努力吧！`},eE={character:"gorou",year:2023,sign:"五郎 2023-05-18",content:`聽說近日，將士們計劃著為我慶祝生日。我既不想興師動眾，又不想辜負大家的美意。想來想去，最後決定辦一場熱鬧的武鬥會，以兩人一組的團體形式報名參賽。這樣，不僅能充分展現自身武藝，還有助於提高和隊友配合的默契！
+你可是這次的大功臣，請務必分享這份「士氣蛋糕」。在今後的日子裡，與我們一同努力吧！`},aE={character:"gorou",year:2023,sign:"五郎 2023-05-18",content:`聽說近日，將士們計劃著為我慶祝生日。我既不想興師動眾，又不想辜負大家的美意。想來想去，最後決定辦一場熱鬧的武鬥會，以兩人一組的團體形式報名參賽。這樣，不僅能充分展現自身武藝，還有助於提高和隊友配合的默契！
 我寄了信給北斗船長和萬葉，希望他們趕得上時間。至於鳴神島那邊，荒瀧一斗第一個給了我答覆，說他已是勝券在握，而托馬先生也鄭重回信說要帶上「太郎丸」共同參賽。
-高手雲集，我激動得心跳不已…我是說，如果有時間，你能來做我的隊友嗎？與你搭檔，我們一定所向無敵！`},nE={character:"gorou",year:2022,sign:"五郎 2022-05-18",content:`聽我說，我喜歡吃甜食的事情，不知怎麼傳到了海祇島將士們的耳邊，結果，大家為我準備了一個蛋糕，說什麼「五郎大哥一定要收下」…
+高手雲集，我激動得心跳不已…我是說，如果有時間，你能來做我的隊友嗎？與你搭檔，我們一定所向無敵！`},iE={character:"gorou",year:2022,sign:"五郎 2022-05-18",content:`聽我說，我喜歡吃甜食的事情，不知怎麼傳到了海祇島將士們的耳邊，結果，大家為我準備了一個蛋糕，說什麼「五郎大哥一定要收下」…
 海祇島的物產不算豐富，為將者也應保持克制…但我要是拒絕，就更對不起大家的心意了。
 於是，我嘗試著換位思考！如果是我收到了一封類似情況的求助信，該如何給對方建議。
 「和將士、朋友們共同享用這個蛋糕，未來有什麼好東西的時候，也和大家一起分享。」
 嗯！我覺得可以！
-一起來吃蛋糕吧！`},aE={character:"yunjin",year:2025,sign:"雲堇 2025-05-21",content:`好朋友，你可知辛焱的演唱會已經開到楓丹去了？真替她高興。
+一起來吃蛋糕吧！`},lE={character:"yunjin",year:2025,sign:"雲堇 2025-05-21",content:`好朋友，你可知辛焱的演唱會已經開到楓丹去了？真替她高興。
 她的表演我向來一場都不願錯過，戲臺那邊已託韻寧打點妥當。我呢，這幾日便權當在楓丹歇乏取材了。
 在異國他鄉做生日，新奇感觸不少，切盼著與知音傾談。辛焱算一個，你自然也不可或缺。
-不如今日就由我做東，請你們到德波大飯店小聚一番。早就聽聞楓達口感清新怡人，這回我也有幸嚐嚐滋味了。`},iE={character:"yunjin",year:2024,sign:"雲堇 2024-05-21",content:`前些日子，我們戲社裡兩位樂師告老歸鄉，臨走前他們介紹了幾位新樂師來。
+不如今日就由我做東，請你們到德波大飯店小聚一番。早就聽聞楓達口感清新怡人，這回我也有幸嚐嚐滋味了。`},rE={character:"yunjin",year:2024,sign:"雲堇 2024-05-21",content:`前些日子，我們戲社裡兩位樂師告老歸鄉，臨走前他們介紹了幾位新樂師來。
 新樂師本領不俗，與我們磨合的時間雖短，卻能做到曲與唱嚴絲合縫。
 聽著那熟悉又新鮮的樂聲，我偶爾會想起幼年咿咿呀呀學戲時，兩位老樂師笑眯眯伴奏的樣子。
 生活中別離與相遇總在不斷上演，悵然與驚喜，正是人生百味之一二。
-新的一歲，我願與摯友多些相聚時光，也願自己於戲藝上更有進步。正好近來心有所感，計畫排一出新戲，趁著生日相聚，想請你參詳參詳，可一定要來啊。`},lE={character:"yunjin",year:2023,sign:"雲堇 2023-05-21",content:`今年生日，老戲迷們包了船請我們全雲翰社的人賞月。這是觀眾厚愛，我們自然要去。
+新的一歲，我願與摯友多些相聚時光，也願自己於戲藝上更有進步。正好近來心有所感，計畫排一出新戲，趁著生日相聚，想請你參詳參詳，可一定要來啊。`},sE={character:"yunjin",year:2023,sign:"雲堇 2023-05-21",content:`今年生日，老戲迷們包了船請我們全雲翰社的人賞月。這是觀眾厚愛，我們自然要去。
 我和大家商量了一番，覺得既然戲迷如此抬愛，我們至少得回饋大家一折好戲。
 海上月下，風潮聲中，唱這一折是最應景的：
 「海島冰輪初轉騰，人生在世如歡夢，且自開懷飲幾盅…」
 能在生日這天和懂戲愛戲的朋友們留下美好的回憶，我由衷地感到幸福。
 我希望這份回憶中也有你，但不知你是否有閒暇，因此寫信相邀。
-如果你願意同我一道月下賞戲，就一起來吧。`},rE={character:"yunjin",year:2022,sign:"雲堇 2022-05-21",content:`唱完今日的戲，心裡難免覺得意猶未盡，想見見朋友。若你有空，我們晚些時候約在螭虎岩碰面，我帶你一同逛逛夜市，再吃些宵夜，如何？宵夜嘛，想來想去，還是燒烤配飲品才夠酣暢。雖說和健康沾不上邊，但看在是我生日的份上，戲社裡的老一輩總不會再唸叨了。一年能像這樣放縱一回，想想也愉快不少。
+如果你願意同我一道月下賞戲，就一起來吧。`},oE={character:"yunjin",year:2022,sign:"雲堇 2022-05-21",content:`唱完今日的戲，心裡難免覺得意猶未盡，想見見朋友。若你有空，我們晚些時候約在螭虎岩碰面，我帶你一同逛逛夜市，再吃些宵夜，如何？宵夜嘛，想來想去，還是燒烤配飲品才夠酣暢。雖說和健康沾不上邊，但看在是我生日的份上，戲社裡的老一輩總不會再唸叨了。一年能像這樣放縱一回，想想也愉快不少。
 這次還想請你喝喝璃月特色的大碗茶。若是覺得濃了、苦了，也不必勉強，嚐個新鮮就是了。
-到時見。`},sE={character:"fischl",year:2025,sign:"菲謝爾 2025-05-27",content:`「命定之日」如期降臨。
+到時見。`},uE={character:"fischl",year:2025,sign:"菲謝爾 2025-05-27",content:`「命定之日」如期降臨。
 聆聽吧！在此世與彼界的狹間，幽夜淨土的至聖御座之上，響徹著斷罪之皇帝與皇后的聖詠，迴盪著崇高與夢想的共鳴！
 吾以統御三千命途裂片的斷罪皇女之威名，降下恩典——此間命運交會的旅者啊，當以歌喉回應永夜之契，虔誠為本皇女祝頌吧。
-因果的絲線已指向禁忌樂土的幽邃聖域。伴隨聖歌的殘章，見證漆黑夜鴉銜來「終焉燭焰」…一切狂熱的靈魂都將在「永夜饗宴」中獲得嘉獎！`},oE={character:"fischl",year:2024,sign:"菲謝爾 2024-05-27",content:`你可曾見過肉球與柔毯簇擁、眸光與珠寶炫閃？
+因果的絲線已指向禁忌樂土的幽邃聖域。伴隨聖歌的殘章，見證漆黑夜鴉銜來「終焉燭焰」…一切狂熱的靈魂都將在「永夜饗宴」中獲得嘉獎！`},cE={character:"fischl",year:2024,sign:"菲謝爾 2024-05-27",content:`你可曾見過肉球與柔毯簇擁、眸光與珠寶炫閃？
 紫瑪瑙葡萄藤編織而成的鞦韆、純淨白銀的燈盞、淵水海鹽製成的蠟燭，還有晚星紋樣的餐盤，皆已準備一全…大可鳴奏！你卓越的引薦榮獲了本皇女的認可，此番歡聚之邀正是給予你的褒獎。
-趁這殊珍的一日還未像露滴般飄逝，我最為信賴的祝聖之人，亦為常夜夏宮新晉貓之魔法師，回應我的昭告，前來本皇女的王城，參與盛典吧！`},uE={character:"fischl",year:2023,sign:"菲謝爾 2023-05-27",content:`實像與荒誕交錯，晦暗與流光編織出前途未卜的七聖秘儀戰場。看啊！無形的命運之絲牽動瑰色幕布，門扉後的萬象昭然若揭。臣民們齊聲呼喚著本皇女降下湮滅的蒼雷，我，幽夜淨土的主人，卻因宿命的捉弄心生動搖…
+趁這殊珍的一日還未像露滴般飄逝，我最為信賴的祝聖之人，亦為常夜夏宮新晉貓之魔法師，回應我的昭告，前來本皇女的王城，參與盛典吧！`},fE={character:"fischl",year:2023,sign:"菲謝爾 2023-05-27",content:`實像與荒誕交錯，晦暗與流光編織出前途未卜的七聖秘儀戰場。看啊！無形的命運之絲牽動瑰色幕布，門扉後的萬象昭然若揭。臣民們齊聲呼喚著本皇女降下湮滅的蒼雷，我，幽夜淨土的主人，卻因宿命的捉弄心生動搖…
 本皇女盡覽萬千種結局，卻不忍親手終結我之扈從眼底的熾光，故而扭轉生死因果…
-我的祝聖之人啊，若你心懷忠誠，便於此命定之日，回應我的昭告，來此「覲見之間」，再度迎接你的終末之刻。`},cE={character:"fischl",year:2022,sign:"菲謝爾 2022-05-27",content:`於此幽星墜落之日，本皇女親命奧茲遠渡重洋，銜來異國之寶。
+我的祝聖之人啊，若你心懷忠誠，便於此命定之日，回應我的昭告，來此「覲見之間」，再度迎接你的終末之刻。`},hE={character:"fischl",year:2022,sign:"菲謝爾 2022-05-27",content:`於此幽星墜落之日，本皇女親命奧茲遠渡重洋，銜來異國之寶。
 看啊！其花瓣色澤薄紅，幽香縈繞，彷彿黃昏將至，於熾熱的餘燼中顯現末日最後的光輝。此等珍寶，塵世想必難得一尋！
-但本皇女閱盡萬千世界，坐擁寶藏無數。如此稀世之花，就大度地贈予你好了。今後，也繼續讚頌本皇女的威名吧！`},fE={character:"fischl",year:2021,sign:"菲謝爾 2021-05-27",content:`今日乃幽星墜落之日…也就是本皇女！菲謝爾·馮·露弗施洛斯·那菲多特的…命定之日。身為命定之人，在這祝聖閃耀之刻，當然是身披祝聖大權的。
+但本皇女閱盡萬千世界，坐擁寶藏無數。如此稀世之花，就大度地贈予你好了。今後，也繼續讚頌本皇女的威名吧！`},dE={character:"fischl",year:2021,sign:"菲謝爾 2021-05-27",content:`今日乃幽星墜落之日…也就是本皇女！菲謝爾·馮·露弗施洛斯·那菲多特的…命定之日。身為命定之人，在這祝聖閃耀之刻，當然是身披祝聖大權的。
 既然生日當天的願望會成真，那…如果是在生日當天送出的祝福，也會靈驗的吧…
 以皇女的極夜幻想組曲為誓，祝福你取得能粉碎一切困境的偉力。
 咳咳，對了。
 根據■■幽邃鴉眼的觀測，你似乎經常收集這種叫作晶核的東西。
-既然你喜歡，就多送你一點好了。`},hE={character:"sethos",year:2025,sign:"賽索斯 2025-05-31",content:`我聽說「今天吃什麼」稱得上人生的每日難題之一。早上路過寶商街時，從前委託過我幫忙的老闆們往我懷裡塞了很多好吃的。看來身為壽星的我很幸運，暫時不需要思考這個難題了。
+既然你喜歡，就多送你一點好了。`},mE={character:"sethos",year:2025,sign:"賽索斯 2025-05-31",content:`我聽說「今天吃什麼」稱得上人生的每日難題之一。早上路過寶商街時，從前委託過我幫忙的老闆們往我懷裡塞了很多好吃的。看來身為壽星的我很幸運，暫時不需要思考這個難題了。
 你呢？如果還沒想好今天「難題」的答案，不如過來幫幫忙，一起「解決」掉這些美食吧。我記得你身邊那位飄浮小朋友在這方面很有實力。
 飽餐後我們還可以到處逛逛消食。我收集了一些熱鬧的去處，當然，你不想被嘈雜聲打擾的話，我也知道一處很不錯的露營地。
-不用現在就做決定，到時按心情行動吧。`},dE={character:"paimon",year:2025,sign:"派蒙 2025-06-01",content:`鏘鏘~又到了派蒙生日的好日子。
+不用現在就做決定，到時按心情行動吧。`},gE={character:"paimon",year:2025,sign:"派蒙 2025-06-01",content:`鏘鏘~又到了派蒙生日的好日子。
 我都想好了，要拿出珍藏版的零食跟你一起慶祝。沒料到，平常藏…呃，存起來的零食有點多，一下子忘記放哪去了…但我在努力翻背包哦！
 說起來，你知道現在我們背包裡有多少好東西嗎？走在路上突然撿到的、完成了超難的委託才到手的，還有飽含好朋友心意的紀念品…
 原來我們一起去過這——麼多地方，經歷過那——麼多事件，我們還真厲害呀！
 但…零食還沒找到。
 你快來幫我找找啦！只要有你在，什麼事都會成功的吧！
-我還是照舊在一旁替你加油吧，嘿嘿，順便把蛋糕切好！`},mE={character:"paimon",year:2024,sign:"派蒙 2024-06-01",content:`不知不覺，我們已經一起旅行那麼久了！跟你在一起總是能吃到好吃的、玩到好玩的，我都快不知道該許什麼願望了。
+我還是照舊在一旁替你加油吧，嘿嘿，順便把蛋糕切好！`},yE={character:"paimon",year:2024,sign:"派蒙 2024-06-01",content:`不知不覺，我們已經一起旅行那麼久了！跟你在一起總是能吃到好吃的、玩到好玩的，我都快不知道該許什麼願望了。
 回想起來，這一路上都是你在做飯，這次也該輪到我大展身手了！為了這一天，最近你下廚的時候我都在你旁邊認真觀察…你發現了嗎？
 但…呃…那個…蛋糕有點不好做啦！更何況原料看起來就很好吃了…不然我們一起來做做看吧？我要在裡面放上新摘下來的泡泡桔！
-祈願來年不管在哪裡冒險，我們都能順順利利，開開心心！派蒙會一如既往陪著你的！`},gE={character:"paimon",year:2023,sign:"派蒙 2023-06-01",content:`嘿嘿，又到我的生日啦！這次要許什麼願望好呢？
+祈願來年不管在哪裡冒險，我們都能順順利利，開開心心！派蒙會一如既往陪著你的！`},pE={character:"paimon",year:2023,sign:"派蒙 2023-06-01",content:`嘿嘿，又到我的生日啦！這次要許什麼願望好呢？
 不准笑我現在才開始想，我可是早就在你沒看見的時候好好盤算過了！吃好吃的東西、去好玩的地方…只要陪在你身邊不就都能實現了嘛，根本不用浪費兩個願望！
 第一個願望，就許我們能一直在一起，不管經歷多大的困難，最終都能平平安安。
 第二個願望…唔，你說，如果願望許得少一點，是不是最後的效果也會濃縮在一起，變得…特別特別靈驗？
 那我就不貪心了，反正有你就夠了。
-好啦，快把蛋糕端出來，別再吊我胃口了，我知道你早就準備好了！`},yE={character:"paimon",year:2022,sign:"派蒙 2022-06-01",content:`派蒙的生日終——於到了，我要許三個願望！
+好啦，快把蛋糕端出來，別再吊我胃口了，我知道你早就準備好了！`},vE={character:"paimon",year:2022,sign:"派蒙 2022-06-01",content:`派蒙的生日終——於到了，我要許三個願望！
 希望今年能去更多好玩的地方、能吃到更多好吃的東西、能交到更多新的朋友、能和你一起在大大小小的角落裡留下我們的足跡！
 第二個願望嘛…
 欸，怎麼了？只要是在一句話裡，都能算作一個願望才對吧？為了鑽這個漏洞，我可是構思了好久！
 那…好吧。好吃的是一定要的，好玩的地方…也留著吧。
 最後一個願望…希望你天天開心，嘿嘿。
-這樣，我跟你在一起就什麼都有啦！不愧是我！`},pE={character:"paimon",year:2021,sign:"派蒙 2021-06-01",content:`嘿嘿嘿，今天是什麼日子你知道的吧？是我的生日哦！
+這樣，我跟你在一起就什麼都有啦！不愧是我！`},bE={character:"paimon",year:2021,sign:"派蒙 2021-06-01",content:`嘿嘿嘿，今天是什麼日子你知道的吧？是我的生日哦！
 沒忘記吧？一定記得的對吧！絕對不可以忘記哦！
 我可是早早地準備了各種材料，就等著今天呢！數給你聽哦，我偷偷買了麵粉、買了糖，還收集了好多史萊姆凝液…
-為了向本優秀嚮導表達感謝，還有紀念我們那麼長時間以來一直形影不離——快幫我做個生日蛋糕吧！我要史萊姆口味的哦！`},vE={character:"escoffier",year:2025,sign:"愛可菲 2025-06-08",content:`之前芙寧娜大人提過，可以嘗試在甜點中加入胡椒，帶來全新的口感…
+為了向本優秀嚮導表達感謝，還有紀念我們那麼長時間以來一直形影不離——快幫我做個生日蛋糕吧！我要史萊姆口味的哦！`},SE={character:"escoffier",year:2025,sign:"愛可菲 2025-06-08",content:`之前芙寧娜大人提過，可以嘗試在甜點中加入胡椒，帶來全新的口感…
 經過多次嘗試，我成功萃取出了一種胡椒風味物質，既保留了特有的口感，又適當削弱了侵略性，跟多種甜點食材都非常相配！
 正好，今天是我生日，我想結合這種新調味品，做些突破性的料理。
 洞察力、控制手法和靈感都無與倫比的廚藝新星，有空來參加一場簡單的即興晚宴嗎？
 我做什麼，你說了算，就由你來為我指定料理的形式和主題。
-當然，無論結果成功與否，我們兩個都要全部吃完哦。`},bE={character:"lisa",year:2025,sign:"麗莎 2025-06-09",content:`蒙德城近期風波告一段落，小可愛在這期間努力的樣子，姐姐都記住了哦。
+當然，無論結果成功與否，我們兩個都要全部吃完哦。`},_E={character:"lisa",year:2025,sign:"麗莎 2025-06-09",content:`蒙德城近期風波告一段落，小可愛在這期間努力的樣子，姐姐都記住了哦。
 不少騎士認為，為了避免再有「冒牌貨」混入其中，騎士團的大家應該主動加強溝通和交流，增進對彼此的瞭解…
 你覺得呢？我對你的洞察力有十足的信心，但要是因為許久不來往，導致小可愛對我的新愛好、新口味露出疑惑的表情…就算只有一瞬間，姐姐我也會傷心的哦？
 趁此機會，過來陪我聊聊天、喝喝茶，分享你近來的冒險故事吧。
-姐姐我也很關心小可愛的成長與變化呢。`},SE={character:"lisa",year:2024,sign:"麗莎 2024-06-09",content:`自從煉金店鋪的經營走上正軌，我的工作可算是輕鬆了不少。
+姐姐我也很關心小可愛的成長與變化呢。`},TE={character:"lisa",year:2024,sign:"麗莎 2024-06-09",content:`自從煉金店鋪的經營走上正軌，我的工作可算是輕鬆了不少。
 前些時候有騎士跟我報告說，煉金藥劑幫了他們不少忙，但我左等右等也沒等來小可愛你的信件。不知道我做給你的藥劑效果如何，有沒有讓你的旅行更順利一些呢？
 在出發去更遙遠的地方之前，回到熟悉的地方，見見熟悉的老朋友，有助於調整心情。這道理恐怕我不說你也知道。
 至於晚飯吃什麼，就交給你來決定囉？相信你還記得我的口味。
-呵呵，這次不要讓姐姐等太久囉。`},_E={character:"lisa",year:2023,sign:"麗莎 2023-06-09",content:`前幾天有個讀者在圖書館裡坐了半天，離開的時候把《蒸汽鳥報》忘在桌上。
+呵呵，這次不要讓姐姐等太久囉。`},xE={character:"lisa",year:2023,sign:"麗莎 2023-06-09",content:`前幾天有個讀者在圖書館裡坐了半天，離開的時候把《蒸汽鳥報》忘在桌上。
 我隨手翻了翻，不禁想到，等你去了楓丹，我豈不是能在報上讀到你近來的動向？
 看來我得提前培養閱讀報刊的習慣了。
 但小可愛你也知道的，我這人就是有點怕麻煩。要是你願意在一個不錯的下午，來圖書館喝上一杯姐姐我泡的茶，親自和我分享你所經歷的故事…想必更為真實、有趣。
-否則，這些甜點也會寂寞的。`},TE={character:"lisa",year:2022,sign:"麗莎 2022-06-09",content:`小可愛，我們好一陣子沒見面了。該不會是因為旅途忙碌，已經快忘了姐姐我吧？那樣的話，我可是會很傷心的。
+否則，這些甜點也會寂寞的。`},EE={character:"lisa",year:2022,sign:"麗莎 2022-06-09",content:`小可愛，我們好一陣子沒見面了。該不會是因為旅途忙碌，已經快忘了姐姐我吧？那樣的話，我可是會很傷心的。
 瓶子裡的鮮花開得正好，趁今天天氣不錯，來我這坐坐如何？想和你聊聊我在教令院求學的往事，等你踏上須彌的國土之後，也好和我說說它近來的變化。
 噓…你知道今天是什麼日子，能讓我親手準備晚餐的機會可不多哦。啊，說到這個，我猜你一定好奇過，這份肉醬麵裡的紫色從何而來吧？你很快就會知道答案了。
-呵呵，真期待我的「魔法」，能再度擦出你我之間的電火花。`},xE={character:"lisa",year:2021,sign:"麗莎 2021-06-09",content:`小可愛，最近想姐姐我了嗎？
+呵呵，真期待我的「魔法」，能再度擦出你我之間的電火花。`},AE={character:"lisa",year:2021,sign:"麗莎 2021-06-09",content:`小可愛，最近想姐姐我了嗎？
 我嘛，你知道的，還是在做圖書登記和藥劑配置那一套。
 平日沒事泡泡茶，想想你的事，倒也挺有意思。
 啊，對了，說起泡茶…
 最近喝膩了紅茶，我想嘗試一些新花樣，就將常備的嘟嘟蓮曬乾加上少許果醬，用溫水沖調花果茶喝。味道清新自然，能舒緩疲勞，推薦你也試試哦。
-懶得動手的話，就趁著今天來姐姐這裡坐坐吧。我親手泡給你喝。`},EE={character:"venti",year:2025,sign:"溫迪 2025-06-16",content:`收到這封信的時候，請你拿著信，站到窗邊。
+懶得動手的話，就趁著今天來姐姐這裡坐坐吧。我親手泡給你喝。`},wE={character:"venti",year:2025,sign:"溫迪 2025-06-16",content:`收到這封信的時候，請你拿著信，站到窗邊。
 有沒有感覺到一陣溫柔的風輕推你的背？
 哈哈，不如就順著那片掌心大的樹葉指引，跟著它來找我吧！
 千萬別被路邊薯餅的香味帶偏了哦？要是你一個人填飽了肚子，我這裡的美味佳餚可就要遭受冷遇啦。
 再忍耐一下，把蒙德城的熱鬧暫時拋在身後。聽到了嗎？耳邊那陣越來越清晰的旋律。
 陽光很好，野餐墊的顏色跟湖面的風一樣清涼，你一定遠遠就能看見。
-不急~不急，我就在這裡邊彈奏邊等你來。`},AE={character:"venti",year:2024,sign:"溫迪 2024-06-16",content:`剛才在樹底下閒坐的時候，一不小心睡著了，結果被掉下來的日落果砸到頭…
+不急~不急，我就在這裡邊彈奏邊等你來。`},ME={character:"venti",year:2024,sign:"溫迪 2024-06-16",content:`剛才在樹底下閒坐的時候，一不小心睡著了，結果被掉下來的日落果砸到頭…
 託它的福，我想到了一首新曲子。這第一位聽眾的位置當然是要留給你的。
 正好天氣不錯，一起在原野上散散步、吹吹風，拋開日常瑣事，自由自在地度過一天吧？
 等到了傍晚，找個風景好的地方，我把新歌彈給你聽。在奔忙的旅途之中，和重要的朋友一起看落日的時間，我可不捨得錯過呢！
-蒙德的清風等候著遠方的你，不要迷路哦。`},wE={character:"venti",year:2023,sign:"溫迪 2023-06-16",content:`我最近得到了一張藏寶圖，它是從大樹頂上飄下來的，上面畫著一個神秘的地點。蔚藍包圍茵綠，石黃點綴蒼青。即使是像我這般遊手好閒、整天在外晃蕩的吟遊詩人，都猜不出來它究竟是個什麼地方。雲霧籠罩的海邊洞窟？只在夜晚出現的森林浮島？嗯…到底會是什麼呢？
+蒙德的清風等候著遠方的你，不要迷路哦。`},jE={character:"venti",year:2023,sign:"溫迪 2023-06-16",content:`我最近得到了一張藏寶圖，它是從大樹頂上飄下來的，上面畫著一個神秘的地點。蔚藍包圍茵綠，石黃點綴蒼青。即使是像我這般遊手好閒、整天在外晃蕩的吟遊詩人，都猜不出來它究竟是個什麼地方。雲霧籠罩的海邊洞窟？只在夜晚出現的森林浮島？嗯…到底會是什麼呢？
 既然你是遊歷四方的勇者，不如就請你來看看路線吧？說不定，只要雙手搭在卷軸上，一個轉念就能到達目的地。到時候，找寶藏的光榮任務就交給你啦！
-我嘛，我當然要與你同行。即使需要去往世界邊緣，有我在就不用擔憂。但要是有什麼危險，你可要記得保護我哦？`},ME={character:"venti",year:2022,sign:"溫迪 2022-06-16",content:`今天吹過你髮梢的風，是不是有點不同？
+我嘛，我當然要與你同行。即使需要去往世界邊緣，有我在就不用擔憂。但要是有什麼危險，你可要記得保護我哦？`},CE={character:"venti",year:2022,sign:"溫迪 2022-06-16",content:`今天吹過你髮梢的風，是不是有點不同？
 好像有淡雅的花香，又像是清冽的泉水…
 要是你鼻子夠靈敏的話，聞出甜味也不奇怪，哈哈，那是因為我才啃完一顆蘋果。
 走吧走吧，一起出去逛逛！
 肚子餓了就摘路邊的野果吃，看見酒館就去休休息。有我這個最好的吟遊詩人為你伴奏，旅途走到哪算哪。
 哎呀，差點忘了，這捧塞西莉亞花給你。
-嗯～嗯，現在你的身上也有跟我一樣的花香了。`},jE={character:"venti",year:2021,sign:"溫迪 2021-06-16",content:`你說，我們要怎麼度過今天呢？
+嗯～嗯，現在你的身上也有跟我一樣的花香了。`},zE={character:"venti",year:2021,sign:"溫迪 2021-06-16",content:`你說，我們要怎麼度過今天呢？
 我想了好久，想到慕風蘑菇都枯了，風車菊也不轉了。
 唔…想和你坐在大樹上吹風，在山崖邊數星星，去風景優美的郊外散步，或者去無人的島嶼來個一日旅行！
 只要跟你在一起，無論做什麼事都很快樂。因為對我來說最重要的，是身邊有你。
-所以所以，就讓我好好享受這身為壽星的一天吧！選擇的權利就交給你囉？`},CE={character:"yoimiya",year:2025,sign:"宵宮 2025-06-21",content:`這些天在為「長野原煙花會」跑前跑後，都沒留意老爹早就把我的生日禮物準備好了，是一臺留影機耶！
+所以所以，就讓我好好享受這身為壽星的一天吧！選擇的權利就交給你囉？`},RE={character:"yoimiya",year:2025,sign:"宵宮 2025-06-21",content:`這些天在為「長野原煙花會」跑前跑後，都沒留意老爹早就把我的生日禮物準備好了，是一臺留影機耶！
 試燃煙花時我從取景框裡觀察…夜空中的火花映照著情侶們眼中的淚花、老婆婆溫柔地用手蓋住小貓的耳朵、孩子們舉著三彩糰子和煙花圖案比誰比較圓，噗！最後糰子黏在鼻尖上…我的煙花作為背景融入了這些幸福瞬間，一起被定格…翻看畫片時我心中也有東西被點燃了，我想，這就是我堅持做煙花的意義吧！
 說起來，印象中每次跟你在一起看煙花，我的注意力都在天上…這一次，我想看看你的反應！好不好好不好？
-嘻嘻，等你來！`},zE={character:"yoimiya",year:2024,sign:"宵宮 2024-06-21",content:`前陣子孩子們想去參加試膽大會，但又怕黑，我就去樹林裡捕來螢火蟲，幫他們做了幾盞小夜燈。
+嘻嘻，等你來！`},DE={character:"yoimiya",year:2024,sign:"宵宮 2024-06-21",content:`前陣子孩子們想去參加試膽大會，但又怕黑，我就去樹林裡捕來螢火蟲，幫他們做了幾盞小夜燈。
 螢火蟲一閃一閃的樣子，就像是把星星捧在掌心一樣呢。
 我突然有了靈感，想做一種能拿在手裡的、星星外形的煙花…嘿嘿，經過連日的嘗試，終於大功告成了！
 以後你走夜路的時候，就點燃一支「星星煙花」吧，這樣「英雄形態」的宵宮姐姐就會給你力量——哎呀，我知道你不是小孩子啦，只是希望我的新發明，能在你的旅途中綻放小小的光芒。
-好啦，快來和我一起「捧星星」吧！`},RE={character:"yoimiya",year:2023,sign:"宵宮 2023-06-21",content:`聽孩子們說，最近山裡出現了一隻大妖怪！它體型龐大、笑聲恐怖，平日裡愛吃甜點心，放在籃子裡的糰子一眨眼就不見了。它還特別愛搶大家手裡的糖果，連糖果紙都不放過，可以說是作惡多端。
+好啦，快來和我一起「捧星星」吧！`},OE={character:"yoimiya",year:2023,sign:"宵宮 2023-06-21",content:`聽孩子們說，最近山裡出現了一隻大妖怪！它體型龐大、笑聲恐怖，平日裡愛吃甜點心，放在籃子裡的糰子一眨眼就不見了。它還特別愛搶大家手裡的糖果，連糖果紙都不放過，可以說是作惡多端。
 但是，黏糊糊的甜點心吃得太多，大妖怪的行動正在變得遲緩。孩子們又說，只要無敵的英雄宵宮姐姐出手，一定能輕鬆討伐它；只要討伐了這隻妖怪，它的肚子裡就會出現一個大大的蛋糕，還插著蠟燭！
 你一定也沒見過這種妖怪吧？想不想和我一起去討伐它？
-我來接你吧！`},DE={character:"yoimiya",year:2022,sign:"宵宮 2022-06-21",content:`今晚有空嗎？我準備了好多造型獨特的煙花，就等天黑之後放呢！
+我來接你吧！`},LE={character:"yoimiya",year:2022,sign:"宵宮 2022-06-21",content:`今晚有空嗎？我準備了好多造型獨特的煙花，就等天黑之後放呢！
 雖然整體規模不大，但每一朵煙花都有特別的意義。有我過往一年裡最得意的作品，還有最近剛研製出的妖怪圖案…哎呀，一不小心說漏嘴了！透露太多會沒有驚喜感的，希望你親自來看！
 我很喜歡幫別人過生日，因為能為大家帶來歡樂和笑容。而到了今天，在我打開糖果盒的時候，孩子們從路邊竄了出來，一起喊著「宵宮姐姐生日快樂」…
 哇，實在是太開心了！真想天天過生日！
-我把糖果分給了每個人，留下了最後三顆，等著和你還有派蒙一起吃哦。`},OE={character:"cyno",year:2025,sign:"賽諾 2025-06-23",content:`很好，現在太陽剛好「升」起來，我覺得，這是寫「生」日信的好時候。
+我把糖果分給了每個人，留下了最後三顆，等著和你還有派蒙一起吃哦。`},NE={character:"cyno",year:2025,sign:"賽諾 2025-06-23",content:`很好，現在太陽剛好「升」起來，我覺得，這是寫「生」日信的好時候。
 許久未見，不知道你的牌技精進如何。在我的指導下，柯萊的技術日益精進，或許已經能和你過過​​招了。
 不過，柯萊最近一直神神秘秘地做著什麼，有風紀官和我說，他看見柯萊在買顏料和畫布，所訂購的畫布，還是七聖召喚卡牌的尺寸。
 難道，是她買不到想要的卡牌，所以只能自己畫一張嗎？我明天去問問柯萊，她想要的牌，我一定有收藏。
-等她組好了牌，你就過來和我們打七聖召喚吧，我會拼上全力，和你來一場最棒的決鬥。`},LE={character:"cyno",year:2024,sign:"賽諾 2024-06-23",content:`最近我在決鬥中得到了新的力量，變得比以前更強了。我原以為這股力量會讓人恐懼，結果挑戰者不減反增…沒錯，我說的正是新推出的七聖召喚卡牌。
+等她組好了牌，你就過來和我們打七聖召喚吧，我會拼上全力，和你來一場最棒的決鬥。`},VE={character:"cyno",year:2024,sign:"賽諾 2024-06-23",content:`最近我在決鬥中得到了新的力量，變得比以前更強了。我原以為這股力量會讓人恐懼，結果挑戰者不減反增…沒錯，我說的正是新推出的七聖召喚卡牌。
 不少牌友跟我說：「瞭解之後才發現，原來你沒有想像中那麼嚴肅。」
 因為我從來都把好牌留在需要決勝的時候打出，從不會一開始就「耍大牌」！
 總之，今天照常會有飯局，來的朋友會比往年要多。
-期待我們能來場新的對決。`},NE={character:"cyno",year:2023,sign:"賽諾 2023-06-23",content:`因為我們相識已久，我便在信件中省去多餘的禮數。
+期待我們能來場新的對決。`},UE={character:"cyno",year:2023,sign:"賽諾 2023-06-23",content:`因為我們相識已久，我便在信件中省去多餘的禮數。
 有時間的話，要一起吃個飯嗎？就在老地方，我的各位朋友恐怕都會來。
 今天的飯局是柯萊安排的。她說有些關於晶蝶的問題想要請教，但我早就看出來了，她其實就是想給我個「晶」喜。
 感謝她。我決定把這份「晶」喜傳遞給在場所有人。
 晚點見面，不要遲到，缺你不可。
-對了，別忘記帶上你的秘典之盒。`},VE={character:"barbara",year:2025,sign:"芭芭拉 2025-07-05",content:`近來，教會正在籌備一次小型的唱詩會。為了能讓大家有舒暢的觀演體驗，我委託了迪奧娜幫忙調製清涼的飲料供大家消暑，還找芙蘿拉訂購了小燈草做成手環營造氣氛…
+對了，別忘記帶上你的秘典之盒。`},BE={character:"barbara",year:2025,sign:"芭芭拉 2025-07-05",content:`近來，教會正在籌備一次小型的唱詩會。為了能讓大家有舒暢的觀演體驗，我委託了迪奧娜幫忙調製清涼的飲料供大家消暑，還找芙蘿拉訂購了小燈草做成手環營造氣氛…
 我很期待能讓大家放鬆下來享受相聚的時刻，所以精心排練了一些舒緩的曲目，我相信它們每一首都非常適合夏夜！
-我給幫預留了前排的位置，但也請你做好心理準備哦。我有預感，大家會找你要簽名和握手——身為榮譽騎士的你，是我們蒙德人心中當之無愧的偶像哦！`},UE={character:"barbara",year:2024,sign:"芭芭拉 2024-07-05",content:`今天路過廣場的時候，我聽到有個小女孩在和她的同伴一起哼歌，竟然是我之前演出時唱過的曲子…我和她們打了個招呼，又一起合唱了一段。
+我給幫預留了前排的位置，但也請你做好心理準備哦。我有預感，大家會找你要簽名和握手——身為榮譽騎士的你，是我們蒙德人心中當之無愧的偶像哦！`},kE={character:"barbara",year:2024,sign:"芭芭拉 2024-07-05",content:`今天路過廣場的時候，我聽到有個小女孩在和她的同伴一起哼歌，竟然是我之前演出時唱過的曲子…我和她們打了個招呼，又一起合唱了一段。
 原來在不知不覺間，我的歌曲已經傳遞給了很多人。要是大家能從中獲得一些力量，對我來說就是最值得自豪的事了。
-嘿嘿，不知道你有沒有哼歌的習慣，又會不會在高興的時候隨口哼唱呢？如果聽到什麼動聽的旋律，請一定要分享給我哦！`},BE={character:"barbara",year:2023,sign:"芭芭拉 2023-07-05",content:`前幾天我幫孩子們處理擦傷的時候，突然想起了你。你在哪裡冒險？會不會經常受傷？有沒有及時接受治療？
+嘿嘿，不知道你有沒有哼歌的習慣，又會不會在高興的時候隨口哼唱呢？如果聽到什麼動聽的旋律，請一定要分享給我哦！`},HE={character:"barbara",year:2023,sign:"芭芭拉 2023-07-05",content:`前幾天我幫孩子們處理擦傷的時候，突然想起了你。你在哪裡冒險？會不會經常受傷？有沒有及時接受治療？
 就算是厲害的榮譽騎士，也不能放著小傷不管哦。好好地對待自己的身體，它才會在關鍵的時候幫到你！
 說起來，在治療的時候，有幾個孩子哭得很厲害，不管我怎麼哼歌、安撫都靜不下來。蘿莎莉亞建議我換個想法，我想了想，就講了一個「榮譽騎士面對巨龍也不哭不怕」的故事…沒想到真的有效！現在他們都很想親眼見見你，似乎是把你當成了他們的「偶像」…
-如果能藉此機會，告訴他們「勇敢不同於魯莽，榮譽騎士從不玩危險的遊戲」就更好了…`},kE={character:"barbara",year:2022,sign:"芭芭拉 2022-07-05",content:`你遇到過瓶頸嗎？
+如果能藉此機會，告訴他們「勇敢不同於魯莽，榮譽騎士從不玩危險的遊戲」就更好了…`},qE={character:"barbara",year:2022,sign:"芭芭拉 2022-07-05",content:`你遇到過瓶頸嗎？
 最近這段時間，我時常感到自己很難再有所提高了…不管是教會的工作，還是每天練習的歌曲，總是保持在一個樣子。雖然多少能夠幫到大家的忙，但我也明白，我一直沒能繼續進步，而原地踏步是不行的。
 我去找了姐姐，想聽聽她的建議。她說，她所做的努力只是「堅持」而已。
 「不要急於成長。成長是一種累積，堅持一直以來所做的事，就能看到希望。」
 我相信姐姐的話，所以，也想把這個秘訣分享給不斷旅行的你。
-願你的旅途總有歌聲和幸福相伴。`},HE={character:"barbara",year:2021,sign:"芭芭拉 2021-07-05",content:`你最近在哪裡旅行呢，是不是依舊每天都過得很忙碌呢？
+願你的旅途總有歌聲和幸福相伴。`},IE={character:"barbara",year:2021,sign:"芭芭拉 2021-07-05",content:`你最近在哪裡旅行呢，是不是依舊每天都過得很忙碌呢？
 唔，仔細想想，對你來說這應該能算是充實吧。
 我也是這樣哦！每天都向風神祈禱、傾聽禱告、治療傷患、練習唱歌…
 說起唱歌，我新學了一首特別的曲子！
 雖說跟我擅長的風格不太一樣，但我很喜歡它的旋律，好像其中靜靜流淌著某種非常溫暖的情感…我猜你也會喜歡的。
 啊，對了，蒲公英籽，隨信一起寄給你。希望你有空…有機會的話，能來聽聽我的新歌。
-嘿嘿，這就算作我的生日願望了吧。`},qE={character:"kaveh",year:2025,sign:"卡維 2025-07-09",content:`我不說你一定不相信，竟然有人懶得幫寶商街小吃攤攤主出主意，結果把我推薦給他們？真是服了他！
+嘿嘿，這就算作我的生日願望了吧。`},YE={character:"kaveh",year:2025,sign:"卡維 2025-07-09",content:`我不說你一定不相信，竟然有人懶得幫寶商街小吃攤攤主出主意，結果把我推薦給他們？真是服了他！
 簡單來說，寶商街那邊有個攤主到處找人出主意，要設法刺激顧客購物，我建議他辦個甜品塔比賽，用甜點堆積木，堆得越高獎勵越多。
 這類小遊戲當然有竅門了。我比較推薦用椰炭餅當地基，棗椰蜜糖當支撐結構。填充素材的話，就用千層酥酥。已經試過了，能疊很高。
 比賽第一名可以免費吃點心，你要是想試，就這樣辦吧。
-不去也沒關係，店主送了我不少甜品當謝禮，分你和派蒙一些，配咖啡享用味道更好。`},IE={character:"kaveh",year:2024,sign:"卡維 2024-07-09",content:`最近過得好嗎？希望你和派蒙一切順利。
+不去也沒關係，店主送了我不少甜品當謝禮，分你和派蒙一些，配咖啡享用味道更好。`},GE={character:"kaveh",year:2024,sign:"卡維 2024-07-09",content:`最近過得好嗎？希望你和派蒙一切順利。
 前些日子我去寶商街排隊買點心，排在前面的兩個人一直在聊最近看的小說，我豎起耳朵聽著聽著，不小心就把一整本書都聽完了…
 還聽人說，智慧宮裡有些舊書被畫了塗鴉，大都是加油打氣的可愛畫作，我覺得有趣，也想試試看。
 書房裡就有幾本用不到的舊書，等我抽空畫一畫，畫完送去那邊。
-畫畫和喝咖啡都是很好的提神抒壓方式哦，你們也請嘗試一下！`},YE={character:"kaveh",year:2023,sign:"卡維 2023-07-09",content:`好久不見。打算寄點東西給你，就寫了這封信。
+畫畫和喝咖啡都是很好的提神抒壓方式哦，你們也請嘗試一下！`},XE={character:"kaveh",year:2023,sign:"卡維 2023-07-09",content:`好久不見。打算寄點東西給你，就寫了這封信。
 聽說你經常四處旅行，真是不容易啊。
 最近家裡補了咖啡豆，買了幾個新品種，比較下來我們都覺得這個口味最好喝。我也裝了一袋給你，隨信附上，希望它能在接下來的日子裡讓你打起精神。
 生活似乎就是由起伏的線條拼接而成的，但如果可以的話，衷心希望你的線條能穩定向上。
-祝旅途順利。`},GE={character:"hutao",year:2025,sign:"胡桃 2025-07-15",content:`一日不見如隔三秋，讓本堂主數數，我們這是隔了幾秋？
+祝旅途順利。`},KE={character:"hutao",year:2025,sign:"胡桃 2025-07-15",content:`一日不見如隔三秋，讓本堂主數數，我們這是隔了幾秋？
 嘻嘻，璃月港一切都好，客卿香菱七七他們也都好。這好，那好，唯獨堂前冷清，長了三寸草！
 好在，本堂主一夜不寐，終得妙策——
 新客腳底抹油走，老友躺好不用愁。
 紙船滿載彼岸誇，皆因親朋常記掛。
 想給先人送新衣？紙裁花褲花衣裳！仙逝的貓大爺要追蝴蝶？好辦好辦，火蝴蝶送紙糊蝶到彼岸！
-這不，老主顧的訂單陸續有來。我剛糊好一頭大林豬，胖乎乎肥嘟嘟，好友來鑑賞鑑賞吧？等天黑了，走一趟無妄坡送貨，你煽風我引火，樹梢一坐，嘮嗑嚼蘋果，如何？`},XE={character:"hutao",year:2024,sign:"胡桃 2024-07-15",content:`這些天來，本堂主靈感匱乏，作詩不暢，本想著四處取材，卻在萬文集舍淘到一本算卦的書…
+這不，老主顧的訂單陸續有來。我剛糊好一頭大林豬，胖乎乎肥嘟嘟，好友來鑑賞鑑賞吧？等天黑了，走一趟無妄坡送貨，你煽風我引火，樹梢一坐，嘮嗑嚼蘋果，如何？`},ZE={character:"hutao",year:2024,sign:"胡桃 2024-07-15",content:`這些天來，本堂主靈感匱乏，作詩不暢，本想著四處取材，卻在萬文集舍淘到一本算卦的書…
 你別說，寫得倒還滿好玩！
 我算得香菱昨日會撞上「猩紅之兆」，結果香菱在一筐稻米裡找到了上好的絕雲椒椒…
 難怪前些日子總感覺她家的米飯香噴噴又火辣辣！
 於是本堂主就按自己的生辰算了一卦，沒想到，結果卻是「鎏金般尊貴的好友，會為兩人帶來鴻運」。
 哎呀呀，這說的還能是誰！妙哉妙哉！
-堂主我已經準備好飯菜了，快來和本堂主敘敘舊，看看今天我倆要怎麼撞大運！`},KE={character:"hutao",year:2023,sign:"胡桃 2023-07-15",content:`本堂主近來向香菱討教烹飪之道，她一口答應，這第一個任務便是要堂主我上山取材，這材還一定要有「新意」。
+堂主我已經準備好飯菜了，快來和本堂主敘敘舊，看看今天我倆要怎麼撞大運！`},QE={character:"hutao",year:2023,sign:"胡桃 2023-07-15",content:`本堂主近來向香菱討教烹飪之道，她一口答應，這第一個任務便是要堂主我上山取材，這材還一定要有「新意」。
 我猜好友你讀到這裡恐怕要皺起眉頭：這天上飛的、水裡游的和地上跑的，但凡能入口的都被香菱試過一遍了，要如何創新？
 堂主我也愁，閒逛一圈，兩手空空，最後只好高坐枝上，雙腿一盪——妙招就這麼來了。
 優秀的食材遠在天邊，近在眼前，這松木堅實耐用，富有清香，拿來烤雞定是一流！
 思如泉湧，本堂主當即賦詩一首。
 山間風光好，樹多蘑菇少。
 只要朋友齊來到，哪怕吃青草。
-我已備好松木，包好禽肉，升起火堆…就等好友你品嚐我的進步了！`},ZE={character:"hutao",year:2022,sign:"胡桃 2022-07-15",content:`近日本堂主對釣魚一事興趣陡升，但不知為何坐鎮池邊數日都絲毫不見魚兒上鉤，想來是缺少幫手所致。
+我已備好松木，包好禽肉，升起火堆…就等好友你品嚐我的進步了！`},JE={character:"hutao",year:2022,sign:"胡桃 2022-07-15",content:`近日本堂主對釣魚一事興趣陡升，但不知為何坐鎮池邊數日都絲毫不見魚兒上鉤，想來是缺少幫手所致。
 要說釣魚，自然需要摯友你囉！你天南海北四處垂釣，是高手中的高手，不如過來幫我看看，是這裡的魚兒肚子吃得太飽，還是餌不對胃口？另外，雖然釣魚失敗，但本堂主一個猛子扎進水裡親手撈了幾條美味的魚！滑溜魚片佐陽春麵，鮮香搭配，動靜相宜。此般美味，可不能我一人獨享呀。
 天上一隻鳥，地上一粒米，
 你和堂主在一起，每天笑嘻嘻。
-速來！就在這兒等你！`},QE={character:"hutao",year:2021,sign:"胡桃 2021-07-15",content:`好友，本堂主有一喜訊，專程通知：今天是本堂主生辰吉日，早晨起床只覺詩興大發，特此賦詩一首，邀你共賞。
+速來！就在這兒等你！`},FE={character:"hutao",year:2021,sign:"胡桃 2021-07-15",content:`好友，本堂主有一喜訊，專程通知：今天是本堂主生辰吉日，早晨起床只覺詩興大發，特此賦詩一首，邀你共賞。
 
 胡家奇女初問世，宏天雲展生萬象。
 火蝶振翅若梅瓣，夜盡曉夢隱留香。
@@ -642,481 +651,481 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 
 又及，本堂主近日途經無妄坡數趟，路遇岩壁生花，此等盎然生機，不折風骨，正如好友你一般使我高興。
 據說這些清雅可人的小花與椰奶一同飲用，有利口開胃之功效。我已試過，望你速嚐。
-有空常來堂裡坐！堂主想你！`},JE={character:"tartaglia",year:2025,sign:"達達利亞 2025-07-20",content:`唷，夥伴！我聽說了你的事蹟，看來你在「變強」的路上又跨越了不少難以想像的障礙，真替你高興！
+有空常來堂裡坐！堂主想你！`},PE={character:"tartaglia",year:2025,sign:"達達利亞 2025-07-20",content:`唷，夥伴！我聽說了你的事蹟，看來你在「變強」的路上又跨越了不少難以想像的障礙，真替你高興！
 我當然也沒有停下磨練的腳步，現在的我，應該能讓師父雙手應戰了吧？有你這位強勁的夥伴兼對手激勵著我向前進，我相信她很快就會認可我的實力，再次現身…
 不提這些了。我知道你下一個目的地是挪德卡萊，前陣子女皇派遣了大批軍士駐紮在那裡，個別棘手的同事也參與其中，如果某天你們必須正面交鋒…呵，那將是個不可多得的挑戰啊！
-不過…面對他們，你也要更小心。先讓我來陪你試試身手吧？`},FE={character:"tartaglia",year:2024,sign:"達達利亞 2024-07-20",content:`喲，夥伴！在為前往納塔的旅途做準備了嗎？有沒有我能幫上忙的地方？
+不過…面對他們，你也要更小心。先讓我來陪你試試身手吧？`},$E={character:"tartaglia",year:2024,sign:"達達利亞 2024-07-20",content:`喲，夥伴！在為前往納塔的旅途做準備了嗎？有沒有我能幫上忙的地方？
 納塔是「戰爭」的國度，大家都熱衷戰鬥，這點和我一樣。所以，在你啟程前，有沒有興趣久違地跟我比試一番？提前熱熱身也沒有壞處吧。
 不必擔心我的身體。為了不讓家人們擔心，我可是老實休養了很長一段時間。倒不如說，再不活動一下筋骨，身體就真的要出問題了。
 對了，從那隻鯨魚身上獲得的戰利品就送給你吧。我嘛，享受極致的戰鬥本身就足夠了。
-怎麼樣，考慮好了嗎？跟你見面的話，我的家人也一定會放心的。`},PE={character:"tartaglia",year:2023,sign:"達達利亞 2023-07-20",content:`喲，夥伴！旅行還順利嗎？生活上沒遇到什麼難處吧？
+怎麼樣，考慮好了嗎？跟你見面的話，我的家人也一定會放心的。`},WE={character:"tartaglia",year:2023,sign:"達達利亞 2023-07-20",content:`喲，夥伴！旅行還順利嗎？生活上沒遇到什麼難處吧？
 我剛度過一段忙碌的日子，這陣子連好好做頓飯的時間都抽不出來，廚藝都快生疏了。這些我可不敢寫進給冬妮婭的信裡。
 接下來要去幫北國銀行一點小忙，趁出發之日還有幾天，我得抓緊時間進行「特訓」了。
 有了！既然你去到了更多國度，應該也收集了各式各樣的當地食材吧？要不要你來為我出題？由你指定食物和調味料，我來加工成美味佳餚。
-你知道我的，我向來對挑戰來者不拒。不要手下留情哦，夥伴！`},$E={character:"tartaglia",year:2022,sign:"達達利亞 2022-07-20",content:`喲！夥伴，最近在哪旅行呢？有空的話，要不要來見我一面？
+你知道我的，我向來對挑戰來者不拒。不要手下留情哦，夥伴！`},tA={character:"tartaglia",year:2022,sign:"達達利亞 2022-07-20",content:`喲！夥伴，最近在哪旅行呢？有空的話，要不要來見我一面？
 我回了一趟家，向家人們說起過你。臨走時，他們特地往我包包裡塞了好多自家做的吃食，要我帶給你。
 但我不是那種沒眼力的人，我自己也準備了一點特產，想送給你一起品嚐。當然了，吃不習慣也沒關係，你能嚐嚐我就很高興了。
-總之，今天就拋開爭鬥聊點純粹快樂的事吧。家人、美食、天氣，或者過往的戰鬥…你放心，有我在，不用擔心找不到話題。`},WE={character:"tartaglia",year:2021,sign:"達達利亞 2021-07-20",content:`喲，夥伴！近來可好？自從我們上次見面，你應該又去了不少地方旅行吧？
+總之，今天就拋開爭鬥聊點純粹快樂的事吧。家人、美食、天氣，或者過往的戰鬥…你放心，有我在，不用擔心找不到話題。`},eA={character:"tartaglia",year:2021,sign:"達達利亞 2021-07-20",content:`喲，夥伴！近來可好？自從我們上次見面，你應該又去了不少地方旅行吧？
 我嘛，就只能自己幫自己找點樂子了。前些日子藉工作的機會去龍脊雪山晃了一圈，隨信附上一些當地特產，希望對你有用。
 雪山的寒冷，令人想起家鄉的景色…
 唉，無聊的日子過得多了，就特別懷念跟你在一起的時候。爭鬥也好，挑戰也好，總覺得有你在身邊，才算是真正有趣的生活。
 哈哈，說起來，我一直想找個特別的日子約你見面，今天可算等到機會了！
-你要是沒有別的計劃，不如來找我吧？`},tA={character:"klee",year:2025,sign:"可莉 2025-07-27",content:`今天早上可莉悄悄路過琴團長辦公室的時候，聽到麗莎姐姐說「假期能使夏天帶來清涼」。過了一下子，凱亞哥哥就蹦出來問可莉：「小可莉，放假最想做什麼啊？」
+你要是沒有別的計劃，不如來找我吧？`},nA={character:"klee",year:2025,sign:"可莉 2025-07-27",content:`今天早上可莉悄悄路過琴團長辦公室的時候，聽到麗莎姐姐說「假期能使夏天帶來清涼」。過了一下子，凱亞哥哥就蹦出來問可莉：「小可莉，放假最想做什麼啊？」
 好耶，是假期！可莉喜歡假期！更喜歡夏天！可莉也來幫忙，幫大家帶來清涼！
 我跟嘟嘟可商量了好久，要請大家來參加可莉的「砰砰涼涼生日會」！就在果酒湖邊，把很多很多蹦蹦炸彈一起丟進湖裡——火花越大，水花越大，夏天就越清涼！
 你和小派蒙也要來玩，好不好嘛？
-可莉保證！會像上次保護優菈姐姐那樣，咻咻咻地護送你們回去！超——級——快，天黑前就能到家，打勾勾！`},eA={character:"klee",year:2024,sign:"可莉 2024-07-27",content:`可莉今天一起床，就收到好多好多句「生日快樂」！
+可莉保證！會像上次保護優菈姐姐那樣，咻咻咻地護送你們回去！超——級——快，天黑前就能到家，打勾勾！`},aA={character:"klee",year:2024,sign:"可莉 2024-07-27",content:`可莉今天一起床，就收到好多好多句「生日快樂」！
 媽媽說過，分享快樂，會更加快樂！
 所以可莉跟嘟嘟可說了「生日快樂」、跟琴團長說了「生日快樂」、跟麗莎姐姐、凱亞哥哥和阿貝多哥哥也說了…所有蒙德的好朋友聽完都哈哈大笑，很快樂！
 可是，宵宮姐姐、柯萊姐姐還有好多跟可莉玩過的好人都不住在蒙德，你帶我去找他們好不好？可莉也想跟他們說一句「生日快樂」！多遠都沒關係，可莉會帶好吃的！
 等你來接我的時候，我要跟你說兩聲「生日快樂」，一個給你，一個給小派蒙！
-大家一起——生日快樂！`},nA={character:"klee",year:2023,sign:"可莉 2023-07-27",content:`夏天對可莉非常重要，因為媽媽說可莉是夏天出生的。
+大家一起——生日快樂！`},iA={character:"klee",year:2023,sign:"可莉 2023-07-27",content:`夏天對可莉非常重要，因為媽媽說可莉是夏天出生的。
 大冒險也很重要，因為…大冒險很有趣！
 跟朋友在一起的夏天大冒險，是好多重要加了起來，所以是可莉最開心的事情！
 可莉吃到了蛋糕，參加了演戲，還坐了呼呼飛車，像雲朵一樣飛得好高好高，度過了一個最棒的夏天！
 可莉真捨不得讓這個夏天過去…
-生日願望就許這個，可以嗎？`},aA={character:"klee",year:2022,sign:"可莉 2022-07-27",content:`可莉喜歡夏天！
+生日願望就許這個，可以嗎？`},lA={character:"klee",year:2022,sign:"可莉 2022-07-27",content:`可莉喜歡夏天！
 夏天有很熱很熱的太陽，也有很長很長的白天。
 可莉有更多的時間做喜歡的事情，夏天的冒險也會變得更燙、更有趣！
 今年夏天，可莉跟著媽媽一起出去度假了。
 媽媽帶可莉見到了超級漂亮的風景，還有好多好玩的東西。
 鏘鏘——可莉猜到你會好奇，已經用畫筆把它們全都畫下來啦。等我們見面的時候，就由可莉來為你說故事吧。
 對了對了，媽媽說，夏天是分享快樂的季節，也是讓心靈飛翔的季節，還給了我一本看不懂的小冊子。
-嘿嘿，送給你，希望你和可莉一樣喜歡夏天！`},iA={character:"klee",year:2021,sign:"可莉 2021-07-27",content:`前些日子，可莉非常認真地想好了計劃，要來一場生日前的大冒險！
+嘿嘿，送給你，希望你和可莉一樣喜歡夏天！`},rA={character:"klee",year:2021,sign:"可莉 2021-07-27",content:`前些日子，可莉非常認真地想好了計劃，要來一場生日前的大冒險！
 首先，趁著琴團長工作的時候，成功開溜~！
 然後，要跑去她找不到的地方！可莉跑啊跑，跑啊跑，在一個大山洞裡還找到了不得了的大蜥蜴呢！
 然後的然後，一想到要過生日，可莉就特別開心，結果好像跑得太遠了…琴團長知道了肯定會生氣的。
 除非，可莉在生日當天回家。琴團長看在可莉過生日的份上，就不會發脾氣了吧？
 所以呀…可以請你來接可莉嗎？等你哦！
-還有，大蜥蜴的奇怪石頭也交給你了。要是你知道怎麼用它製作寶物的話，之後也來教教可莉吧，好不好！`},lA={character:"yanfei",year:2025,sign:"煙緋 2025-07-28",content:`旅途還順利嗎？
+還有，大蜥蜴的奇怪石頭也交給你了。要是你知道怎麼用它製作寶物的話，之後也來教教可莉吧，好不好！`},sA={character:"yanfei",year:2025,sign:"煙緋 2025-07-28",content:`旅途還順利嗎？
 我都快暈倒在案卷堆裡了…哦別誤會，我不是抱怨工作太多，而是近來十件諮詢裡有七、八件都是問「這條律令的模糊地帶怎麼利用，才能讓對手默默自認吃虧？」或者「契約裡埋什麼陷阱才不算違法？」…這太不對勁了吧！
 律法是公理的盾牌，可不是鑽漏洞的鎬頭啊…看來普法講座非常必要。
 可以請你來試聽嗎？你只要舒舒服服地坐著就行，結束後請千萬要告訴我實話：哪段像天書？要不要拆解？語速會不會太快？要是反應好，我還計劃編寫普法讀物…哎呀，不過這都是之後的事了。
-要來哦，等你！`},rA={character:"yanfei",year:2024,sign:"煙緋 2024-07-28",content:`掰著手指頭算算，這是我們認識以來我的第幾個生日來著…
+要來哦，等你！`},oA={character:"yanfei",year:2024,sign:"煙緋 2024-07-28",content:`掰著手指頭算算，這是我們認識以來我的第幾個生日來著…
 時間過得可真快啊，還記得上回才說著不希望你在楓丹遇到律法糾紛，沒想到再次給你寫信時，你都快去納塔了…看完了蒸汽鳥報上的報導，真替你捏一把汗！還好還好，你能這麼完美地解決案件，連我這個律法專家都忍不住為你喝彩！
 只可惜，報紙上只有概述，呃…法庭上的細節，能不能請你這位當事人給我詳細講講？就當是你送我的生日禮物，如何？
-當然啦，法理之外，人情的「契約」也是應當遵守的。既有「贈禮」必有「回禮」，為表誠意，隨信先呈上我的回禮，請先潤潤喉。`},sA={character:"yanfei",year:2023,sign:"煙緋 2023-07-28",content:`之前你來找我，我總開玩笑讓你先預約，這次輪到我來預約你的時間啦。
+當然啦，法理之外，人情的「契約」也是應當遵守的。既有「贈禮」必有「回禮」，為表誠意，隨信先呈上我的回禮，請先潤潤喉。`},uA={character:"yanfei",year:2023,sign:"煙緋 2023-07-28",content:`之前你來找我，我總開玩笑讓你先預約，這次輪到我來預約你的時間啦。
 我記得你有去楓丹的打算，今晚正是個好機會，我們找個清靜一點的地方，我來跟你說說楓丹的律法。以免你去了楓丹之後，一不留神觸犯了楓丹法律，被執律庭的人逮住送去梅洛彼得堡了。等到那時候再要我來做你的「代理人」，可就來不及囉。
 我想了想，你應該還滿遵紀守法的吧？會不會是我杞人憂天了呢？
-總之，隨信附上「訂金」，就當陪我聊天也好，你可一定要來啊。`},oA={character:"yanfei",year:2022,sign:"煙緋 2022-07-28",content:`還記得這個日期嗎？沒錯，就是煙緋我的生日。
+總之，隨信附上「訂金」，就當陪我聊天也好，你可一定要來啊。`},cA={character:"yanfei",year:2022,sign:"煙緋 2022-07-28",content:`還記得這個日期嗎？沒錯，就是煙緋我的生日。
 你也算得上是一位大忙人了，不是在旅途中，就是在踏往下一場旅途的路上。真要忘記了也別在意，我不會因為這個就暗中調高針對你的收費標準。
 哎呀，我說這些幹什麼…怨我怨我，腦袋轉得太快，想到哪兒這手就已經寫到了哪兒。
 說回正題。我前不久幫客戶處理委託的時候，找到了點好東西。可不是我自吹自擂，我不僅識貨，還很懂得怎樣的物品適合贈送給怎樣的人。所以，別和我客氣，收下就好。
-過生日這種開心事，就是該和要好的朋友一起開心嘛。`},uA={character:"yanfei",year:2021,sign:"煙緋 2021-07-28",content:`想想都有一陣子沒見到你了，可惜可惜，看來你沒遇上需要我出面解決的律法問題啊。
+過生日這種開心事，就是該和要好的朋友一起開心嘛。`},fA={character:"yanfei",year:2021,sign:"煙緋 2021-07-28",content:`想想都有一陣子沒見到你了，可惜可惜，看來你沒遇上需要我出面解決的律法問題啊。
 是好事還是壞事呢？說不清楚。我要說是好事，弄得就像是我不想見到你了一樣，那當然不能稱作好事。可要說是壞事吧，就成了我期望你遇到麻煩一樣，那也不對。唉，這又是個難以用理性去拆解的問題啊。
 其實我也不清楚我們倆誰是長輩，誰是晚輩。那就乾脆不講究這些，這份「繁榮的指引」，請你收好。不管你在哪裡冒險，都別忘記這岩之國土的追求。
 要是你願意再多記一些，比如今天是我生日什麼的，我也不會拒絕，對吧。
-不管怎麼說，要好好讀書，好好努力哦！`},cA={character:"mualani",year:2025,sign:"瑪拉妮 2025-08-03",content:`你會在什麼時間拆開這封信呢…總之早安午安晚安！嘻嘻，都問候一次肯定沒問題！
+不管怎麼說，要好好讀書，好好努力哦！`},hA={character:"mualani",year:2025,sign:"瑪拉妮 2025-08-03",content:`你會在什麼時間拆開這封信呢…總之早安午安晚安！嘻嘻，都問候一次肯定沒問題！
 聽說壽星自帶好運，出門晃一晃，好運就會像鰭游龍躍進水面時的浪花一樣，濺到周圍人的身上！我可不能錯過這個好機會。
 最近納塔迎來了不少新朋友，「悠悠度假村」熱火朝天…乾脆將大家全約出來玩衝浪遊戲吧！衝浪板、泳衣還有小吃零食全部由本壽星獨家贊助，你跟派蒙什麼都不用帶，帶著對我的祝福就好啦！
-哦對了，到時候要離我近一點，我會遠遠地就開始助跑，用鯊鯊衝浪板猛猛地掀起比人還高的「好運巨浪」，嘩啦啦地撲向你！要好好接住哦！`},fA={character:"iansan",year:2025,sign:"伊安珊 2025-08-08",content:`每年生日，學員們都會比我本人還興奮，他們很愛以幫教練慶生當作理由，準備很多高熱量的美食…我也就順勢把這一天訂為一年一度的「放縱日」。
+哦對了，到時候要離我近一點，我會遠遠地就開始助跑，用鯊鯊衝浪板猛猛地掀起比人還高的「好運巨浪」，嘩啦啦地撲向你！要好好接住哦！`},dA={character:"iansan",year:2025,sign:"伊安珊 2025-08-08",content:`每年生日，學員們都會比我本人還興奮，他們很愛以幫教練慶生當作理由，準備很多高熱量的美食…我也就順勢把這一天訂為一年一度的「放縱日」。
 雖然我總是強調營養均衡和熱量控制，但健身是馬拉松，不是衝刺那樣的跑法。只要心裡裝著這個長期目標，偶爾把一頓水煮禽肉換成油炸食物，天也不會塌下來的。
 況且，大家總是說「吃飽了才有力氣訓練」，餐後我會為各位制定加強計畫的。所以今天嘛，就讓我們一起痛痛快快地吃一頓吧！ 
-糟糕，瓦雷莎已經繫好餐巾準備開動了。我會盡全力幫你留一點好吃的，建議加快腳步！`},hA={character:"amber",year:2025,sign:"安柏 2025-08-10",content:`猜猜我今天早上收到了什麼？是柯萊的信！沒想到當年有點膽小害怕的她，現在都能講解給學弟學妹聽啦，真替她高興！
+糟糕，瓦雷莎已經繫好餐巾準備開動了。我會盡全力幫你留一點好吃的，建議加快腳步！`},mA={character:"amber",year:2025,sign:"安柏 2025-08-10",content:`猜猜我今天早上收到了什麼？是柯萊的信！沒想到當年有點膽小害怕的她，現在都能講解給學弟學妹聽啦，真替她高興！
 看到好朋友有這樣突破性的進步，更堅定了我「要去蒙德以外的天空看看」的決心！聽說納塔有一個部落，那裡的居民與藍天為伍，很擅長飛行，甚至還有專業的飛行試煉場…
 你是納塔的大英雄，應該接觸過那個部族吧？其實上次風花節我就注意到了，你的飛行技術越來越精湛了！該不會是在那裡進行過特訓吧？要是你有空，跟我說說更多的細節好嗎！
-下次騎士團輪休，我也要帶著新做的風之翼和護目鏡去好好「進修」！`},dA={character:"amber",year:2024,sign:"安柏 2024-08-10",content:`前幾天巡邏時，我幫助了一支楓丹來的商隊，還一路跟大家聊了好久的天。聽說那裡的人們會穿上專門訂做的漂亮衣服，相約去看歌劇，不愧是時尚與藝術之都！
+下次騎士團輪休，我也要帶著新做的風之翼和護目鏡去好好「進修」！`},gA={character:"amber",year:2024,sign:"安柏 2024-08-10",content:`前幾天巡邏時，我幫助了一支楓丹來的商隊，還一路跟大家聊了好久的天。聽說那裡的人們會穿上專門訂做的漂亮衣服，相約去看歌劇，不愧是時尚與藝術之都！
 我打算幫兔兔伯爵也縫一套新衣服，這次要使用楓丹流行的布料，讓它盛裝出席我的生日！哈哈，楓丹風格的兔兔伯爵，舞姿是不是也該有相應的變化？
 對了，你去過楓丹，一定對「時尚」有自己獨到的見解！我想聽聽你的意見。
-順便，也來蒙德看看老朋友們的新面貌吧！`},mA={character:"amber",year:2023,sign:"安柏 2023-08-10",content:`昨天，我好好地睡了一大覺，為的就是養足力氣，精神飽滿地開啟今天的一日冒險！
+順便，也來蒙德看看老朋友們的新面貌吧！`},yA={character:"amber",year:2023,sign:"安柏 2023-08-10",content:`昨天，我好好地睡了一大覺，為的就是養足力氣，精神飽滿地開啟今天的一日冒險！
 你別覺得奇怪！我自己也知道，作為偵察騎士，我總是習慣察覺風險、排查隱患，即使到了陌生的地方，也很少會懷著絕對興奮的心情…這點和可莉很不一樣。但也正是聽她嘮叨「大冒險」多了，我才想拾起自己的童心。一整天的自由隨性，我覺得也不錯！
 所以，我打算從清泉鎮途經晨曦酒莊，至於要去風龍廢墟還是石門，就根據到時候的心情再做決定。
-如果在路上偶遇的話，我可以分你麵包哦！`},gA={character:"amber",year:2022,sign:"安柏 2022-08-10",content:`你好！今天有時間回蒙德走走嗎？我想見你一面！
+如果在路上偶遇的話，我可以分你麵包哦！`},pA={character:"amber",year:2022,sign:"安柏 2022-08-10",content:`你好！今天有時間回蒙德走走嗎？我想見你一面！
 正好我也需要在蒙德城四周巡邏，乾脆約個地方吧，我來接你，然後我們一起去城裡吃點東西…
 最近聽說「金髮的旅行者和飄浮的夥伴」在各地又有不少出色的表現，真為你們驕傲！
 不過比起聽別人轉述，我還是想聽你親自分享。
-在開啟下一段旅程之前，回熟悉的地方休息一下，應該會是個不錯的選擇哦，對不對？`},yA={character:"amber",year:2021,sign:"安柏 2021-08-10",content:`嗨，今天有沒有時間？我就直說了喔！我想邀請你一起野餐。
+在開啟下一段旅程之前，回熟悉的地方休息一下，應該會是個不錯的選擇哦，對不對？`},vA={character:"amber",year:2021,sign:"安柏 2021-08-10",content:`嗨，今天有沒有時間？我就直說了喔！我想邀請你一起野餐。
 零食、水果和飲料，全都由我來準備就好！點心的話就麻煩你了，我相信你的手藝！
 啊，也不用準備得太複雜。我主要是想藉這個機會，跟你多聊一下天，過一個開心的生日。
 我身為偵察騎士，訓練可是一天都沒有荒廢喔！嘿嘿，也遇到了些有趣的事，就留到見面再跟你分享吧。到時候，也和我說說你近來的冒險故事吧。
-喔喔，對了，這些蒲公英籽送給你。是我在執行任務途中順手採的，是不是很漂亮呢？`},pA={character:"mika",year:2025,sign:"米卡 2025-08-11",content:`不知道最近你有沒有前往雪山的計畫？最近我在勘查龍脊雪山的新路線時，發現舊地圖的斷崖標記偏差了整整五步！幸好有及時發現，我已經重新繪製了準確的地形圖，另外這次還開發了幾條更安全的繞行路線，特別用綠色墨水標註了。我知道你攀登雪山的能力很強，但那片區域有不少被冰層掩蓋的裂縫，請務必小心！
+喔喔，對了，這些蒲公英籽送給你。是我在執行任務途中順手採的，是不是很漂亮呢？`},bA={character:"mika",year:2025,sign:"米卡 2025-08-11",content:`不知道最近你有沒有前往雪山的計畫？最近我在勘查龍脊雪山的新路線時，發現舊地圖的斷崖標記偏差了整整五步！幸好有及時發現，我已經重新繪製了準確的地形圖，另外這次還開發了幾條更安全的繞行路線，特別用綠色墨水標註了。我知道你攀登雪山的能力很強，但那片區域有不少被冰層掩蓋的裂縫，請務必小心！
 修正後的手稿和耐寒藥劑我都整理好附在信末了，希望…能幫助你減少風雪中的麻煩。
 以上，就是我本次向榮譽騎士長官彙報的主要內容！
-其餘的…如、如果你今天沒有特別繁忙的事務…請批准我為你現場講解地圖中新增的注釋！`},vA={character:"mika",year:2024,sign:"米卡 2024-08-11",content:`在遠征隊時條件有限，大團長會每月選出一天幫大家辦「集體生日」。
+其餘的…如、如果你今天沒有特別繁忙的事務…請批准我為你現場講解地圖中新增的注釋！`},SA={character:"mika",year:2024,sign:"米卡 2024-08-11",content:`在遠征隊時條件有限，大團長會每月選出一天幫大家辦「集體生日」。
 說是生日，其實既沒有禮物，也沒有蛋糕，更像是找個理由一起聚餐…
 有時連食物都得就地取材。
 但我很喜歡這樣的生日：不用引人注目成為焦點，而是以團體一份子的身分，跟戰友們分享成長的喜悅。
 不過，游擊小隊好像有著完全相反的傳統，優菈隊長希望我們能勇敢地展現自己，這對我來說有點太難了…
 榮譽騎士長官，我能請你一起參加我的生日會嗎？想和你聊聊我最近記錄的風景，再請你嚐嚐我新研究的行軍料理…
-有你在的話，我或許就沒那麼拘束了！`},bA={character:"mika",year:2023,sign:"米卡 2023-08-11",content:`榮譽騎士長官，突然來信，希望沒有打擾到你。
+有你在的話，我或許就沒那麼拘束了！`},_A={character:"mika",year:2023,sign:"米卡 2023-08-11",content:`榮譽騎士長官，突然來信，希望沒有打擾到你。
 今天是我的生日，按照測繪員們常說的話，我抵達了人生路上的又一座里程碑。長官們常說：「隨著服役年份增加，騎士的能力必須以更快的速度進步」…這段時間，我收到了不少前輩的正面評價，算是達成了這一項要求。
 仔細想想，我能得到肯定，全都得益於你的指導和鼓舞。感謝你近來對我的幫助！
 可惜，最近我在外執勤，暫時無法邀請你一起慶祝，所以我準備了兩道拿手菜，如果能合你的口味，就再好不過了！
-等我回到蒙德，還要向你當面表示謝意才可以！`},SA={character:"navia",year:2025,sign:"娜維婭 2025-08-16",content:`嗨嗨，親愛的搭檔！最近看蒸汽鳥報了沒？夏洛蒂的拍照技術往上提升了一大步！那光影和神韻，亮眼到讓我戴上了墨鏡，哈哈。真巧，之前跟她約好的刺玫會專訪就在今天——
+等我回到蒙德，還要向你當面表示謝意才可以！`},TA={character:"navia",year:2025,sign:"娜維婭 2025-08-16",content:`嗨嗨，親愛的搭檔！最近看蒸汽鳥報了沒？夏洛蒂的拍照技術往上提升了一大步！那光影和神韻，亮眼到讓我戴上了墨鏡，哈哈。真巧，之前跟她約好的刺玫會專訪就在今天——
 從很久以前開始，我腦海裡就存著一本厚厚的「高難度合照姿勢圖鑑」，什麼層層疊疊樂、空中迴旋的友誼擊掌、優雅與力量的輪舞…好多高難度又充滿戲劇效果的點子，今天有夏洛蒂這位大師協助，我終於可以大展身手啦！
 當然，還不能少了一位能跟我完美配合的同伴…你知道我要說什麼：那絕對是你啊，我最有默契的好搭檔！
-在老地方見？我帶人來接你！`},_A={character:"navia",year:2024,sign:"娜維婭 2024-08-16",content:`嗨嗨，親愛的搭檔！在說正事之前，想先問你幾個問題——
+在老地方見？我帶人來接你！`},xA={character:"navia",year:2024,sign:"娜維婭 2024-08-16",content:`嗨嗨，親愛的搭檔！在說正事之前，想先問你幾個問題——
 如果要做蛋糕裝飾，你覺得幽光星星應該黏在最上面還是貼在蛋糕胚上？我想做個齒輪機關，讓蛋糕架旋轉起來，是不是很有意思？哦，還有還有，鹹味的烤肉薄餅，你覺得可以配鮮奶油嗎？
-嗯…午餐會需要用到的東西差不多都準備完成了，只差上面這幾個待定問題了！不用急著回答我，帶著答案來參加就行啦。對的對的，正事就是這個，邀請你來參加我的生日聚會。簡潔明瞭、簡單方便，不多贅述，老地方見！`},TA={character:"chiori",year:2025,sign:"千織 2025-08-17",content:`生日應該要有固定的慶祝模式嗎？蛋糕、鮮花，再來點儀式感？朋友們的邀約安排了這些內容，聽起來還不錯。但不巧的是，今天我只想專心繪製設計稿，所以我都推掉了。
+嗯…午餐會需要用到的東西差不多都準備完成了，只差上面這幾個待定問題了！不用急著回答我，帶著答案來參加就行啦。對的對的，正事就是這個，邀請你來參加我的生日聚會。簡潔明瞭、簡單方便，不多贅述，老地方見！`},EA={character:"chiori",year:2025,sign:"千織 2025-08-17",content:`生日應該要有固定的慶祝模式嗎？蛋糕、鮮花，再來點儀式感？朋友們的邀約安排了這些內容，聽起來還不錯。但不巧的是，今天我只想專心繪製設計稿，所以我都推掉了。
 跟愛洛芙交代了早點關店回家，讓我可以安靜畫圖，她居然覺得她的老闆一個人過生日很孤獨，想留下來加班陪我。這份善意作為禮物已經足夠了，我當然是不會答應的。
 但這個小插曲倒是給了我一些不錯的靈感。孤獨與自由…印象中，同時與這兩個關鍵字有關係的人不多，遠在天邊，近在信前的算得上一個。
 快速擬定了幾張概念圖，你先看看。等成衣做好了，再麻煩你來當衣架子吧。
-當然，你也可以拒絕。`},xA={character:"chiori",year:2024,sign:"千織 2024-08-17",content:`娜維婭這傢伙，最近老和我提起你們在「希穆蘭卡」那個童話世界的冒險。好久沒出去旅遊，聽得我都心癢了。
+當然，你也可以拒絕。`},AA={character:"chiori",year:2024,sign:"千織 2024-08-17",content:`娜維婭這傢伙，最近老和我提起你們在「希穆蘭卡」那個童話世界的冒險。好久沒出去旅遊，聽得我都心癢了。
 正好最近衣裝訂單告一段落，也該出去放鬆一下，找找靈感了。
 你要一起來嗎？先說好，多的東西不用準備，我喜歡隨心所欲的旅行。哦，對了，我還聽說，你最近正準備動身去納塔？
-那裡真的有很多溫泉嗎？納塔的龍都穿什麼樣的衣服？好奇的問題還有好多，等你去過那裡之後，我們找間安靜的餐館，一邊放鬆一邊聊吧。`},EA={character:"faruzan",year:2025,sign:"琺露珊 2025-08-20",content:`幾個學生在課餘期間，圍在一起說著關於「救世主」的新聞。嚯，那語氣和架勢，要是平時的話，我肯定會過去敲打他們：與其浪費時間在無稽之談上，不如多看兩頁書！但這次話題的主角是你…呵呵，那倒也沒什麼誇大的成分。
+那裡真的有很多溫泉嗎？納塔的龍都穿什麼樣的衣服？好奇的問題還有好多，等你去過那裡之後，我們找間安靜的餐館，一邊放鬆一邊聊吧。`},wA={character:"faruzan",year:2025,sign:"琺露珊 2025-08-20",content:`幾個學生在課餘期間，圍在一起說著關於「救世主」的新聞。嚯，那語氣和架勢，要是平時的話，我肯定會過去敲打他們：與其浪費時間在無稽之談上，不如多看兩頁書！但這次話題的主角是你…呵呵，那倒也沒什麼誇大的成分。
 很好，年輕人的確該給自己樹立些模範，不對，依照現在流行的說法，應該叫「偶像」？哎呀，年輕人的花招真是多。還有那個什麼…輕小說？
 輕在哪裡？厚厚一沓，幾乎快跟不少古籍一樣了。聽說柯萊很愛看這種讀物啊…她有跟你提過喜歡哪幾本嗎？
-咳！瞭解後輩的喜好，也是引導其學術成長的重要一環！等你有空之後回到須彌，歡迎隨時過來跟前輩探討。`},AA={character:"faruzan",year:2024,sign:"琺露珊 2024-08-20",content:`從前幾天起，教令院有些學生看到我就會主動上前說一句「前輩生日快樂」…先不論他們的學業程度如何，至少對待師長的態度還是很端正的嘛。嗯嗯，我很滿意。
+咳！瞭解後輩的喜好，也是引導其學術成長的重要一環！等你有空之後回到須彌，歡迎隨時過來跟前輩探討。`},MA={character:"faruzan",year:2024,sign:"琺露珊 2024-08-20",content:`從前幾天起，教令院有些學生看到我就會主動上前說一句「前輩生日快樂」…先不論他們的學業程度如何，至少對待師長的態度還是很端正的嘛。嗯嗯，我很滿意。
 哎呀，看到這些懂事的年輕人，自然而然就想起了你。最近又攻克了什麼機關謎題？你要去納塔了是不是？去哪都好，你是我親自認證過的好苗子，本領強天賦高，我對你很有信心！
 只不過冒險和研究一樣，提前規劃有益無害。我記得，有不少古籍記載了納塔秘源遺蹟的資訊，要點我都整理成冊了，你先看著，不懂的隨時來問。
-只要叫一聲「前輩」，我一定會為你好好講解，咳。`},wA={character:"faruzan",year:2023,sign:"琺露珊 2023-08-20",content:`如果你收到這封信，就代表我沒能趕在生日之前回來取消它。
+只要叫一聲「前輩」，我一定會為你好好講解，咳。`},jA={character:"faruzan",year:2023,sign:"琺露珊 2023-08-20",content:`如果你收到這封信，就代表我沒能趕在生日之前回來取消它。
 寫下這封信的時候，我正打算出門考察一座遺蹟…
 咳！我知道你在想什麼，會不會又掉進陷阱啊、又被機關困住啊…總是顧慮這些風險，可是做不出新成果的！
 但我也是能從經驗裡記取教訓的人。為了安全著想，我預先留下了這封信，隨信附上的書裡有遺蹟的位置資訊，萬一真的出了事，這次就有人知道到哪裡找我啦。
-我有預感這次能收集到很多資料，說不定還會忘了時間…如果真的變成那樣，就麻煩你帶一些點心，來提醒我過生日囉。`},MA={character:"arlecchino",year:2025,sign:"阿蕾奇諾 2025-08-22",content:`孩子們被分配了各自的任務與職責，彼此間的「許久不見」是常態。所幸，在壁爐之家的屋簷下，關係親疏無須以相逢的次數來衡量，每一次的相聚，反而被賦予了更深沉的分量。
+我有預感這次能收集到很多資料，說不定還會忘了時間…如果真的變成那樣，就麻煩你帶一些點心，來提醒我過生日囉。`},CA={character:"arlecchino",year:2025,sign:"阿蕾奇諾 2025-08-22",content:`孩子們被分配了各自的任務與職責，彼此間的「許久不見」是常態。所幸，在壁爐之家的屋簷下，關係親疏無須以相逢的次數來衡量，每一次的相聚，反而被賦予了更深沉的分量。
 我謝絕了近幾日冗雜的來訪預約，想多留一點時間，跟家人們好好享受桌上這壺新煮的、氤氳著香氣的茶湯。畢竟，風雪前的月夜…總是特別珍貴，也特別短暫。
-茶涼了，風味會消散，我叮嚀了琳妮特將茶壺放在爐火邊，若你剛好路過，就請進吧。`},jA={character:"arlecchino",year:2024,sign:"阿蕾奇諾 2024-08-22",content:`孩子們熱衷創造與家人相處的機會，燒烤、納涼、看星星…比起絞盡腦汁找尋理由，「父親」的生日已是最好的契機。佈置場地、準備美食…孩子們在此過程中摻入了他們自己的喜好。
+茶涼了，風味會消散，我叮嚀了琳妮特將茶壺放在爐火邊，若你剛好路過，就請進吧。`},zA={character:"arlecchino",year:2024,sign:"阿蕾奇諾 2024-08-22",content:`孩子們熱衷創造與家人相處的機會，燒烤、納涼、看星星…比起絞盡腦汁找尋理由，「父親」的生日已是最好的契機。佈置場地、準備美食…孩子們在此過程中摻入了他們自己的喜好。
 我並不介懷，適時給予放鬆的契機，是「父親」的責任。
 遺憾的是，有些熟悉的面孔不再會出現在宴會上了，原因種種，無須掩藏與美化。他們都應學會不被愁緒攫住心懷，或早或晚。
 你和壁爐之家的交情，卻是額外的驚喜。我想，有很多人都期待在今天的聚會上看見你，若你方便，還請別讓他們的期待落空。
-「家」中爐火正旺，孩子們會在門口迎接你的。`},CA={character:"ningguang",year:2025,sign:"凝光 2025-08-26",content:`聽聞你即將遠赴挪德卡萊。每個地方都有其自成方圓的規則，這本是常理。只是，從各方線報觀之，那片土地的運行之道，更顯得特別許多。
+「家」中爐火正旺，孩子們會在門口迎接你的。`},RA={character:"ningguang",year:2025,sign:"凝光 2025-08-26",content:`聽聞你即將遠赴挪德卡萊。每個地方都有其自成方圓的規則，這本是常理。只是，從各方線報觀之，那片土地的運行之道，更顯得特別許多。
 商海浮沉，我深知一個道理：金錢的流向，總是與權柄的羅盤互相纏繞。伏尼契商會在挪德卡萊的棋盤上，算得上一枚分量不輕的棋子。若途中偶遇一時之困，或可考慮與之做一番交易。
 當然，以上權作一盞薄茶時的閒敘建議。真正的抉摘，全在你心中那桿秤上。洞察先機，權衡利弊，一直以來是你的長處。我無須多言。
-遙祝此行順遂，風帆如意。`},zA={character:"ningguang",year:2024,sign:"凝光 2024-08-26",content:`前些時日在拍賣場上拍回幾枚翠玉。與一同參拍的名物珍玩相比，未經雕飾的玉石未免顯得平淡無奇。然而投資看重的，不是當下，而是未來。
+遙祝此行順遂，風帆如意。`},DA={character:"ningguang",year:2024,sign:"凝光 2024-08-26",content:`前些時日在拍賣場上拍回幾枚翠玉。與一同參拍的名物珍玩相比，未經雕飾的玉石未免顯得平淡無奇。然而投資看重的，不是當下，而是未來。
 保有天然的明淨，又有成為任何模樣的可能，我想，這樣承載著淳美期許的玉石，什襲珍藏於群玉閣，並不是它最好的歸宿。
 常說「佳物與能人配稱，方可相得益彰」，因此期盼你能收下。玉石隨你遊歷，經歷年歲的洗禮後，不知會散發何種色澤？屆時，就煩勞你再度撥冗，在未竟的棋局上與我分享一二了。
-我會像今日一樣，備辦餚饌，誠意候光。`},RA={character:"ningguang",year:2023,sign:"凝光 2023-08-26",content:`近日「七聖召喚」頗為風行，我的棋友們也有不少沉迷其中，想約一局「璃月千年」已比從前難上許多。
+我會像今日一樣，備辦餚饌，誠意候光。`},OA={character:"ningguang",year:2023,sign:"凝光 2023-08-26",content:`近日「七聖召喚」頗為風行，我的棋友們也有不少沉迷其中，想約一局「璃月千年」已比從前難上許多。
 卻也難怪，棋戲規則繁瑣，光是布局就要好一番功夫，行棋籌算又得勞費不少心神。有不少人勸我刪繁就簡，以便納新。
 不過在我看來，為適合的商品尋到適合的顧客，也是商人的本業。棋戲若一味追求簡化，反而會泯然於眾。聽說你在此道造詣不淺，如何權衡其中利弊，想必會有不少心得。
-若有空閒，可願來群玉閣小聚？不必擔心，棋盤棋子俱已布置妥當，權當作棋友相會就好。`},DA={character:"ningguang",year:2022,sign:"凝光 2022-08-26",content:`近日聽說一些奇聞，似乎有什麼人正在大陸上進行堪稱奇勇的旅行。我很感興趣，想請有旅行心得的你前來一敘。
+若有空閒，可願來群玉閣小聚？不必擔心，棋盤棋子俱已布置妥當，權當作棋友相會就好。`},LA={character:"ningguang",year:2022,sign:"凝光 2022-08-26",content:`近日聽說一些奇聞，似乎有什麼人正在大陸上進行堪稱奇勇的旅行。我很感興趣，想請有旅行心得的你前來一敘。
 無須擔心，雖是到群玉閣會面，但你我本是朋友，無需任何禮物、無需講究衣著。尋常小聚而已，三兩小菜、濃茶薄酒都已備齊。如有其他需要的，向秘書們提出便是。
 今夜會有好氣象，夜晚的璃月燈火更是耐看。你且來吧，我們慢敘。
-大陸上的冒險奇聞，你旅途中的故事…靜候你道來。`},OA={character:"ningguang",year:2021,sign:"凝光 2021-08-26",content:`今日是我的生辰，但如你所知，宴請賓客一事總是費心勞神。我便想著，這回不妨從簡，聯絡至交一二足矣。
+大陸上的冒險奇聞，你旅途中的故事…靜候你道來。`},NA={character:"ningguang",year:2021,sign:"凝光 2021-08-26",content:`今日是我的生辰，但如你所知，宴請賓客一事總是費心勞神。我便想著，這回不妨從簡，聯絡至交一二足矣。
 我做了些「乾坤摩拉肉」，你且嚐嚐。若有什麼感想，但說無妨。我知道你對烹飪很有心得，機會難得，剛好聽聽你的評價。
 另外，前些日子聽人說起，近日城外有野生琉璃百合盛開，我親自去了一趟，有幸採得一株。
 與傳言一樣，確實是品質上乘，香氣馥郁的野生花，比「玉京臺」人工栽種的品種更珍奇。
-轉給識貨的人或許能賣個好價錢，不過，摩拉雖好，妙人倒也難得。我將親手摘的花贈予你，望你能一同欣賞它的綻放。`},LA={character:"mavuika",year:2025,sign:"瑪薇卡 2025-08-28",content:`聽首領們講，大家計劃著把篝火都搬往聖火競技場，要為我辦一場盛大的派對。哈，能成為大家歡聚的原因，是我的榮幸。但我有個更方便的提議：把烤架架在家門口，讓火光自由地燃放在各個部族吧！還不用擔心喝醉了要趕遠路回去，慶典的歡鬧就該觸手可得才好。
+轉給識貨的人或許能賣個好價錢，不過，摩拉雖好，妙人倒也難得。我將親手摘的花贈予你，望你能一同欣賞它的綻放。`},VA={character:"mavuika",year:2025,sign:"瑪薇卡 2025-08-28",content:`聽首領們講，大家計劃著把篝火都搬往聖火競技場，要為我辦一場盛大的派對。哈，能成為大家歡聚的原因，是我的榮幸。但我有個更方便的提議：把烤架架在家門口，讓火光自由地燃放在各個部族吧！還不用擔心喝醉了要趕遠路回去，慶典的歡鬧就該觸手可得才好。
 我會坐上馳輪車，穿梭前往不同部族，期待每次轉彎都有可能撞見的驚喜。
 說起來，上次坐我的後座沒暈車吧？沒什麼大不了的，自己開車就不會暈了。不如這次換你來駕駛，有興趣嗎？
-去流泉之眾唱歌也好，到沃陸之邦吃水果也行…隨你決定，讓我們在轟鳴聲中一路前行。`},NA={character:"mona",year:2025,sign:"莫娜 2025-08-31",content:`《星座相談》的編輯邀請我來楓丹參加讀者見面會，還把前後好幾天的食宿全包了，而且全是超高規格！如果是花我自己的存款，我可捨不得去德波大飯店…
+去流泉之眾唱歌也好，到沃陸之邦吃水果也行…隨你決定，讓我們在轟鳴聲中一路前行。`},UA={character:"mona",year:2025,sign:"莫娜 2025-08-31",content:`《星座相談》的編輯邀請我來楓丹參加讀者見面會，還把前後好幾天的食宿全包了，而且全是超高規格！如果是花我自己的存款，我可捨不得去德波大飯店…
 雖說簡樸的生活才能窺探世界的真實，但靠自己賺來的回報，也是命途既定的果實，所以這幾天的吃喝玩樂完全沒有問題，很合理…這都是水占盤的預示！
 不得不說，瓦薩里迴廊不愧是購物天堂，商店多，促銷活動更多！我要買一批打折的食材回去，下個月的伙食費能省下來不少呢！
-我還發現一些不常見的商品，咬緊牙關也買了一些。請收下吧，材料和儀器永遠不嫌多，我想你總會用得上的！`},VA={character:"mona",year:2024,sign:"莫娜 2024-08-31",content:`又通宵了一夜…不過，這次並不是在趕稿，而是為了迎接今天的啟明星。我期待了好久的改良版星象儀，就在我生日這天發售！
+我還發現一些不常見的商品，咬緊牙關也買了一些。請收下吧，材料和儀器永遠不嫌多，我想你總會用得上的！`},BA={character:"mona",year:2024,sign:"莫娜 2024-08-31",content:`又通宵了一夜…不過，這次並不是在趕稿，而是為了迎接今天的啟明星。我期待了好久的改良版星象儀，就在我生日這天發售！
 所以我準備早早去店裡自提，一來，精密的儀器還是由我細心保護比較穩妥，二來，自提省下的運費，加上之前的稿費，又能補貼到新的星盤定金上…還剩一些，剛好能請你這位好友吃上一頓。
 雖然我無法占卜你的未來，給出你命運的預示，但偉大的占星術士會為你加油打氣，就拿這頓飯作數吧。
-放心，稿費存了很久，不會只有沙拉！要來啊！`},UA={character:"mona",year:2023,sign:"莫娜 2023-08-31",content:`最近忙於占卜，不知不覺晝夜有點顛倒，都快忘了今天過到星期幾了。還好《星座相談》主編的信件及時送到，提醒我已經要到交稿的日子了。
+放心，稿費存了很久，不會只有沙拉！要來啊！`},kA={character:"mona",year:2023,sign:"莫娜 2023-08-31",content:`最近忙於占卜，不知不覺晝夜有點顛倒，都快忘了今天過到星期幾了。還好《星座相談》主編的信件及時送到，提醒我已經要到交稿的日子了。
 唉，真是禍不單行…這下恐怕沒時間出門過生日了。
 但不管怎麼說，今天是個偉大的日子，至少不能虧待了我珍重的好友。隨信附上一點禮物，是那位編輯此前提到過的「虹彩薔薇」，據說這種花卉在楓丹廷很受歡迎，作為禮物再適合不過了。
-如果你願意的話，可以祝福我早點把稿件趕完。下次見面的時候，再請我吃蛋糕就好。`},BA={character:"mona",year:2022,sign:"莫娜 2022-08-31",content:`又到偉大占星術士的生日了，要來我這坐坐嗎？
+如果你願意的話，可以祝福我早點把稿件趕完。下次見面的時候，再請我吃蛋糕就好。`},HA={character:"mona",year:2022,sign:"莫娜 2022-08-31",content:`又到偉大占星術士的生日了，要來我這坐坐嗎？
 事先聲明，你可不能嫌棄我家裡東西堆得太滿。絕不是我不整理房間哦！聽好了，所有擺在外面的東西，都是我經常要用到的。
 想知道內容的話，我倒是可以為你一一講解。但你要是想親自嘗試的話，一定要仔細聽清楚我的每一句說明，否則會出問題的，明白嗎？
-那晚上見，我先準備晚餐了…`},kA={character:"mona",year:2021,sign:"莫娜 2021-08-31",content:`今天是偉大的占星術士——莫娜我的生日。一年才有一次的寶貴日子，我認為應該過得奢華、放縱一點。
+那晚上見，我先準備晚餐了…`},qA={character:"mona",year:2021,sign:"莫娜 2021-08-31",content:`今天是偉大的占星術士——莫娜我的生日。一年才有一次的寶貴日子，我認為應該過得奢華、放縱一點。
 但仔細盤點了採購清單，唉…想買的東西還真不少。全部買下來的話，就連下下個月的生活費都要貼進去了，果然還是之後再說吧。
 我想要多尋求一些生財之道，就弄來了幾本「黃金」的教導…但不知道是我沒有讀懂，還是它和賺摩拉壓根就沒有關係。雖然我失敗了，但也沒關係，說不定對你來說會有用。你要是用得上，就收下吧。
-要是你有時間，我們也該見一面了。眼看就是月底，手頭上的錢就算花完也不會有後顧之憂…總之！我們一起去吃頓好的吧！`},HA={character:"chongyun",year:2025,sign:"重雲 2025-09-07",content:`又添一歲，本該更進一竿才對。然而近來四方清平，竟無妖邪可誅。數次尋訪皆空手而歸…我絕非期盼妖魔作亂！只是這般日復一日的苦修，若久不經實戰砥礪…哎！
+要是你有時間，我們也該見一面了。眼看就是月底，手頭上的錢就算花完也不會有後顧之憂…總之！我們一起去吃頓好的吧！`},IA={character:"chongyun",year:2025,sign:"重雲 2025-09-07",content:`又添一歲，本該更進一竿才對。然而近來四方清平，竟無妖邪可誅。數次尋訪皆空手而歸…我絕非期盼妖魔作亂！只是這般日復一日的苦修，若久不經實戰砥礪…哎！
 一念及此，心底的不甘便如野火燎原，灼燒得讓人坐臥難安。情急之下——我也不過是多吃了點冰棒罷了！行秋卻開玩笑說我好歹練成了製冰的好手藝。
 哼，他既然這樣說，我便索性多製作了一點！諸般口味，俱有嘗試。若你不嫌棄，還請來嚐嚐？
 此番坦言請莫要見笑。
-新歲之誓不可廢，自當繼續揮劍、不斷找尋！如此，才不負這手中長劍…和那些下肚的冰棒！`},qA={character:"chongyun",year:2024,sign:"重雲 2024-09-07",content:`又是一年生辰。莫非是往年許了「早日看見妖邪」的願望，在昨夜夢中應驗了？我一睜眼便即刻描摹夢中所見，可惜邊畫邊忘，最終成像只得「長尾」、「鰭背」些許特徵…
+新歲之誓不可廢，自當繼續揮劍、不斷找尋！如此，才不負這手中長劍…和那些下肚的冰棒！`},YA={character:"chongyun",year:2024,sign:"重雲 2024-09-07",content:`又是一年生辰。莫非是往年許了「早日看見妖邪」的願望，在昨夜夢中應驗了？我一睜眼便即刻描摹夢中所見，可惜邊畫邊忘，最終成像只得「長尾」、「鰭背」些許特徵…
 我拿著圖畫多方探聽訊息，方從行秋口中得知此類妖邪源於納塔，須在溫泉或岩漿中方可將其徹底剿滅，著實扎手…
 聽聞珍友你正在納塔遊歷，如若遭遇此等妖邪，還請你留下畫片，他日與我詳敘。
-屆時一場鏖戰想必在所難免，特為你送些家鄉吃食，提振士氣！`},IA={character:"chongyun",year:2023,sign:"重雲 2023-09-07",content:`近日妖邪出沒，著實猖狂。雖然今日是我的生辰，但作為天衡方士，豈能整日安樂，放任妖邪作亂？
+屆時一場鏖戰想必在所難免，特為你送些家鄉吃食，提振士氣！`},GA={character:"chongyun",year:2023,sign:"重雲 2023-09-07",content:`近日妖邪出沒，著實猖狂。雖然今日是我的生辰，但作為天衡方士，豈能整日安樂，放任妖邪作亂？
 自當動身斬妖誅邪，護得一方安寧！
 我深知你向來以行俠仗義聞名璃月，想必也不能錯過這個機會吧？不如前來一聚，酣戰一番，痛斬妖孽…
 咳咳…
 方才所言，多有失態…不過想要邀請你前來一聚，卻是出自本心。快意之時友人遠隔千里，不免遺憾。
-你大可不必擔心餐食的口味，我最近重金購得一味解辣良方，效果立竿見影。`},YA={character:"chongyun",year:2022,sign:"重雲 2022-09-07",content:`按照家裡人的說法，每年生辰都是我們天衡方士的大日子，需要用心對待。
+你大可不必擔心餐食的口味，我最近重金購得一味解辣良方，效果立竿見影。`},XA={character:"chongyun",year:2022,sign:"重雲 2022-09-07",content:`按照家裡人的說法，每年生辰都是我們天衡方士的大日子，需要用心對待。
 今年生辰，我得跟著幾位長輩上山祈禳。我都計畫好了，要祈求流年順遂、修行有成、出門能看見妖邪、吃飯時廚子別放絕雲椒椒…
 還有，望你能出入平安。
 不能只有我一個人萬事順意，珍惜的朋友也得順順利利。
-對了，不知道你今日有沒有時間？我可以請你來天衡山跟我們一道禳災祈福嗎？`},GA={character:"chongyun",year:2021,sign:"重雲 2021-09-07",content:`今日若有閒暇，還請與我見上一面。
+對了，不知道你今日有沒有時間？我可以請你來天衡山跟我們一道禳災祈福嗎？`},KA={character:"chongyun",year:2021,sign:"重雲 2021-09-07",content:`今日若有閒暇，還請與我見上一面。
 請見諒，我實在不知該如何表達自己的心情，想了整整一天…想得臉都發熱了，仍是沒能找到更恰當的措辭。可若不趁此機會告訴你，接下來的一年我都會後悔。
 無須擔心！這回不同以往，不是要結伴練功，也不是去尋訪妖邪。僅僅是想同你小聚一番，隨性地聊聊。
 想請你聽我說說近來的奇聞異事，也想聽你談談旅途中的所見所感。
 此外，我…自覺武藝小有精進，還想請你指點一二。
-冰棒我已經備足了！無論發生怎樣的特殊情況，都不會破壞這次聚會。我會等你來。`},XA={character:"razor",year:2025,sign:"雷澤 2025-09-09",content:`蒙德城的盧皮卡，奔狼領的盧皮卡，都在。
+冰棒我已經備足了！無論發生怎樣的特殊情況，都不會破壞這次聚會。我會等你來。`},ZA={character:"razor",year:2025,sign:"雷澤 2025-09-09",content:`蒙德城的盧皮卡，奔狼領的盧皮卡，都在。
 生日歌，一起嚎。音調…奇怪。但，喜歡。
 生日，像蠟燭的火。風，呼…沒了。
 但我記得！誰分肉，一起，誰打獵，一起。
 風再大，吹不走。刻在骨頭裡。
 你不忙，希望你來，在身邊，在我眼裡。
 你忙，在別處，就…看不見…
-但，沒關係。你，都在。`},KA={character:"razor",year:2024,sign:"雷澤 2024-09-09",content:`師父說，朋友有困難，去幫助。自己有困難，找朋友。
+但，沒關係。你，都在。`},QA={character:"razor",year:2024,sign:"雷澤 2024-09-09",content:`師父說，朋友有困難，去幫助。自己有困難，找朋友。
 要說好多話，累，但值得。
 朋友像烈焰花，在一起，溫暖。
 你在冒險，值得，但累不累？
 累的話，有朋友，會變好。
 想和你，冒險一起去。
-爪子，更強了，希望能幫你。`},ZA={character:"razor",year:2023,sign:"雷澤 2023-09-09",content:`熟悉的一天，熟悉的地方。
+爪子，更強了，希望能幫你。`},JA={character:"razor",year:2023,sign:"雷澤 2023-09-09",content:`熟悉的一天，熟悉的地方。
 聞見，你的氣味。
 奇怪，你，很久沒來。
 老師說，這種氣味，是回憶。
 鼻子，沒有用。有用的，在胸口。
 老師還說，你懂。
 這種氣味，送給你。
-可以，教我嗎？`},QA={character:"razor",year:2022,sign:"雷澤 2022-09-09",content:`很久沒聞見，你的氣味。有點，想。
+可以，教我嗎？`},FA={character:"razor",year:2022,sign:"雷澤 2022-09-09",content:`很久沒聞見，你的氣味。有點，想。
 我，強了。說更多話，吃，更多肉。
 你吃的，也要好？
-喜歡的肉，給你。長力氣，一起。`},JA={character:"razor",year:2021,sign:"雷澤 2021-09-09",content:`很多很多個月以前的今天，我出生了。
+喜歡的肉，給你。長力氣，一起。`},PA={character:"razor",year:2021,sign:"雷澤 2021-09-09",content:`很多很多個月以前的今天，我出生了。
 出生，有盧皮卡，有你，有肉吃。
 出生…開心。
 想和你一起，開心。
 你對我好，我知道。我也要對你好。
-花很好看，送給你。你開心？`},FA={character:"albedo",year:2025,sign:"阿貝多 2025-09-13",content:`如你所知，不久前蒙德迎來了一位特殊的「新夥伴」。如今，他正逐步與眾人構築起微妙的交往紐帶。
+花很好看，送給你。你開心？`},$A={character:"albedo",year:2025,sign:"阿貝多 2025-09-13",content:`如你所知，不久前蒙德迎來了一位特殊的「新夥伴」。如今，他正逐步與眾人構築起微妙的交往紐帶。
 然而，人際間的「反應」，其複雜性往往超越煉金實驗。言語或如藥劑加速過程，而沉默，也可能悄然沉積，析出預期外的雜質。
 杜林雖常有疑惑，但我無意以我所見預設他的道路。我能做的，是協助他拓展視界，而後，將判斷與選擇的權利，交由他自己掌握。
 我想，在人際交往這個課題上，你的智慧無論對於杜林還是我，都會有極具意義的啟發。正如你的每一趟旅途，總能在既定軌跡外綻放新的可能。
-因此，我很期待與你再聚。`},PA={character:"albedo",year:2024,sign:"阿貝多 2024-09-13",content:`蒂瑪烏斯消沉了一段時日，雖然沒有明說，但他「為心愛之人創生無垢之花」的實驗恐怕失敗了。對於現階段的他而言，或許還是太過困難了。
+因此，我很期待與你再聚。`},WA={character:"albedo",year:2024,sign:"阿貝多 2024-09-13",content:`蒂瑪烏斯消沉了一段時日，雖然沒有明說，但他「為心愛之人創生無垢之花」的實驗恐怕失敗了。對於現階段的他而言，或許還是太過困難了。
 我沒有幫助他。這份成功只有他親自取得才有價值。而我相信他不會忘卻初衷。比起眼下的結果是花還是灰，不被旅途中的一時挫折帶偏方向才最為重要。
 說來，你的納塔之旅還順利嗎？偶然的機會，我得到了幾枚來自納塔的澄晶實，一些典籍中提到這類晶體與「燃素」相關。如何將「燃素」提煉並留存在煉金造物中…我對這個課題很感興趣，能否邀你一同探索？
-如有需要，這次我也可以當你的助手，我的知識應當能提供助益。`},$A={character:"albedo",year:2023,sign:"阿貝多 2023-09-13",content:`完成一幅畫作之後，每隔一段時間我就會將它取出，再次欣賞一番。
+如有需要，這次我也可以當你的助手，我的知識應當能提供助益。`},tw={character:"albedo",year:2023,sign:"阿貝多 2023-09-13",content:`完成一幅畫作之後，每隔一段時間我就會將它取出，再次欣賞一番。
 人們說，作畫的目標就是將一剎那的美景化作永恆。然而品質再好的顏料也會乾裂，那一剎那的美景早已老去。
 不過，我對這種變化並不反感。
 發現舊作的顏料乾裂時，我偶爾會循著裂紋補上幾筆，如此竟能得到一幅新的得意之作。
 就像人們喜歡的定期小聚，確認了歲月在彼此臉上留下的風霜後，心生慨嘆，卻也讓彼此的情誼更加醇厚。
 或許對於畫作來說，時間本身也是顏料的一種。
-如果你有時間前來一聚，這幅名為「你我」的畫作，也可以新添幾筆了。`},WA={character:"albedo",year:2022,sign:"阿貝多 2022-09-13",content:`算算時間，我們也該見一面了。近來我新畫了不少作品，各有特色，選材也較為廣泛。
+如果你有時間前來一聚，這幅名為「你我」的畫作，也可以新添幾筆了。`},ew={character:"albedo",year:2022,sign:"阿貝多 2022-09-13",content:`算算時間，我們也該見一面了。近來我新畫了不少作品，各有特色，選材也較為廣泛。
 我想聽聽你對這些畫的評價。瞭解你喜歡的美術風格之後，再以此為依據為你繪製一幅肖像畫。記得嗎？我答應過你這件事。
 談論旅途故事、探討煉金奧秘、分享研究的課題或是孕育胚芽的新生…相信這些有價值的內容也都會成為我們今天的話題。
-一如以往，茶點由我準備。期待與你見面。`},tw={character:"albedo",year:2021,sign:"阿貝多 2021-09-13",content:`我對「生日」本身並沒有什麼感覺。對我而言，它與你我經歷過的無數個日子一樣普通。日升日落，花開花謝…不過如此。
+一如以往，茶點由我準備。期待與你見面。`},nw={character:"albedo",year:2021,sign:"阿貝多 2021-09-13",content:`我對「生日」本身並沒有什麼感覺。對我而言，它與你我經歷過的無數個日子一樣普通。日升日落，花開花謝…不過如此。
 當然了，我也能理解大家重視它的原因。藉著一年一度的機會與重要之人相聚慶賀，確實是喜悅之事。
 你有時間的話，請來找我。不必匆忙，按你的步調來即可。也不用帶什麼禮物，茶點由我準備。
-這些平凡的日子，或許會因你這樣有趣的人而變得不同。`},ew={character:"clorinde",year:2025,sign:"克洛琳德 2025-09-20",content:`每一柄武器，都值得以最高敬意相待。先拂去浮塵，如同掃清決鬥場上的干擾。再以絨布輕拭劍身，撫平過往交鋒的印記。最後抹上特製的護刃油，為下一次的裁決積蓄力量…保養的工序雖然繁瑣，卻能讓紛擾的心緒沉靜下來，如同對決前那決定勝負的片刻凝神。
+這些平凡的日子，或許會因你這樣有趣的人而變得不同。`},aw={character:"clorinde",year:2025,sign:"克洛琳德 2025-09-20",content:`每一柄武器，都值得以最高敬意相待。先拂去浮塵，如同掃清決鬥場上的干擾。再以絨布輕拭劍身，撫平過往交鋒的印記。最後抹上特製的護刃油，為下一次的裁決積蓄力量…保養的工序雖然繁瑣，卻能讓紛擾的心緒沉靜下來，如同對決前那決定勝負的片刻凝神。
 你踏遍諸國，佩劍想必也承載了無數歷練的烙印——人需要休息，再鋒利的武器，也需片刻休整，這是對「沉默的夥伴」的公平。
-若你近期途經楓丹，請攜劍而來。我備有精選自各方的保養品，或許能為它拂去征塵，恢復它應有的、裁決一切不平的銳利明淨。`},nw={character:"clorinde",year:2024,sign:"克洛琳德 2024-09-20",content:`決鬥不會因為代理人的個人原因延遲或變動，好在今天的代理決鬥只有一場，我會準點結束工作，用私人時間慶祝生日。
+若你近期途經楓丹，請攜劍而來。我備有精選自各方的保養品，或許能為它拂去征塵，恢復它應有的、裁決一切不平的銳利明淨。`},iw={character:"clorinde",year:2024,sign:"克洛琳德 2024-09-20",content:`決鬥不會因為代理人的個人原因延遲或變動，好在今天的代理決鬥只有一場，我會準點結束工作，用私人時間慶祝生日。
 原本我想外出打獵，放鬆一下，但娜維婭趕來說她今天想當主持人。她給出的理由是，她已經想好要怎麼為我製造重重「考驗」了。所以希望我能找到可以有效配合的同伴，享受在故事中探索與冒險的樂趣。呵，真像她的作風。我最終被她「說服」了。那麼，今天我就以玩家的身分參與遊戲吧。
 可否邀請你跟我一同參與遊戲？規則易於上手，如有疑問之處娜維婭和我隨時都能為你解答。
-另外，為了避免氣氛變得太過嚴肅，我將試著扮演一些開朗的角色，見笑。`},aw={character:"aino",year:2025,sign:"愛諾 2025-09-21",content:`我等了好久好久，終於被我等到了——鏘鏘，一年一度的愛諾生日就在今天！
+另外，為了避免氣氛變得太過嚴肅，我將試著扮演一些開朗的角色，見笑。`},lw={character:"aino",year:2025,sign:"愛諾 2025-09-21",content:`我等了好久好久，終於被我等到了——鏘鏘，一年一度的愛諾生日就在今天！
 只有今天，伊涅芙會帶著整個工坊的小機器人們一起準備非常多的甜點，就算吃掉了堆得像零件一樣多的甜點，伊涅芙也不會生氣。
 怎麼樣？是不是心動了？那就來工坊陪愛諾一起過個甜滋滋的生日吧！
 放心，我會讓自動上菜餐盤們源源不斷地給你送上甜點，而且我特意為它們臨時加大了馬力，力求在今天表現完美，嘿嘿。
-啊，我聞到了香甜的氣息，看來已經有甜點出爐啦，但我還是想和朋友一起分享今天的第一份蛋捲，所以你要快點趕來哦！`},iw={character:"emilie",year:2025,sign:"艾梅莉埃 2025-09-22",content:`今日收工時間僅比預期晚了兩小時，這已算得上是難得的高效率了，比平日還要有餘的時間，正好可以用來整理現場清理工作的筆記。
+啊，我聞到了香甜的氣息，看來已經有甜點出爐啦，但我還是想和朋友一起分享今天的第一份蛋捲，所以你要快點趕來哦！`},rw={character:"emilie",year:2025,sign:"艾梅莉埃 2025-09-22",content:`今日收工時間僅比預期晚了兩小時，這已算得上是難得的高效率了，比平日還要有餘的時間，正好可以用來整理現場清理工作的筆記。
 保密原因，許多細節不便透露，但值得探討的是，現場某本詩集的書籤頁上重點標記了這樣的一句話：「眾目所向的蓓蕾才能昂首舒展；無人識的綠意，蜷在種殼裡長眠。」…
 單從科學性來分析，這個比喻相當荒謬。自然界中沒有一朵花會因為欣賞它的人太少而放棄綻放。
-就如隨信附上的鮮花，從種子到如今盛放，過程中會經歷無數的環境考驗。但影響它生長的變數中，從不包括世人的眼光。`},lw={character:"emilie",year:2024,sign:"艾梅莉埃 2024-09-22",content:`想將雜亂思緒清理乾淨的時候，到野外考察是個不錯的選擇。
+就如隨信附上的鮮花，從種子到如今盛放，過程中會經歷無數的環境考驗。但影響它生長的變數中，從不包括世人的眼光。`},sw={character:"emilie",year:2024,sign:"艾梅莉埃 2024-09-22",content:`想將雜亂思緒清理乾淨的時候，到野外考察是個不錯的選擇。
 雨後的草地、被碎浪沖刷的木頭、披拂花圃的晚風…大自然總有慰悅人心的力量。
 今日傍晚，我途經一處湖中垂柳，風裡飄來了湖光鈴蘭的幽香。靜靜聞嗅，香氣淡雅綿長，彷彿一位長久陪伴在身邊，卻不輕易叨擾的鄰居。
 順著這無形的絲線，我想起了更多人和更多事…
 我想，我有新的靈感了。
-請收下這束花，也請期待我下一款香水作品吧，我很樂意聆聽你的使用感受。`},rw={character:"freminet",year:2025,sign:"菲米尼 2025-09-24",content:`不久前，我去了納塔的悠悠度假村。那裡的海和楓丹的非常不同，鰭游龍很靈活，我跟牠們在水裡追逐了好多圈，好久沒這麼盡興了。
+請收下這束花，也請期待我下一款香水作品吧，我很樂意聆聽你的使用感受。`},ow={character:"freminet",year:2025,sign:"菲米尼 2025-09-24",content:`不久前，我去了納塔的悠悠度假村。那裡的海和楓丹的非常不同，鰭游龍很靈活，我跟牠們在水裡追逐了好多圈，好久沒這麼盡興了。
 岸上有很多人圍著跳舞，我不太敢靠近，就坐在遠處聽著、看著…明明不算熟悉，但當音樂響起時，旋律裹住了所有人。我的心跳跟著節拍晃動，似乎也融入了大家…音樂或許，是另一種語言？
 如果真是這樣，我想請你一起來聽我的音樂盒…它的旋律總能在我緊張時為我掃清外界的噪音，在心裡造出一個令人安心的「秘密空間」…
-發條我已經上緊了，當你不開心時，也請你進來…暫時躲一躲。`},sw={character:"freminet",year:2024,sign:"菲米尼 2024-09-24",content:`林尼提議舉辦一場小型海底生日派對，琳妮特已經提前去採購水下裝飾品了，他們囑託我去邀請朋友加入。
+發條我已經上緊了，當你不開心時，也請你進來…暫時躲一躲。`},uw={character:"freminet",year:2024,sign:"菲米尼 2024-09-24",content:`林尼提議舉辦一場小型海底生日派對，琳妮特已經提前去採購水下裝飾品了，他們囑託我去邀請朋友加入。
 但是比起當面邀請，似乎還是寫信比較簡單。
 我能邀請你一起來我的水下秘密基地嗎？簡單慶祝過生日之後，我們就在海底一起放鬆片刻吧。比如，想像自己是隻幽光星星，在水底愜意伸展四肢，默數從身旁漂過的汐藻，或許還有路過的…帽帽膨膨獸？
-我提前測量過了，佩伊和派蒙擠一擠，餘下的空間正好能夠躺下我們四個。`},ow={character:"freminet",year:2023,sign:"菲米尼 2023-09-24",content:`今天，林尼和琳妮特用魔術為我創作出了一個小蛋糕。蛋糕上面有新鮮的水果和像水滴一樣圓滾滾的鮮奶油裝飾，看起來很好吃。我原本想切一塊留給你，但它實在太過完美，讓我猶豫半天也找不到好角度。我和林尼、琳妮特商量過後，決定把它整個裝在盒子裡，帶去和你一起分享。
+我提前測量過了，佩伊和派蒙擠一擠，餘下的空間正好能夠躺下我們四個。`},cw={character:"freminet",year:2023,sign:"菲米尼 2023-09-24",content:`今天，林尼和琳妮特用魔術為我創作出了一個小蛋糕。蛋糕上面有新鮮的水果和像水滴一樣圓滾滾的鮮奶油裝飾，看起來很好吃。我原本想切一塊留給你，但它實在太過完美，讓我猶豫半天也找不到好角度。我和林尼、琳妮特商量過後，決定把它整個裝在盒子裡，帶去和你一起分享。
 我們走得很慢，路上應該沒有撞壞它。
 蛋糕是很奢侈的東西，朋友更是。
-…等大家一起吃完它，可以陪我在夜晚的海邊散散步嗎？`},uw={character:"xingqiu",year:2025,sign:"行秋 2025-10-09",content:`天清雲透，真是曬書的好時節。但風一掀頁，墨香混著陳紙的氣息迎面而來，我呀，便不由自主挨著石階坐下了，晾書席反成了讀書榻。沒想到批註過的句子，重讀時又生了新枝。「常看常新」四字，此刻才真正地嚼出滋味。
+…等大家一起吃完它，可以陪我在夜晚的海邊散散步嗎？`},fw={character:"xingqiu",year:2025,sign:"行秋 2025-10-09",content:`天清雲透，真是曬書的好時節。但風一掀頁，墨香混著陳紙的氣息迎面而來，我呀，便不由自主挨著石階坐下了，晾書席反成了讀書榻。沒想到批註過的句子，重讀時又生了新枝。「常看常新」四字，此刻才真正地嚼出滋味。
 日影西斜，方才回過神來，周遭散落著翻到一半的文集，晾書繩空懸，書箱卻仍滿滿當當…
 我只好對天許諾：未整理的殘卷——全部託付給明日的行秋吧。
-而最要緊的是，是心頭上這一點雀躍的癢意。想尋個知音，沏開兩盞新茶，道一道這新悟得的典故、久藏的軼聞、半截沒頭沒尾的江湖詩…閣下若有閒暇，可願來一聚？`},cw={character:"xingqiu",year:2024,sign:"行秋 2024-10-09",content:`數日前，有一孩童求我教他舞劍，嚷著要當大俠。為人師長，豈敢兒戲？我自知欠缺火候，又不忍澆滅他眼中的星光，可謂兩難…
+而最要緊的是，是心頭上這一點雀躍的癢意。想尋個知音，沏開兩盞新茶，道一道這新悟得的典故、久藏的軼聞、半截沒頭沒尾的江湖詩…閣下若有閒暇，可願來一聚？`},hw={character:"xingqiu",year:2024,sign:"行秋 2024-10-09",content:`數日前，有一孩童求我教他舞劍，嚷著要當大俠。為人師長，豈敢兒戲？我自知欠缺火候，又不忍澆滅他眼中的星光，可謂兩難…
 閣下見多識廣，可否勞煩你前來一聚，共商良策？
 哈哈，唉，我知道這番說辭騙不了你，來龍去脈我交代完整便是。確有孩童拜師一事，此前我已提議贈他幾本武俠小說，待他讀畢，倘若俠心依舊，我便助他另覓良師，他也欣然同意了。只不過，他另有一願，希望我在書中給他寫上寄語，以茲激勵…
 這…這…唉！個中苦悶，我想唯有閣下明瞭…
-客棧雅間、美味佳餚，以及…文房四寶我已安排妥當，盼望閣下提筆相助，不勝感激！`},fw={character:"xingqiu",year:2023,sign:"行秋 2023-10-09",content:`近來，我路見一名債務處理人勒索商戶，便上前制止了一番。沒想到他才敗在我的劍下不久，今日卻又跳了出來，到處揚言要找我決鬥。
+客棧雅間、美味佳餚，以及…文房四寶我已安排妥當，盼望閣下提筆相助，不勝感激！`},dw={character:"xingqiu",year:2023,sign:"行秋 2023-10-09",content:`近來，我路見一名債務處理人勒索商戶，便上前制止了一番。沒想到他才敗在我的劍下不久，今日卻又跳了出來，到處揚言要找我決鬥。
 這廝心術不正，此番邀約必有埋伏，但若是我直接回絕，他今後恐怕會更加囂張跋扈。
 思前想後，我有一計——我公開應邀，另設奇兵藏於暗處，伺機捕捉證據。待時機一到，這名奇兵便可現身為我解圍，再與我聯手，將這廝和他的同夥一網打盡。
 至於我想到的奇兵…這首選之人便要數身手不凡、心懷俠義的閣下。
-報酬和吃食早已備好，靜候閣下應約。`},hw={character:"xingqiu",year:2022,sign:"行秋 2022-10-09",content:`近來新得一柄長劍，鋒利無匹，是難得一見的寶器。
+報酬和吃食早已備好，靜候閣下應約。`},mw={character:"xingqiu",year:2022,sign:"行秋 2022-10-09",content:`近來新得一柄長劍，鋒利無匹，是難得一見的寶器。
 而所謂寶劍，絕不應被束之高閣，得跟著個合格的主人闖蕩江湖才不算埋沒。
 唉，明明是大好年華…
 我又怎會甘心在家虛度呢？
 我制定了個周密的計畫，想趁著月夜，去那絕雲間走一趟！盤纏和吃食都備好了，只等今晚父親兄長歇下，我就溜出家門。
 這計畫還得有個知心人接應，你懂我意思吧？
-我已將長劍隨身攜帶，到時候，也給你掌掌眼。`},dw={character:"xingqiu",year:2021,sign:"行秋 2021-10-09",content:`你可記得今天是什麼日子？
+我已將長劍隨身攜帶，到時候，也給你掌掌眼。`},gw={character:"xingqiu",year:2021,sign:"行秋 2021-10-09",content:`你可記得今天是什麼日子？
 若無頭緒，這道點心便是提示。看見就能想起來了吧。
 為讓你耳目一新，我可是花了好長時間改良配方。你且嚐一口。
 唉…本想將這封信藏在點心盒底，又擔心你懶得拆開盒子細看。錯過就太可惜了。
 下次請你吃魚好了。屆時你可得留個心眼，說不定魚腹中就藏著什麼呢。
 另外，近日覓得妙文一篇，據說有一金髮旅者渾身正氣，行走世間辦下諸多好事，引得街坊鄰里交口稱讚。文章言之鑿鑿，但是否言過其實…這嘛，還得等你親自前來品鑒。
-今夜子時，屋頂上等你。`},mw={character:"xingqiu",year:2020,sign:"行秋 2020-10-09",content:`今天是我的生日，家父和家兄說什麼要辦家宴，怎麼都推託不了。
+今夜子時，屋頂上等你。`},yw={character:"xingqiu",year:2020,sign:"行秋 2020-10-09",content:`今天是我的生日，家父和家兄說什麼要辦家宴，怎麼都推託不了。
 又是要我為客人盈酒沏茶，又是要我在席上表演才藝，好生無趣。
 還好我趁他們一個不留神偷偷從窗戶溜出來了，嘿嘿。
 我帶了點我親手做的點心給你，你可不能說漏嘴了哦。
 我們去找個沒什麼人的地方吧！一邊看風景一邊聊聊天…聊什麼都行！
-你說好不好？`},gw={character:"furina",year:2025,sign:"芙寧娜 2025-10-13",content:`噔噔！今天是人氣大明星的生日，從一大清早踏出家門開始，我就收到了好多祝福。大家拿著有我參演的映影海報來找我簽名，從熱門到小眾，簡直比我的私人收藏還齊全！我還收到了跟我一樣造型的布娃娃，非常可愛，好喜歡！
+你說好不好？`},pw={character:"furina",year:2025,sign:"芙寧娜 2025-10-13",content:`噔噔！今天是人氣大明星的生日，從一大清早踏出家門開始，我就收到了好多祝福。大家拿著有我參演的映影海報來找我簽名，從熱門到小眾，簡直比我的私人收藏還齊全！我還收到了跟我一樣造型的布娃娃，非常可愛，好喜歡！
 咳咳！我可沒有只顧著收禮物，雖然時間很有限，但我認真記錄了每位朋友對我作品的建議。把支持和喜愛化作滋養心靈的泉水，來日再回饋給大家，這才是一個真正的明星該做的。
 只是，一邊簽名一邊記筆記，現在我的手腕酸得像剛為劇團改完幾十幕劇本…
-所以，切生日蛋糕這件事，可以請你代勞吧？我的頭號支持者。`},yw={character:"furina",year:2024,sign:"芙寧娜 2024-10-13",content:`致親愛的朋友——
+所以，切生日蛋糕這件事，可以請你代勞吧？我的頭號支持者。`},vw={character:"furina",year:2024,sign:"芙寧娜 2024-10-13",content:`致親愛的朋友——
 在這特別的日子，本人，芙寧娜·德·楓丹向您呈送特別的邀請。
 敦請貴賓觀賞今日限定劇目——「眾甜點之讚歌」。本劇「主演」是每天限量發售十六片的蛋糕，還有不少友情出演的甜蜜茶點。「布景」上我安置了三座摩天輪甜點架，務求打造琳琅滿目的「舞臺」效果。
 而最重要的戲份有待您親眼見證，我可不會提前透露噢。但我保證，這美妙的旋律會在你腦海之中盤旋足足一週！
 好啦，不用翻看署名了，是我親筆寫的信！
-其他的，就等你來到生日茶會再細說吧！我先跟謝貝蕾妲小姐去買蛋糕啦，待會見！`},pw={character:"ororon",year:2025,sign:"歐洛倫 2025-10-14",content:`在眾多爺爺、奶奶、哥哥及姐姐的幫助下，又活了一歲，可喜可賀。我挑選了一些截止到昨天為止最新鮮的蔬菜來感謝各位。
+其他的，就等你來到生日茶會再細說吧！我先跟謝貝蕾妲小姐去買蛋糕啦，待會見！`},bw={character:"ororon",year:2025,sign:"歐洛倫 2025-10-14",content:`在眾多爺爺、奶奶、哥哥及姐姐的幫助下，又活了一歲，可喜可賀。我挑選了一些截止到昨天為止最新鮮的蔬菜來感謝各位。
 為什麼不是今天的？我讓自己放了假，當然也該讓地裡的菜放個假，我希望在這悠閒的一天裡，所有朋友都能獲得好心態。
 你現在應該在拯救世界？辛苦了，預祝菜和信都能順利寄到你手裡。
 當然，要是你有空，願意來我家做客，那我就更榮幸了。請盡量在天黑後再來，這樣我的腦子會比較清醒。
-如果來早了，院子裡的大松果（葉子最大的那棵）可以為你遮遮陽，反正它放假也是這樣站著。`},vw={character:"xinyan",year:2025,sign:"辛焱 2025-10-16",content:`我不怕你笑我，最近我有點「卡殼」了，曲子沒少寫，但總覺得不夠有趣…
+如果來早了，院子裡的大松果（葉子最大的那棵）可以為你遮遮陽，反正它放假也是這樣站著。`},Sw={character:"xinyan",year:2025,sign:"辛焱 2025-10-16",content:`我不怕你笑我，最近我有點「卡殼」了，曲子沒少寫，但總覺得不夠有趣…
 聽說潛泳有助於放空思緒，我也去試了一下。起初我以為水底就像放慢時鐘指針的世界，一切都很悠然，沒想到也有著許多刺激的暗流！某個瞬間，腦海裡湧出了一個念頭：辦一場前所未有的水下搖滾演奏會！
 很瘋狂，也很難想像，對吧？！水裡的聽感跟地上不一樣，而且我最引以為傲的熱情火焰該怎麼在水下燃起來呢？越琢磨，問題就越多…但打破框架，挑戰那些不可能，不正是搖滾的靈魂嗎？
-心底這點小火星已經竄成小火苗了，接下來，我得讓它越燒越旺！等我的好消息吧！`},bw={character:"xinyan",year:2024,sign:"辛焱 2024-10-16",content:`好久沒見了，但有關你的消息一直沒有停過哦！朋友們都很惦記你，當然也包括我在內囉！
+心底這點小火星已經竄成小火苗了，接下來，我得讓它越燒越旺！等我的好消息吧！`},_w={character:"xinyan",year:2024,sign:"辛焱 2024-10-16",content:`好久沒見了，但有關你的消息一直沒有停過哦！朋友們都很惦記你，當然也包括我在內囉！
 聽說納塔有烈焰熊燃的聖火臺、熱騰騰的溫泉，還有最讓我感興趣的唱片行和自由音樂人…我已經決定了！將來的某天，我一定要在納塔舉辦一場熾烈的搖滾音樂會！
 主打曲目嘛…這一次我想請你跟我一起創作！如果你不介意，請對我說說那些滾燙的故事吧，我覺得，你身上那股恆常燃燒的鬥志，一定能鼓舞無數聽眾！
 哈哈，當然也包括我在內囉！
-我會為你吶喊打氣的！喔吼——`},Sw={character:"xinyan",year:2023,sign:"辛焱 2023-10-16",content:`幾天前在萬民堂吃飯的時候，我被一位來自楓丹的「搖滾之友」認了出來，還要了簽名！但對方看到我面前的菜餚卻很是詫異，說是作為一名歌手，應該忌食辛辣的食物…
+我會為你吶喊打氣的！喔吼——`},Tw={character:"xinyan",year:2023,sign:"辛焱 2023-10-16",content:`幾天前在萬民堂吃飯的時候，我被一位來自楓丹的「搖滾之友」認了出來，還要了簽名！但對方看到我面前的菜餚卻很是詫異，說是作為一名歌手，應該忌食辛辣的食物…
 可要是讓我整天清湯寡水，怕是一首曲子都寫不出來囉！
 除此之外我還發現，吃辣之後再用力呼吸時，有一塊平時不怎麼用的共鳴區域，唱出來的歌曲別有一番風味。最近我正在練習駕馭這種風格！
 生日這天，我也想吃夠辣味，再用超有顆粒感的嗓音，唱出足夠搖滾的歌曲！
-新的風格肯定需要見證者，我等你來做我的聽眾！`},_w={character:"xinyan",year:2022,sign:"辛焱 2022-10-16",content:`最近過得怎麼樣？是不是去了很多地方、結識了更多夥伴，還經歷了不少難忘的事件？我也每天都有新收穫喔！
+新的風格肯定需要見證者，我等你來做我的聽眾！`},xw={character:"xinyan",year:2022,sign:"辛焱 2022-10-16",content:`最近過得怎麼樣？是不是去了很多地方、結識了更多夥伴，還經歷了不少難忘的事件？我也每天都有新收穫喔！
 最近我發現，植物和音樂真的是好搭檔！就拿烈焰花來說，當它們在火焰中搖曳時，意外地很有情調，哈哈…
 所以——今年生日我準備辦一場特別的演唱會，在舞臺周圍佈置烈焰花，在火熱的氛圍中演奏我的新歌。
 至於觀眾，沒你當然不行！
-總之，期待和你見面。我會用我最好的狀態，把歌裡的熱情和快樂全部傳達給你！`},Tw={character:"xinyan",year:2021,sign:"辛焱 2021-10-16",content:`每年生日，我都會提早一週開始創作新歌，為的是記錄​​自身成長。今年的歌已經寫完了，我自己還挺滿意的，想請你也聽一聽。相信你的音樂品味！要是有什麼建議，請務必告訴我，我們一起討論。
+總之，期待和你見面。我會用我最好的狀態，把歌裡的熱情和快樂全部傳達給你！`},Ew={character:"xinyan",year:2021,sign:"辛焱 2021-10-16",content:`每年生日，我都會提早一週開始創作新歌，為的是記錄​​自身成長。今年的歌已經寫完了，我自己還挺滿意的，想請你也聽一聽。相信你的音樂品味！要是有什麼建議，請務必告訴我，我們一起討論。
 說起來，最近我還用萃華木雕了一把縮小版的琴。本意只是想做成小裝飾，沒想到成品木質平滑，音色也非常不錯。真是低估了萃華木的可塑性啊！
-好東西當然要和好朋友分享！我也準備了一些木材給你。除了用來做樂器，還能做擺飾、傢俱…不會木工也沒關係，把你的想法告訴我，我來幫你一起完成！`},xw={character:"sayu",year:2025,sign:"早柚 2025-10-19",content:`前幾天，有位腳步輕盈的妖怪小姐來神社找宮司大人，她們兩個小聲講大聲笑，不久之後，巫女姐姐就來找我，說有個秘密任務：去「秋沙錢湯」睡覺！
+好東西當然要和好朋友分享！我也準備了一些木材給你。除了用來做樂器，還能做擺飾、傢俱…不會木工也沒關係，把你的想法告訴我，我來幫你一起完成！`},Aw={character:"sayu",year:2025,sign:"早柚 2025-10-19",content:`前幾天，有位腳步輕盈的妖怪小姐來神社找宮司大人，她們兩個小聲講大聲笑，不久之後，巫女姐姐就來找我，說有個秘密任務：去「秋沙錢湯」睡覺！
 「工作就是睡覺，睡覺就是工作。」這…這正是我畢生的夢想啊！
 但當時我還偷聽到「好夢」、「美味」、「員工福利」什麼的…嗚！該不會是想趁我睡著的時候把我吃掉吧！
 今天就是執行任務的日子了，我想過逃跑…但又不想放過這個可以名正言順睡覺的好機會！
 我信任你！能不能請你陪我一起去？要是我睡著的時候有什麼風吹草動，拜託你把我拎起來就跑！
-有你在，就能安心睡了。呼嚕…`},Ew={character:"sayu",year:2024,sign:"早柚 2024-10-19",content:`大進步！秘密練習好多好多天後，我終於學會站著睡覺了！可是，大問題也來了，我沒有學會睜著眼睛睡覺，好難…
+有你在，就能安心睡了。呼嚕…`},ww={character:"sayu",year:2024,sign:"早柚 2024-10-19",content:`大進步！秘密練習好多好多天後，我終於學會站著睡覺了！可是，大問題也來了，我沒有學會睜著眼睛睡覺，好難…
 得想個辦法。要是在眼皮上畫上我的眼睛，那我閉上眼睛就跟沒閉上眼睛一樣了，你說對不對？
 我買了畫筆和油彩，準備動手時——比大問題更大的大大問題出現了！
 只要我閉上一隻眼睛，另一隻眼睛很快就會撐不住，跟著一起閉上了！
 我是不會放棄睡覺的！在不倒貉貉長出手來之前，只有你能幫我了！幫我畫…眼睛…
 我在老地方等你…站著…等你…
-呼嚕…`},Aw={character:"sayu",year:2023,sign:"早柚 2023-10-19",content:`求救！求救！
+呼嚕…`},Mw={character:"sayu",year:2023,sign:"早柚 2023-10-19",content:`求救！求救！
 宮司大人最近忽然想養觀賞魚，為了逃掉修煉，我主動接了釣魚的任務。
 我原本以為釣魚就是架好魚竿，然後呼呼大睡，等魚自己上鉤。這一覺是真的很香…但睡醒之後魚沒了，餌也沒了！
 交不了差的話，休假一定也要泡湯了…
 我到處打聽了一下，能夠在這麼短的時間內釣到那種觀賞魚的恐怕只有你了。我寄出了這封特急信件，一定要快快送到…
 魚餌和午餐我都準備好了，報酬的話…摸摸頭應該夠了吧？只要不是摸很久！
-我等你過來…呼嚕…`},ww={character:"sayu",year:2022,sign:"早柚 2022-10-19",content:`一個巨大的好消息！最近我只要輕輕一跳，就能抓到晶蝶！以前是要很用力蹦起來才能摸到…所以，我應該是長高了！
+我等你過來…呼嚕…`},jw={character:"sayu",year:2022,sign:"早柚 2022-10-19",content:`一個巨大的好消息！最近我只要輕輕一跳，就能抓到晶蝶！以前是要很用力蹦起來才能摸到…所以，我應該是長高了！
 但我也不能百分之百確定，萬一只是晶蝶飛得低了…
 能請你過來一趟嗎？想讓你親眼看看我有沒有長高。比如…摸摸我的頭測量一下，但不能摸太久！
 你是我的好朋友，一定不會騙我。要是真的沒有長高，也能幫我一起想想其他辦法。
 這是我們的秘密，千萬不能告訴巫女姐姐…唔…也不能告訴綾華大小姐…還有不能告訴那位宮司大人…還有那位…
-呼嚕…`},Mw={character:"sayu",year:2021,sign:"早柚 2021-10-19",content:`每年今天，巫女姐姐都會送我一塊胡蘿蔔蛋糕祝我生日快樂，而且不會抓我去修煉。所以，我把一整天都拿來睡大覺，可舒服了！
+呼嚕…`},Cw={character:"sayu",year:2021,sign:"早柚 2021-10-19",content:`每年今天，巫女姐姐都會送我一塊胡蘿蔔蛋糕祝我生日快樂，而且不會抓我去修煉。所以，我把一整天都拿來睡大覺，可舒服了！
 呼…但是，今年認識了你，你對我也很重要。我想了想，決定只用半天時間睡小覺！剩下的時間，想和你一起吃一頓…
 吃什麼呢？啊…鰻肉料理好不好？陸鰻鰻總是伸長脖子向上探頭，吃了牠一定能長高！我準備了好多好多，希望你喜歡！
 呼…又開始想睡了…我去找棵舒服的大樹，邊休息邊等你。記得叫醒我喔。
-呼嚕…`},jw={character:"eula",year:2025,sign:"優菈 2025-10-25",content:`連續兩年我都用執勤為由，拒絕在生日這天休假，今年騎士團專門通知我「必須」休息。加上應休且未休的累計假期，算是迎來了一次大輪休。總之，本該執勤的我，現在正在納塔的崖頂一邊看風景，一邊等著那位在天上翱翔遲遲不願降落的蒙德飛行冠軍。
+呼嚕…`},zw={character:"eula",year:2025,sign:"優菈 2025-10-25",content:`連續兩年我都用執勤為由，拒絕在生日這天休假，今年騎士團專門通知我「必須」休息。加上應休且未休的累計假期，算是迎來了一次大輪休。總之，本該執勤的我，現在正在納塔的崖頂一邊看風景，一邊等著那位在天上翱翔遲遲不願降落的蒙德飛行冠軍。
 你沒猜錯，這趟旅行也是被安柏拉著過來的。她說出遠門很緊張，讓我陪她，結果整個行程就是她玩得最開心，還有力氣抽空關心我吃得好不好，住得舒不舒服…真是的，像是我需要她關照一樣。
-我知道你還在為一些未解的危機奔走，有個難得的放鬆機會也不錯。想聽更多的話，來找我吧。`},Cw={character:"eula",year:2024,sign:"優菈 2024-10-25",content:`不久前，游擊小隊遭遇了一場棘手的戰鬥，所幸全員安全凱旋。呼…否則這封信件恐怕很難跟往年一樣如期寄出…
+我知道你還在為一些未解的危機奔走，有個難得的放鬆機會也不錯。想聽更多的話，來找我吧。`},Rw={character:"eula",year:2024,sign:"優菈 2024-10-25",content:`不久前，游擊小隊遭遇了一場棘手的戰鬥，所幸全員安全凱旋。呼…否則這封信件恐怕很難跟往年一樣如期寄出…
 這次的魔物強度明顯高於以往，招式戰策也更加狡猾，詳細情報我已傳回西風騎士團，提醒各個小隊提高警覺。
 而對於你這位還在異國奮戰的榮譽騎士，我希望能跟你當面聊聊…如果你心中某處已對戰事感到疲憊，不妨來聽聽骨哨的響聲，試著閉上眼，感受浪花的洗禮。
-哼，說不定等你再睜開眼時，就能夠充滿力量…在我對你復仇之前，我會支持你先完成對那些橫行頑敵的復仇。`},zw={character:"eula",year:2023,sign:"優菈 2023-10-25",content:`最近，游擊小隊正在高強度執勤，以至於休息時間…不太充裕。
+哼，說不定等你再睜開眼時，就能夠充滿力量…在我對你復仇之前，我會支持你先完成對那些橫行頑敵的復仇。`},Dw={character:"eula",year:2023,sign:"優菈 2023-10-25",content:`最近，游擊小隊正在高強度執勤，以至於休息時間…不太充裕。
 我倒是習慣了，這代表荊夫港的商隊正將貨物源源不絕地輸入蒙德，值得慶祝。
 不過，有隊員提議說是時候找一位代理隊長來替我分擔壓力了。
 雖然他的話恐怕是玩笑，但這也提醒了我，我心中的確有個最佳人選——那就是你。
 有空的話，來游擊小隊的營地玩玩吧。我準備了一頓還算豐盛的戰地餐…
-我會和你分享游擊小隊的指揮要領，還有隊長需要注意的事項。對於你這位獨特的榮譽騎士，一定會有派上用場的一天…`},Rw={character:"eula",year:2022,sign:"優菈 2022-10-25",content:`按照貴族禮儀，過生日時，可以為重要的朋友獻上一支慶祝的舞，如此一來，雙方都將得到前人的護佑。
+我會和你分享游擊小隊的指揮要領，還有隊長需要注意的事項。對於你這位獨特的榮譽騎士，一定會有派上用場的一天…`},Ow={character:"eula",year:2022,sign:"優菈 2022-10-25",content:`按照貴族禮儀，過生日時，可以為重要的朋友獻上一支慶祝的舞，如此一來，雙方都將得到前人的護佑。
 我對勞倫斯家的護佑毫無興趣，也不想講究貴族這套迂腐的規矩，因此，我從未向你提過這項傳統。
 但如今想想，或許我也不該固守己見，將其形式與內在一併捨棄…既然舞蹈對我而言永遠高潔，那只要我用自己的方式表達，獻出的，就應該算作「我」對你的護佑。
-總之…別讓我等太久。`},Dw={character:"eula",year:2021,sign:"優菈 2021-10-25",content:`按照傳統，勞倫斯家的後裔慶祝生日需要遵循諸多規矩和禮儀。在挑選受邀對象方面，也有嚴格要求。論麻煩程度，已經達到讓人此生都不會想過生日的地步。
+總之…別讓我等太久。`},Lw={character:"eula",year:2021,sign:"優菈 2021-10-25",content:`按照傳統，勞倫斯家的後裔慶祝生日需要遵循諸多規矩和禮儀。在挑選受邀對象方面，也有嚴格要求。論麻煩程度，已經達到讓人此生都不會想過生日的地步。
 但我不會被這些事物束縛。所以，我忽略了它們。現在，只邀請你一人。
 忘掉亂七八糟的雜事，忘掉你我二人的身分。唯有今天，把我當作「優菈」就好。
 一起去雪山滑雪吧。寒風刺骨，卻能讓人清醒。
 記得多穿一點。不然，我就得把自己的披風圍到你身上。
-…那樣的話，這個仇，我得記一輩子了。`},Ow={character:"nahida",year:2025,sign:"納西妲 2025-10-27",content:`蘭那羅將「跳房子」的格子從地面拎了起來，築起一面面彩色的小牆和門洞，是不是該把遊戲名字改成「爬房子」才更貼切呢？溪水邊也很有趣哦。蕈獸們用圓滾滾的傘帽在水面當小船，載著怕水的小松鼠渡河呢。
+…那樣的話，這個仇，我得記一輩子了。`},Nw={character:"nahida",year:2025,sign:"納西妲 2025-10-27",content:`蘭那羅將「跳房子」的格子從地面拎了起來，築起一面面彩色的小牆和門洞，是不是該把遊戲名字改成「爬房子」才更貼切呢？溪水邊也很有趣哦。蕈獸們用圓滾滾的傘帽在水面當小船，載著怕水的小松鼠渡河呢。
 你發現了嗎？把這樣可愛的夢分享給你之後，我們兩顆心之間就有一座藤蔓橋悄悄架起來了。
 而當須彌薔薇的微甜包裹著你，星光透過窗櫺撫摸你的眼睫時…就是我們的小藤蔓橋最穩固的時候啦。
 所以啊，把手上的事情忙完後，好好洗個臉，刷好牙，然後，找一個最鬆軟的枕頭，像小鳥築巢那樣，把被窩團成舒服的形狀…
-我會在橋的另一端，等著你。`},Lw={character:"nahida",year:2024,sign:"納西妲 2024-10-27",content:`睡了嗎？我還沒睡著，準確來說，是還不想睡呢。
+我會在橋的另一端，等著你。`},Vw={character:"nahida",year:2024,sign:"納西妲 2024-10-27",content:`睡了嗎？我還沒睡著，準確來說，是還不想睡呢。
 最近的須彌比平常都要熱鬧，大家像在裝飾禮物一樣點綴著街道各處。我原本想要趕在花車巡遊前多逛逛，跟大家聊聊天。如果能用我的知識為大家解開一些困惑，會比吃到美味的棗椰蜜糖更令我滿足。
 不過，我也覺察到大家有事在瞞著我噢。請放心，我是不會偷看的。因為，在拆開禮物盒前，胸口那股藏著小團雀般躍動的期待，也是一種值得細細品味的甜蜜。
-花神誕祭是屬於大家的節日，我希望所有人都能在今天獲得超乎想像的快樂，當然也不能少了你呀…當我早上睜開眼睛之後，能邀請你同遊嗎？`},Nw={character:"nahida",year:2023,sign:"納西妲 2023-10-27",content:`還沒休息嗎？那樣是不行的。為了迎接這個即將到來的花團簇擁的幸福日子，答應我要好好睡一覺哦！
+花神誕祭是屬於大家的節日，我希望所有人都能在今天獲得超乎想像的快樂，當然也不能少了你呀…當我早上睜開眼睛之後，能邀請你同遊嗎？`},Uw={character:"nahida",year:2023,sign:"納西妲 2023-10-27",content:`還沒休息嗎？那樣是不行的。為了迎接這個即將到來的花團簇擁的幸福日子，答應我要好好睡一覺哦！
 我為你準備了比棗椰蜜糖更甜美的回禮，就在夢裡送給你吧！
 然後，等天亮之後就來找我，讓我們在大家的祝福聲中一起坐上花車…
 花之騎士和侍從們會送我們糖果，我們沿路去找那些藏起來的朋友們，和大家手牽手圍成一圈快樂地跳舞，互相拋灑帕蒂沙蘭的花瓣。
 此刻我心中的期待，就像從果釀裡咕嘟咕嘟冒出的氣泡。
-你也聞到它的甜味了嗎？`},Vw={character:"flins",year:2025,sign:"菲林斯 2025-10-31",content:`近日託人競拍回幾枚古幣，紋路如暗潮疊湧，其本身神秘的來歷更是附帶了別樣的價值。聽聞閣下遍覽諸國遺珍，學識如星瀚深邃。不知是否有幸能邀您前來共賞此物？如不嫌棄，還請留步共進晚餐。希望從「旗艦」採購的人氣菜品能合您口味。
+你也聞到它的甜味了嗎？`},Bw={character:"flins",year:2025,sign:"菲林斯 2025-10-31",content:`近日託人競拍回幾枚古幣，紋路如暗潮疊湧，其本身神秘的來歷更是附帶了別樣的價值。聽聞閣下遍覽諸國遺珍，學識如星瀚深邃。不知是否有幸能邀您前來共賞此物？如不嫌棄，還請留步共進晚餐。希望從「旗艦」採購的人氣菜品能合您口味。
 關於「鄰里和睦」方面的安排…請放心，我會先行拜訪貴客居所附近的住客們，煩請諸位在貴客來訪期間斂聲靜候。
 噢，若您不介意在魂靈低語中用餐，相信將會是個皆大歡喜的夜晚。
-幽居荒僻，屆時請允許我為您執燈。`},Uw={character:"xiangling",year:2025,sign:"香菱 2025-11-02",content:`看過來看過來~今天可不可以來萬民堂幫我個大忙？試喝全新的解辣秘飲！
+幽居荒僻，屆時請允許我為您執燈。`},kw={character:"xiangling",year:2025,sign:"香菱 2025-11-02",content:`看過來看過來~今天可不可以來萬民堂幫我個大忙？試喝全新的解辣秘飲！
 哼哼，沒錯，是解辣哦！你知道的，萬民堂主打鮮辣菜餚，近年來我跑遍璃月尋找新的食材，就是為了讓辣味更上一層樓！但…可能…下手有點太猛了？很多食客開始有點…呃…望而卻步？所以嘛，我就琢磨著，要是留有後手，有一款解辣飲預備著，大家就能放心地大口挑戰每一道辣菜啦！
 鍋巴說得對，做菜的道理跟行走江湖一樣，偶爾退一步，才能讓大家進一步嘛！
-好啦，快來快來，解辣飲正在冷水壺裡咕嘟咕嘟冒著泡等你呢！`},Bw={character:"xiangling",year:2024,sign:"香菱 2024-11-02",content:`今天，鍋巴一大早就把我搖醒了，那時天還沒怎麼亮呢。他把一籮筐鮮紅透亮的絕雲椒椒遞到我面前…原來飛快的一年已經過去，我的生日又到啦！
+好啦，快來快來，解辣飲正在冷水壺裡咕嘟咕嘟冒著泡等你呢！`},Hw={character:"xiangling",year:2024,sign:"香菱 2024-11-02",content:`今天，鍋巴一大早就把我搖醒了，那時天還沒怎麼亮呢。他把一籮筐鮮紅透亮的絕雲椒椒遞到我面前…原來飛快的一年已經過去，我的生日又到啦！
 之前，我從冒險家們口中聽說了你在火之國納塔的事蹟，超厲害的！它給了我不少「火辣辣」的靈感，該來研發新式創意料理了…說不定鍋巴也是這麼想的，才連夜去找了品質那麼好的食材。
 我打算把它們做成一頓火辣辣的大餐，剩下的送給你一起分享。
-這頓飯由我掌廚，不只是幫我自己慶祝生日，也要幫你慶功！來嚐嚐吧！`},kw={character:"xiangling",year:2023,sign:"香菱 2023-11-02",content:`我最近弄到了一些泡泡桔，試著把它們做成了幾種菜餚…大多數食客的評價都不算很好。大家既不喜歡水果和肉炒在一起，也不習慣萬民堂的桌上擺出有甜味的熱菜…唉，虧我好不容易才嘗試出這個黃金比例呢！不過沒關係！比起我自己的推薦，讓大家都能吃得開心才是最重要的！
+這頓飯由我掌廚，不只是幫我自己慶祝生日，也要幫你慶功！來嚐嚐吧！`},qw={character:"xiangling",year:2023,sign:"香菱 2023-11-02",content:`我最近弄到了一些泡泡桔，試著把它們做成了幾種菜餚…大多數食客的評價都不算很好。大家既不喜歡水果和肉炒在一起，也不習慣萬民堂的桌上擺出有甜味的熱菜…唉，虧我好不容易才嘗試出這個黃金比例呢！不過沒關係！比起我自己的推薦，讓大家都能吃得開心才是最重要的！
 你會來吃飯的吧？鍋巴已經幫忙生了個小爐子，我們可以圍坐在桌邊慢慢聊天。
-畢竟，泡泡桔烤熱了吃也非常可口哦！`},Hw={character:"xiangling",year:2022,sign:"香菱 2022-11-02",content:`前幾天我出了趟遠門，在珉林西南邊的雨林裡，發現了一種背上長蕈子的野林豬，嘿嘿，我一出手就弄到了兩種食材！獸肉搭配蕈子，鮮上加鮮。不同的烹調選擇，不同的香料搭配，接連湧進了我的腦袋！煎、炸、 炒、燉…我越想越餓，最後和鍋巴就近找了個鍋子，好好飽餐了一頓。
+畢竟，泡泡桔烤熱了吃也非常可口哦！`},Iw={character:"xiangling",year:2022,sign:"香菱 2022-11-02",content:`前幾天我出了趟遠門，在珉林西南邊的雨林裡，發現了一種背上長蕈子的野林豬，嘿嘿，我一出手就弄到了兩種食材！獸肉搭配蕈子，鮮上加鮮。不同的烹調選擇，不同的香料搭配，接連湧進了我的腦袋！煎、炸、 炒、燉…我越想越餓，最後和鍋巴就近找了個鍋子，好好飽餐了一頓。
 食材我已經留夠了，你要不要也來嚐個鮮？有我的好手藝，再加上我總結出來的最佳做法，一定不會讓你失望的！
 啊，不如再編個謎題吧，回頭還可以給朋友們猜著玩。
-「遠看一撮土，蘑菇不傍樹。草坪長了腿，原來是蕈豬！」`},qw={character:"xiangling",year:2021,sign:"香菱 2021-11-02",content:`今天一早起來，鍋巴就一直吵吵鬧鬧的。我看他比劃了半天才搞明白，他是想叫你來陪我過生日！
+「遠看一撮土，蘑菇不傍樹。草坪長了腿，原來是蕈豬！」`},Yw={character:"xiangling",year:2021,sign:"香菱 2021-11-02",content:`今天一早起來，鍋巴就一直吵吵鬧鬧的。我看他比劃了半天才搞明白，他是想叫你來陪我過生日！
 剛巧，我也想去找你呢。今天在港口釣了些魚，賣相不怎麼好，肉質卻很肥美，我試著拿來做菜，味道竟然很不錯！快來一起嚐嚐。
 新鮮的整魚也分你一些！喜歡做菜的你一定能找到合適的用法吧！
-唔，吃完飯做點什麼…你來決定，好不好？我們有一整天時間呢，帶上乾糧，叫上鍋巴，想去哪玩都可以！`},Iw={character:"xiangling",year:2020,sign:"香菱 2020-11-02",content:`本來我都準備好下廚了！爸爸卻對我說，生日就別待在店裡幫忙了，要我去找朋友玩。
+唔，吃完飯做點什麼…你來決定，好不好？我們有一整天時間呢，帶上乾糧，叫上鍋巴，想去哪玩都可以！`},Gw={character:"xiangling",year:2020,sign:"香菱 2020-11-02",content:`本來我都準備好下廚了！爸爸卻對我說，生日就別待在店裡幫忙了，要我去找朋友玩。
 嗯…找朋友玩。你最近都在玩些什麼呢？
 採松茸、找鳥蛋、抓史萊姆？不對…這些好像都是我常做的事…嗯…
 找、找寶箱？
 不管了！還是來一起吃飯吧！
 做好吃的飯就是最享受的事情！為好朋友做飯就是最好的娛樂！
-就讓你嚐嚐這最道地的「萬民堂水煮魚」！然後，然後告訴我你的品嚐感想！`},Yw={character:"skirk",year:2025,sign:"絲柯克 2025-11-05",content:`河流奔湧向前，其存在的痕跡，便是兩岸被它塑造與滋養的土地。每一道蜿蜒、每一寸沃土，都是它留下的印記。
+就讓你嚐嚐這最道地的「萬民堂水煮魚」！然後，然後告訴我你的品嚐感想！`},Xw={character:"skirk",year:2025,sign:"絲柯克 2025-11-05",content:`河流奔湧向前，其存在的痕跡，便是兩岸被它塑造與滋養的土地。每一道蜿蜒、每一寸沃土，都是它留下的印記。
 以往在這樣回顧的時刻，我會撥動琴弦，以旋律作為記錄的符號。現在用文字將所感所思傳遞給你，也算是一種新的記錄方式吧。
 宇宙浩瀚無垠，那些短暫的交會如星海中的一粒塵埃，執著於「相聚」本身的意義，確乎微渺。
 所以，你我都不必為此駐足，我們都有旅途上更重要的使命要去完成。
-只要腳步仍在向前，終會在未來的某個節點再次相遇。到時相信我們都能見證彼此的成長。`},Gw={character:"kinich",year:2025,sign:"基尼奇 2025-11-11",content:`阿喬很期待今天，高抬貴爪為我製作了一份禮物。大概是為了還原蛋糕的名字吧，特意挖了火山泥來充當蛋糕內餡，也算辛苦牠了。
+只要腳步仍在向前，終會在未來的某個節點再次相遇。到時相信我們都能見證彼此的成長。`},Kw={character:"kinich",year:2025,sign:"基尼奇 2025-11-11",content:`阿喬很期待今天，高抬貴爪為我製作了一份禮物。大概是為了還原蛋糕的名字吧，特意挖了火山泥來充當蛋糕內餡，也算辛苦牠了。
 禮尚往來，我已經奉上了與之相契的「回報」，為牠送去了一次放鬆身心的泥浴。或許火山會用落石和岩漿回應阿喬的咆哮，陪牠度過「熱烈 」的一天。
 正巧委託都已告一段落，此刻的寧靜時光，值得用一杯上等的特調果汁來紀念。
-如果你當下有空，可以順道來嚐嚐。我記得你的口味，希望甜度正合你意。`},Xw={character:"kinich",year:2024,sign:"基尼奇 2024-11-11",content:`對我來說，生日這一天並不特殊。它與過去一年中的任何一天同樣，以平穩的速度向我接近，無聲無息地來臨，最後輕巧地從我頭頂掠過，像一隻一去不回的禽鳥。
+如果你當下有空，可以順道來嚐嚐。我記得你的口味，希望甜度正合你意。`},Zw={character:"kinich",year:2024,sign:"基尼奇 2024-11-11",content:`對我來說，生日這一天並不特殊。它與過去一年中的任何一天同樣，以平穩的速度向我接近，無聲無息地來臨，最後輕巧地從我頭頂掠過，像一隻一去不回的禽鳥。
 也因如此，經常連我自己都會忘記它。
 但我不否認度過生日的方式會影響它的意義。阿喬極力向我推薦「岩漿上空連續鉤索擺盪」挑戰，我準備讓牠自己去試試。
 
-一行憤怒的留言：放開我！又不是我過生日！長了一歲就更囂張的老老基尼奇，你還要拉著我的尾巴到什麼時候！`},Kw={character:"varesa",year:2025,sign:"瓦雷莎 2025-11-15",content:`雖然爸爸媽媽讓我今天盡情地睡懶覺，但我覺得，越是重要的日子，就越不能鬆懈。尤其是又長了一歲，更不能讓他們操心才對。
+一行憤怒的留言：放開我！又不是我過生日！長了一歲就更囂張的老老基尼奇，你還要拉著我的尾巴到什麼時候！`},Qw={character:"varesa",year:2025,sign:"瓦雷莎 2025-11-15",content:`雖然爸爸媽媽讓我今天盡情地睡懶覺，但我覺得，越是重要的日子，就越不能鬆懈。尤其是又長了一歲，更不能讓他們操心才對。
 所以天還沒亮的時候我就跑到果園裡幹活了。翻土、澆水、採摘全是我一個人幹完的噢…連送貨用的箱子我都擦乾淨疊放整齊了。
 勞動果然能讓人內心充實呀~接下來也該輪到胃充實起來了！我跟阿托力叔叔訂購了200人份的生日套餐，你也一起來吃吧！我知道大英雄戰鬥都很辛苦，很耗能量，請不用客氣盡量吃，要是不夠還可以追加哦。
-嘻嘻…肚子在叫了…我要不要…邊吃邊等？`},Zw={character:"keqing",year:2025,sign:"刻晴 2025-11-20",content:`又逢一年生日，我本來準備和去年一樣，親手做一桌宴席，和親友共聚一場…
+嘻嘻…肚子在叫了…我要不要…邊吃邊等？`},Jw={character:"keqing",year:2025,sign:"刻晴 2025-11-20",content:`又逢一年生日，我本來準備和去年一樣，親手做一桌宴席，和親友共聚一場…
 可沒想到，勘測隊伍裡有人家中有點變數，需要緊急趕回，我就接下了他手上的工作，讓他盡快回家探望。
 身兼多職這件事，我倒是已經習以為常。只是，想必是無法按時趕回璃月港了，原本訂下的食材也只能託給了鄰居。
 不過，隊員們今天卻給我端來了一個像模像樣的「生日蛋糕」，仔細一看，原來是用搗碎的馬鈴薯和胡蘿蔔做成蛋糕形狀，又在上面插了幾根烤熟的吃虎魚，暫且當作是生日蠟燭了。
-如此苦中作樂，別有一番味道。你也與我一同品嚐，如何？`},Qw={character:"keqing",year:2024,sign:"刻晴 2024-11-20",content:`往年生日，熱情的親友們常為我安排宴會。我若流露出半點推辭之意， 她們便要搶先說飯店早已預約上了，不好更改。
+如此苦中作樂，別有一番味道。你也與我一同品嚐，如何？`},Fw={character:"keqing",year:2024,sign:"刻晴 2024-11-20",content:`往年生日，熱情的親友們常為我安排宴會。我若流露出半點推辭之意， 她們便要搶先說飯店早已預約上了，不好更改。
 今年我已不願再讓大家為我破費和忙碌，我計劃著換一種形式：試著自己做些飯菜，再邀請眾人到家中赴宴。
 何時出門採買、需要哪些食材、菜餚準備的先後順序…關於這場家宴的種種細節，我一一羅列清單，確保心中有數。
 可將想像逐步化為現實後，我還是遇到了意料之外的挑戰——本是為了防止食材縮水而留有餘量，做出來的整體份量卻比想像中更多。
-所以…可以請你多吃一些嗎？`},Jw={character:"keqing",year:2023,sign:"刻晴 2023-11-20",content:`近日路過街邊時，我無意中聽到了同事們在商量送我禮物的事。出於好奇，我駐足聽了一會…她們似乎是在飾品款式上拿捏不定。每當一人選定其中一種時，總有另一位同事提出另一種更好，如此爭論不休…
+所以…可以請你多吃一些嗎？`},Pw={character:"keqing",year:2023,sign:"刻晴 2023-11-20",content:`近日路過街邊時，我無意中聽到了同事們在商量送我禮物的事。出於好奇，我駐足聽了一會…她們似乎是在飾品款式上拿捏不定。每當一人選定其中一種時，總有另一位同事提出另一種更好，如此爭論不休…
 我並不想為她們帶來這樣的困擾。禮物本身終究只是一種承載情誼的媒介，無論收到的是怎樣的飾品，我都會很高興。
 我很樂意與同事們加深感情，也想要答謝她們的心意，便約了大家共進晚餐。
-你也一起來嗎？餐後如有時間，我還想和你再去街上走走。`},Fw={character:"keqing",year:2022,sign:"刻晴 2022-11-20",content:`今年生日我本想從簡，不料朋友們竟然悄悄為我張羅好了生日宴。
+你也一起來嗎？餐後如有時間，我還想和你再去街上走走。`},$w={character:"keqing",year:2022,sign:"刻晴 2022-11-20",content:`今年生日我本想從簡，不料朋友們竟然悄悄為我張羅好了生日宴。
 盛情難卻。能有這樣和大家放鬆聊天的機會，也算難得。
 她們還問了我一句，有沒有什麼想實現的心願。我一時間也回答不了。畢竟，有想要做到的事就放手去做，不留遺憾，這才是我一貫的堅持。
 所以我就想到，如果這場生日宴缺了你，恐怕會留下遺憾。於是我在倉促間寫下這份簡短的邀請函，希望你能抽出時間前來參與宴席。
-期待你的到來。`},Pw={character:"keqing",year:2021,sign:"刻晴 2021-11-20",content:`近日工作繁忙，回過神才發覺已是生辰之日，而且似乎很久沒見到你了。
+期待你的到來。`},Ww={character:"keqing",year:2021,sign:"刻晴 2021-11-20",content:`近日工作繁忙，回過神才發覺已是生辰之日，而且似乎很久沒見到你了。
 最近如何，一切可好？你總是忙於旅行，一刻都停不下來，想必也像我一樣，過得十分充實吧。
 生活充實是好事。時間不會為任何人駐足，但工作的成果，成長的經驗，這些都是紮紮實實的收穫，會陪伴我們繼續向前。
 當然，也要注意休息。隨信附上一些我平日用來泡茶的花草，清熱祛火，最是解乏。
-出門在外照顧好自己，等你回到璃月，我們再慢慢敘舊。`},$w={character:"keqing",year:2020,sign:"刻晴 2020-11-20",content:`這兩天我稍微努力了一點，將近日的工作全部完成了。
+出門在外照顧好自己，等你回到璃月，我們再慢慢敘舊。`},t6={character:"keqing",year:2020,sign:"刻晴 2020-11-20",content:`這兩天我稍微努力了一點，將近日的工作全部完成了。
 藉著生日這個機會，就帶你在璃月港裡轉轉吧。
 璃月的夜市，有不少可去的地方。賣手工製品和小玩意的鋪子，就算只是閒逛也很有意思。
 我會換上一身樸素點的服飾，打扮成民眾們認不出的樣子。
-這樣就可以和你兩個人一起，輕鬆地享受購物時光了。`},Ww={character:"wriothesley",year:2025,sign:"萊歐斯利 2025-11-23",content:`我總覺得，想瞭解一個新地方最直接的辦法就是看看當地人是如何獲得能量和荒廢時間的。於是前陣子去挪德卡萊辦事，我就抓緊時間品嚐了新鮮的美食，還去地下格鬥場逛了一下。在這種不講究門道的拳賽上，你可能學不到什麼專業格鬥術，但從參賽者的攻擊和防禦手段上，倒是可以把他們的個性和思考方式推斷個大概。我還滿喜歡觀察這些的，一不小心就多玩了幾天。
+這樣就可以和你兩個人一起，輕鬆地享受購物時光了。`},e6={character:"wriothesley",year:2025,sign:"萊歐斯利 2025-11-23",content:`我總覺得，想瞭解一個新地方最直接的辦法就是看看當地人是如何獲得能量和荒廢時間的。於是前陣子去挪德卡萊辦事，我就抓緊時間品嚐了新鮮的美食，還去地下格鬥場逛了一下。在這種不講究門道的拳賽上，你可能學不到什麼專業格鬥術，但從參賽者的攻擊和防禦手段上，倒是可以把他們的個性和思考方式推斷個大概。我還滿喜歡觀察這些的，一不小心就多玩了幾天。
 總之，工作圓滿完成，並且因為出門夠久，我不在的這段時間，梅洛彼得堡裡的諸多事務也都自己找到了解決辦法，可謂兩全其美。
-貪玩的部分還請替我保密。`},t6={character:"wriothesley",year:2024,sign:"萊歐斯利 2024-11-23",content:`辦公室裡出現了些新的貼紙，顏色比較獨樹一幟。如果沒猜錯，畫的應該是蛋糕。儘管已經口頭致謝過美露莘們，但跟貼紙一樣的實物還是不可避免地出現在特許餐廳。
+貪玩的部分還請替我保密。`},n6={character:"wriothesley",year:2024,sign:"萊歐斯利 2024-11-23",content:`辦公室裡出現了些新的貼紙，顏色比較獨樹一幟。如果沒猜錯，畫的應該是蛋糕。儘管已經口頭致謝過美露莘們，但跟貼紙一樣的實物還是不可避免地出現在特許餐廳。
 我想，分享才是對這份驚喜的最好回應。
 我會把最大的兩塊留給你和派蒙，按功勞分配很合理。
-順便，近期充公的違禁品裡，似乎有些對你有用的素材。要是一時半刻派不上用場，也歡迎你再來翻翻其他的。`},e6={character:"wriothesley",year:2023,sign:"萊歐斯利 2023-11-23",content:`不知你是否還記得那兩位在餐廳廚房幫過忙的紳士？最近他們兩個經常「路過」辦公室，嘴裡總說著之前某對金髮和白髮的獄友。看他們最近的樣子，除了想請你們過來吃飯之外，大概也在為我準備著什麼。
+順便，近期充公的違禁品裡，似乎有些對你有用的素材。要是一時半刻派不上用場，也歡迎你再來翻翻其他的。`},a6={character:"wriothesley",year:2023,sign:"萊歐斯利 2023-11-23",content:`不知你是否還記得那兩位在餐廳廚房幫過忙的紳士？最近他們兩個經常「路過」辦公室，嘴裡總說著之前某對金髮和白髮的獄友。看他們最近的樣子，除了想請你們過來吃飯之外，大概也在為我準備著什麼。
 我就當不知道好了。
 總之看你們何時方便，隨時都可以過來，不挑日期不挑時間。你大概已經可以很熟練地使用水元素力了，但還是容我提醒一句，路上注意安全。
-（要是遇到水元素不好處理的敵人，那就保護好自己。）`},n6={character:"sucrose",year:2025,sign:"砂糖 2025-11-26",content:`前陣子，阿貝多老師邀請杜林先生加入了蒂瑪烏斯和我的煉金研究小組 。最初杜林先生有點靦腆，不怎麼接話，本來以為我們需要彼此磨合一陣子。但涉及到具體的煉金研究後，他的學習速度明顯快了很多。做實驗時，大家都只在必要的時候說話，交談的內容也十分簡明扼要，我們的研究效率高得出奇。
+（要是遇到水元素不好處理的敵人，那就保護好自己。）`},i6={character:"sucrose",year:2025,sign:"砂糖 2025-11-26",content:`前陣子，阿貝多老師邀請杜林先生加入了蒂瑪烏斯和我的煉金研究小組 。最初杜林先生有點靦腆，不怎麼接話，本來以為我們需要彼此磨合一陣子。但涉及到具體的煉金研究後，他的學習速度明顯快了很多。做實驗時，大家都只在必要的時候說話，交談的內容也十分簡明扼要，我們的研究效率高得出奇。
 得益於每個人的努力，藥劑的效果預期將有百分之三點七二的提升…糟糕，最近滿腦子都裝著研究的事，不知不覺就講太多了。
-要來蒙德逛逛嗎？「獵鹿人」上了新菜品，我們可以邊吃邊聊點有趣的話題。我保證，這次不會再用煉金術語轟炸你了…`},a6={character:"sucrose",year:2024,sign:"砂糖 2024-11-26",content:`聽說納塔有種植物，能結出巨大的果實，前幾天有旅行商人來蒙德城，我終於買到了這種神奇的實驗素材！可惜，我的假期來得比實驗成果更快…
+要來蒙德逛逛嗎？「獵鹿人」上了新菜品，我們可以邊吃邊聊點有趣的話題。我保證，這次不會再用煉金術語轟炸你了…`},l6={character:"sucrose",year:2024,sign:"砂糖 2024-11-26",content:`聽說納塔有種植物，能結出巨大的果實，前幾天有旅行商人來蒙德城，我終於買到了這種神奇的實驗素材！可惜，我的假期來得比實驗成果更快…
 我想打包好素材和試管，在野外繼續進行實驗。但又擔心…脫離了實驗室的環境，不可控制的因素增加，萬一引起實驗事故就糟糕了。
 能不能請你陪同左右，幫忙觀察坩堝裡的情況？
-你也可以來看看我目前取得的研究成果。請相信我，應該很快就能達到十倍指標！`},i6={character:"sucrose",year:2023,sign:"砂糖 2023-11-26",content:`我想趁今天這個機會出門去遠一點的地方，執行…計劃中的秘密研究。
+你也可以來看看我目前取得的研究成果。請相信我，應該很快就能達到十倍指標！`},r6={character:"sucrose",year:2023,sign:"砂糖 2023-11-26",content:`我想趁今天這個機會出門去遠一點的地方，執行…計劃中的秘密研究。
 我一直對幼岩龍蜥收集的那種骨片很有興趣——這些骨頭究竟來自何種生物？牠們現在是否還存在於大陸上？牠們的骸骨在不為人知的地方長眠了多久？為何唯獨會被幼岩龍蜥們視若珍寶？如果可以收集到夠多資料，或許就能研究出什麼吧！
 只是…幼岩龍蜥和岩龍蜥通常都在璃月野外活動，獨自行動一定十分危險，我想邀請你一同出發。
-如果你能夠抽出時間的話，就真的感激不盡了。其他戰利品可以全部給你，只要收集到骨片和資料，我就心滿意足了。`},l6={character:"sucrose",year:2022,sign:"砂糖 2022-11-26",content:`今天一早…我被放了一個假。大家鼓勵我從實驗室裡走出來。度過一個難忘的生日。
+如果你能夠抽出時間的話，就真的感激不盡了。其他戰利品可以全部給你，只要收集到骨片和資料，我就心滿意足了。`},s6={character:"sucrose",year:2022,sign:"砂糖 2022-11-26",content:`今天一早…我被放了一個假。大家鼓勵我從實驗室裡走出來。度過一個難忘的生日。
 可是，突然放下手裡的實驗。我都有點不知道該做點什麼了。
 去風起地散心、到果酒湖釣魚。除了這些簡單的娛樂。我也沒有更新奇的想法。光是思考這些，已經比分析實驗資料還難了…
 最後還是琴團長提醒我。可以把自己想做的事情寫下來。逐一實現。
 我想收集很多新奇的骨頭。拿來做研究！
-雖然大家已經習慣了…但我仍然有些不好意思。如果不介意的話。能麻煩你…陪我一起嗎？`},r6={character:"sucrose",year:2021,sign:"砂糖 2021-11-26",content:`剛剛進行了一步非常重要的實驗操作，呼…接下來就要等待實驗的結果了，希望能有所突破。
+雖然大家已經習慣了…但我仍然有些不好意思。如果不介意的話。能麻煩你…陪我一起嗎？`},o6={character:"sucrose",year:2021,sign:"砂糖 2021-11-26",content:`剛剛進行了一步非常重要的實驗操作，呼…接下來就要等待實驗的結果了，希望能有所突破。
 我不是迷信運氣的人，但每到生日當天，實驗都會變得很順利，有你幫忙的研究也會有新進展…
 所以，所以…如果你能來的話…
 啊，對了！還有件事想向你請教。最近我整理實驗室，從櫥櫃深處翻出些沒見過的材料，懷疑是其他人留下的。我想你見多識廣，或許會有所瞭解？
 材料已隨信附上，如果你有什麼心得的話，請…請務必來告訴我！
-謝謝你！`},s6={character:"sucrose",year:2020,sign:"砂糖 2020-11-26",content:`或許是生日當天會有特殊的好運吧。今天的實驗很順利，幾乎就要取得突破性的進展了。
+謝謝你！`},u6={character:"sucrose",year:2020,sign:"砂糖 2020-11-26",content:`或許是生日當天會有特殊的好運吧。今天的實驗很順利，幾乎就要取得突破性的進展了。
 但是…但是正因如此，我現在非常苦惱。
 我的理性告訴我應該熬夜做實驗、儘早得出結論。而且，如果現在將實驗擱置，過來找你的話，說不定還會造成你的麻煩。
 可我忍不住想，要是有你在我身邊見證我的研究成果的話…
-我，我繼續做實驗了！`},o6={character:"kaeya",year:2025,sign:"凱亞 2025-11-30",content:`聽說你這陣子過得不太好，真是辛苦你了，願風送去我的慰問。
+我，我繼續做實驗了！`},c6={character:"kaeya",year:2025,sign:"凱亞 2025-11-30",content:`聽說你這陣子過得不太好，真是辛苦你了，願風送去我的慰問。
 關於你的近況和你們遭遇的一波三折，法爾伽大團長全都寫在信裡了。米卡讀信的時候，我的心都被揪起來了好幾次。得知最後一切順利，它才算落回了該落的地方。
 嘿，雖然這話猛然一看有點矯情，但我必須得寫下來：即使不在你們身邊，整個西風騎士團也在時刻支持著各位。
 想知道我做了什麼嗎？我也不打算賣關子了。
-我親手釀了一瓶美酒，就等著各位的凱旋之日呢。`},u6={character:"kaeya",year:2024,sign:"凱亞 2024-11-30",content:`嗨，在火之國度的旅行還順利嗎？
+我親手釀了一瓶美酒，就等著各位的凱旋之日呢。`},f6={character:"kaeya",year:2024,sign:"凱亞 2024-11-30",content:`嗨，在火之國度的旅行還順利嗎？
 如果覺得陽光太刺眼，不妨試著用眼罩遮起一邊，說不定還能想起遠方的一位老朋友…哈哈，一句玩笑話。
 你走過那麼多地方，說不定早就結交不止一位矇眼的朋友了。但在這個日子，沒有什麼能比跟最熟悉的老朋友喝一杯、敘敘舊更讓人惬意了…這可不是玩笑話哦。
 那麼，老地方、老位置，或許你想嚐嚐新飲品、玩玩七聖召喚以外的卡牌遊戲？
-還是老規矩，我先替你點好了，在你到前我喝不醉的。`},c6={character:"kaeya",year:2023,sign:"凱亞 2023-11-30",content:`嘿，我正在酒館裡享受假期，意外發現了一種絕妙的新品——
+還是老規矩，我先替你點好了，在你到前我喝不醉的。`},h6={character:"kaeya",year:2023,sign:"凱亞 2023-11-30",content:`嘿，我正在酒館裡享受假期，意外發現了一種絕妙的新品——
 蒲公英酒！沒什麼特別的，對吧？這種蒲公英酒卻有股特別又回味無窮的香味，大概是因為釀造它的原料只能在特殊季節採到吧？錯過這一桶，以後還喝不喝得到都很難說。
 想到遠在別處的朋友還沒嗅過這種芳香，我就忍不住以最快的速度寄出這封信。
-已在「天使的饋贈」挑好座位，期待與你見面。`},f6={character:"kaeya",year:2022,sign:"凱亞 2022-11-30",content:`喲，最近在哪裡閒逛呢？
+已在「天使的饋贈」挑好座位，期待與你見面。`},d6={character:"kaeya",year:2022,sign:"凱亞 2022-11-30",content:`喲，最近在哪裡閒逛呢？
 想必你已經從不同管道，聽說過「七聖召喚」這個遊戲了吧，我這個卡牌遊戲愛好者當然也不能錯過。你看，我就用自己的方法，弄來了一副牌。
 說真的，這打牌還滿需要思考的。不僅骰子要計算得當，出牌也得小心。要是一招不慎，說不定局勢就會發生翻天覆地的變化。在那種時候，觀察對方臉上懊悔的表情，也是一件很有趣的事啊…
 怎麼樣，要不要跟我來幾局試試手感？如果你需要，我還可以把自己總結的技巧傾囊相授喔！
-果汁幫你點好了，你人來就行了。`},h6={character:"kaeya",year:2021,sign:"凱亞 2021-11-30",content:`代理團長大人讓我放了一天假。大概是因為我今天過生日吧。
+果汁幫你點好了，你人來就行了。`},m6={character:"kaeya",year:2021,sign:"凱亞 2021-11-30",content:`代理團長大人讓我放了一天假。大概是因為我今天過生日吧。
 不過現在沒有喝酒的氛圍，我果然還是應該閒逛一會。
 就這樣順著風散步…跟平日做的事差別不大嘛。
 哈哈，開個玩笑。騎士團的工作不受某些人待見，但也不是輕易就能完成的。
@@ -1124,71 +1133,71 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 一不留神走得遠了些，回過神來才發現身邊飛著好多晶蝶。難道這些小傢伙也在等待莊園裡的葡萄釀成美酒嗎？
 聽說你很喜歡亮晶晶的小東西，這些就留給你吧。
 …不過，下次還是避免一個人散步比較好。
-叫上你這樣的朋友一起，才不會無聊，對吧？`},d6={character:"kaeya",year:2020,sign:"凱亞 2020-11-30",content:`要不是某人隨口提及，完全忘記今天是我生日了呢。
+叫上你這樣的朋友一起，才不會無聊，對吧？`},g6={character:"kaeya",year:2020,sign:"凱亞 2020-11-30",content:`要不是某人隨口提及，完全忘記今天是我生日了呢。
 這麼說來，很久沒為私事隆重慶祝了。
 嗯，你覺得這種日子應該有什麼情緒？
 哈哈，別緊張，只是想參考你的意見，畢竟我對這些事沒什麼心得。
 真神奇…一想到對面的人是你，就會不由自主說出真心話。我恐怕喝太多了。
 不過，偶爾坦誠面對自己也不壞。
 要不要跟我喝幾杯？讓調酒師幫你準備無酒精飲料好了。對著杯子才好開口，是吧？
-我還有很多故事…還有很多時間。`},m6={character:"ganyu",year:2025,sign:"甘雨 2025-12-02",content:`我今天早上去總務司的時候，在門口意外遇見了留雲真君。
+我還有很多故事…還有很多時間。`},y6={character:"ganyu",year:2025,sign:"甘雨 2025-12-02",content:`我今天早上去總務司的時候，在門口意外遇見了留雲真君。
 我本來以為她要囑咐我什麼要事，但她沉吟半晌後，卻說請我晚上去屋裡吃飯，她要做一碗生日麵給我。
 晚上我按時赴約了，結果卻看見留雲真君屋裡有一個轟隆隆作響，不停往外吐著麵條的機關…整塊地板都要被麵條塞滿了。
 留雲真君在搶修機關，申鶴小姐則試圖用長槍整理麵條…我和後面過來的萍姥姥，還有煙緋、瑤瑤和香菱都趕緊過去幫忙，我們一起忙碌了很久，才把麵條都整理好，掛在了長槍上。
-總之，師父用機關做出來的「掛麵」的確很好吃，也寄給你一點，請你也嚐嚐吧。`},g6={character:"ganyu",year:2024,sign:"甘雨 2024-12-02",content:`最近因為公務，我在翹英莊逗留了一段時日。沉玉谷風光秀美，工作之餘既能遠眺山色，又能在林間散步，與鳥獸為伴。
+總之，師父用機關做出來的「掛麵」的確很好吃，也寄給你一點，請你也嚐嚐吧。`},p6={character:"ganyu",year:2024,sign:"甘雨 2024-12-02",content:`最近因為公務，我在翹英莊逗留了一段時日。沉玉谷風光秀美，工作之餘既能遠眺山色，又能在林間散步，與鳥獸為伴。
 這樣平靜安然的氛圍，就像回到了那段在絕雲間修行的日子，連午覺都睡得更加踏實了。
 不知道你四處旅行，休息得好不好呢？若是有空閒，不如前來小聚。我們煮上一壺好茶，再備上兩碟素菜，在山水環抱間，好好休憩一番吧。
-我還可以將我近日從孩童那學來的山歌唱予你聽。`},y6={character:"ganyu",year:2023,sign:"甘雨 2023-12-02",content:`或許是因為最近事務太多，我白天犯睏的次數似乎變多了…
+我還可以將我近日從孩童那學來的山歌唱予你聽。`},v6={character:"ganyu",year:2023,sign:"甘雨 2023-12-02",content:`或許是因為最近事務太多，我白天犯睏的次數似乎變多了…
 月海亭的秘書們鼓勵我嘗試垂釣來換換心情，她們說垂釣最能祛除勞累。可是…若要在水畔呆坐半日，恐怕我會變得更睏倦呢…
 不過，一位在垂釣上頗有經驗的同事提醒了我，若想更愉快地享受釣魚過程，需約上三五好友，在等待的閒暇時光裡交心暢談，在起竿的緊張時刻見證彼此的收穫…我非常期待這樣的體驗！
-吃食和餌料已經備好，若有空閒，能否與我共釣於水畔？`},p6={character:"ganyu",year:2022,sign:"甘雨 2022-12-02",content:`最近，月海亭的秘書們十分勤懇，攬下了許多事務，相比往年年末，我竟顯得有些清閒…竟有些不適應了。
+吃食和餌料已經備好，若有空閒，能否與我共釣於水畔？`},b6={character:"ganyu",year:2022,sign:"甘雨 2022-12-02",content:`最近，月海亭的秘書們十分勤懇，攬下了許多事務，相比往年年末，我竟顯得有些清閒…竟有些不適應了。
 我聽人說，忙完手頭的工作後，與密友一同品茶賞月，放空思緒，是分外愜意的享受。
 正好，今夜風清月皎…或許值得一試？
 請不要有任何負擔。不如說…能在忙碌的間隙，獲得片刻的寧靜與平和，已令我心滿意足。
-我準備了平時在月海亭常喝的茶，還有一些安神定氣的輔料，希望和你口味。`},v6={character:"ganyu",year:2021,sign:"甘雨 2021-12-02",content:`聽同事們說，在人間，生日時極為重要的日子，要盛大地過。去平時不會去的地方，花平時捨不得花的摩拉，才算生日。
+我準備了平時在月海亭常喝的茶，還有一些安神定氣的輔料，希望和你口味。`},S6={character:"ganyu",year:2021,sign:"甘雨 2021-12-02",content:`聽同事們說，在人間，生日時極為重要的日子，要盛大地過。去平時不會去的地方，花平時捨不得花的摩拉，才算生日。
 但時間對我而言只是個平淡的概念。每年生日都在忙碌中度過，和平時…也沒什麼不同。
 今天午睡時，意外夢見了你。夢裡你笑著和我說了些什麼…可惜，一睡醒就忘了內容。
 或許，你真的有什麼想對我說的話？是不是應該趁此機會，和你見一面呢…
 總之，我已按照璃月人的規矩備了見面禮。
 多給你一顆清心的種子，讓你也一同品味播種與收穫的樂趣。
-…啊，種植和照料的注意事項已經寫不下了，那就等見面再說吧。`},b6={character:"nilou",year:2025,sign:"妮露 2025-12-03",content:`從前幾天開始，大巴扎的大家都神神秘秘地躲著我。我問了阿娜耶，但她說要去吃晚飯就跑走了，明明當時才下午三點。内嘉更是和我眼神一接觸，就起身說要去帶斯汪洗澡。
+…啊，種植和照料的注意事項已經寫不下了，那就等見面再說吧。`},_6={character:"nilou",year:2025,sign:"妮露 2025-12-03",content:`從前幾天開始，大巴扎的大家都神神秘秘地躲著我。我問了阿娜耶，但她說要去吃晚飯就跑走了，明明當時才下午三點。内嘉更是和我眼神一接觸，就起身說要去帶斯汪洗澡。
 沒辦法，我只好自己猜啦，之前我們為草神大人準備生日會的時候，也是躲著她做了一切，所以我想或許大家是在為我準備一個生日會。
 嘿嘿，在大家忙碌的時間裡，我也沒有閒著哦！我也悄悄地準備了新的舞蹈，想要在今晚，跳給大家看。
-有空的話，你也過來吧，我們一起去參加生日會，大家一定會為你的到來感到驚喜的！`},S6={character:"nilou",year:2024,sign:"妮露 2024-12-03",content:`前些日子我到沙漠田野調查，你猜猜發生了什麼特別的事情？
+有空的話，你也過來吧，我們一起去參加生日會，大家一定會為你的到來感到驚喜的！`},T6={character:"nilou",year:2024,sign:"妮露 2024-12-03",content:`前些日子我到沙漠田野調查，你猜猜發生了什麼特別的事情？
 我偶遇了一位出色的沙漠舞者！
 我們彼此不知道對方的名字，也沒有說過話，竟然能以不同的舞步在黃沙中合舞。我從她的舞姿中能感覺到很強的信念和力量，我們合拍地旋轉、揮手、伸展…在一曲舞畢後與對方愉快地擊掌…
 我想這就是舞蹈對我的意義吧，用舞步跟所有的美好事物交流、互動，融合自己的心意後，繼續將這份美傳達出去！
-我們臨別時還交換了禮物，現在，我也想將同樣的好心情傳達給你！`},_6={character:"nilou",year:2023,sign:"妮露 2023-12-03",content:`前幾天路過水天叢林時恰好遇到大雨，我只好躲在樹蔭下靜下心來觀賞雨景。
+我們臨別時還交換了禮物，現在，我也想將同樣的好心情傳達給你！`},x6={character:"nilou",year:2023,sign:"妮露 2023-12-03",content:`前幾天路過水天叢林時恰好遇到大雨，我只好躲在樹蔭下靜下心來觀賞雨景。
 看著雨滴在水面上鋪開大朵漣漪，又讓林地間的花草快活地搖曳身姿，我忽然發現原本紛雜的雨聲似乎擁有自身的旋律，而整個叢林都在為之起舞。
 唔…莫非就像風靠著吹拂樹梢描繪出自身的形狀一樣，雨也在藉著草木表演自己的舞蹈？
 一想到這裡，我就試著模仿眼前的律動，創作出了一套新的舞蹈動作！
-在新舞蹈正式登臺演出前…如果這份喜悅能夠被好友見證，也算是沒有辜負大自然贈予的靈感吧！`},T6={character:"nilou",year:2022,sign:"妮露 2022-12-03",content:`我常觀察身邊的事物，汲取創作舞步的靈感。
+在新舞蹈正式登臺演出前…如果這份喜悅能夠被好友見證，也算是沒有辜負大自然贈予的靈感吧！`},E6={character:"nilou",year:2022,sign:"妮露 2022-12-03",content:`我常觀察身邊的事物，汲取創作舞步的靈感。
 翻湧迴旋的浪花、騰展雙翅的晶蝶…這些近在咫尺的美麗，我想用身體的語言將它們表達出來。
 但須彌城的景色看多之後，靈感難免有點匱乏…
 這種時候是不是該學犛犛馱獸，帶好足夠的物資，走去更遠一點的地方呢？
 啊，有了，沙漠！
 上次我在綠洲練舞，創意咕嚕咕嚕接連不斷地鑽進了腦海裡。再去一次的話，一定會有新的收穫！
-我再找幾位朋友吧！大家一起看沙丘、看星星、圍繞著篝火唱歌，怎麼樣？`},x6={character:"chasca",year:2025,sign:"恰斯卡 2025-12-10",content:`前幾天，部族裡的年輕人和楓丹來的遊客起了爭執。我趕到的時候，他們正吵得面紅耳赤，越說越激動。
+我再找幾位朋友吧！大家一起看沙丘、看星星、圍繞著篝火唱歌，怎麼樣？`},A6={character:"chasca",year:2025,sign:"恰斯卡 2025-12-10",content:`前幾天，部族裡的年輕人和楓丹來的遊客起了爭執。我趕到的時候，他們正吵得面紅耳赤，越說越激動。
 我讓大家冷靜下來後才發現，原來是同一個手勢在兩地的意思完全相反，一個表示友好，一個表示挑釁。
 誤會解開後大家都笑了。楓丹人還說我化解了一場差點發生的「決鬥」。
 不同土地上的人們，都在用自己的方式守護著珍視之物。現在的我，更喜歡在溫暖的篝火邊解決問題。
 又到了那個特別的日子。我用滾燙的岩石烤了最嫩的肉，冰鎮果飲也剛做好。
-我留了位置給你，就在我身邊。今天是晴天，晚上星空會很美。我們不見不散。`},E6={character:"chasca",year:2024,sign:"恰斯卡 2024-12-10",content:`我不清楚自己實際出生的日子，但家人們說，我也是受他們祝福的「孩子」，一年中至少一定要有一天具有特殊的紀念意義。
+我留了位置給你，就在我身邊。今天是晴天，晚上星空會很美。我們不見不散。`},w6={character:"chasca",year:2024,sign:"恰斯卡 2024-12-10",content:`我不清楚自己實際出生的日子，但家人們說，我也是受他們祝福的「孩子」，一年中至少一定要有一天具有特殊的紀念意義。
 那時我還不懂這些，只順水推舟地和他們商量著定下了這個收養我的日期。
 在經歷過戰爭之後，珍惜現在所擁有的事物，和親友度過更多的時間，是我最想做的事情。
 今年的生日除了家人之外，我還想邀請彌足珍貴的朋友…相信這場生日宴會前所未有地熱鬧。
 調過味的肉排和魚塊早已備好，等客人到齊，我就要動手烤肉了。
-爐火已經噼啪作響，要是來得太慢，我可要飛去接你了。`},A6={character:"neuvillette",year:2025,sign:"那維萊特 2025-12-18",content:`一年時間倏忽而過，別來無恙。如今又是氣候轉冷，添衣換被的時節了。
+爐火已經噼啪作響，要是來得太慢，我可要飛去接你了。`},M6={character:"neuvillette",year:2025,sign:"那維萊特 2025-12-18",content:`一年時間倏忽而過，別來無恙。如今又是氣候轉冷，添衣換被的時節了。
 至冬會在冬日準時迎來雪，而最近楓丹的天空陰沉了好多天，但是一直沒有降雨。
 我竟然也有了一絲期待，覺得這場冬日細雨是不是會在我生日時落下。
 但是結果讓我失望了，至今早為止，雨還是沒下。
 我不禁思考，如果是以前的我，因為失落讓雨降下了，之後我會高興嗎？
 無論如何，今天是不會下雨的。既是暫定的生日，就應該開心一點。
-所以您可以放心來赴約，無須帶傘。`},w6={character:"neuvillette",year:2024,sign:"那維萊特 2024-12-18",content:`久未問候，願你安好。
+所以您可以放心來赴約，無須帶傘。`},j6={character:"neuvillette",year:2024,sign:"那維萊特 2024-12-18",content:`久未問候，願你安好。
 這次動筆又已是冬天，人們換衣添被，開始為壁爐添柴了。最重要的是，又到了所有人都改喝熱飲的時候。咖啡和茶葉是人們桌邊的常客，但如果詢問我的想法，我更推薦德波大飯店的熱水。
 話說回來，之前入手的茶葉，儘管分了八成給萊歐斯利，但剩下的喝了一年仍沒喝完。我原以為至少萊歐斯利能順利解決他的部分，他卻告訴我「人類喝茶是要講求規劃的，不然會有腎結石的風險」。
 想想也是，如有健康隱患，希格雯應該會嚴加管理。你也要多喝熱水，水會治癒一切。
-話再說回來，又快到我為自己選的生日了。我準備了熱湯，期待你赴約。`},M6={character:"neuvillette",year:2023,sign:"那維萊特 2023-12-18",content:`根據之前對外公布的說法，今日是我的生日。
+話再說回來，又快到我為自己選的生日了。我準備了熱湯，期待你赴約。`},C6={character:"neuvillette",year:2023,sign:"那維萊特 2023-12-18",content:`根據之前對外公布的說法，今日是我的生日。
 芙寧娜的生日是法定假日，至今仍是這樣。
 而在我任職滿一百年時，有人提議說應該為我的生日也設立紀念假期。
 其實我並不知道自己的生日實際上是哪一天。
@@ -1196,76 +1205,76 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 往年今日，我大多會抽身前往海沫村，看望居住在那裡的美露莘。
 這次我想約上你一同前往。聽說你平日遊歷楓丹，與許多美露莘熟識。
 如果有你到場，想必她們會更加開心吧。
-想法唐突，算是我叨擾了。我準備了謝禮，若有閒暇，期待你的赴約。`},j6={character:"layla",year:2025,sign:"萊依拉 2025-12-19",content:`不知道是什麼原因，最近幾個月的星軌測算結果波動巨大，院裡的大家一起算了好幾天，才勉強得出結果——星軌越靠近月亮，測算結果的波動就越劇烈…
+想法唐突，算是我叨擾了。我準備了謝禮，若有閒暇，期待你的赴約。`},z6={character:"layla",year:2025,sign:"萊依拉 2025-12-19",content:`不知道是什麼原因，最近幾個月的星軌測算結果波動巨大，院裡的大家一起算了好幾天，才勉強得出結果——星軌越靠近月亮，測算結果的波動就越劇烈…
 大家都很興奮，如果能搞清楚這是怎麼回事…我們就不用擔心…找不到課題…
 嗯，如你所見，她又睡著了。
 她觀測到有關月亮的問題是真的，不過，就讓這個遠在天邊的問題繼續和我們保持距離吧，現在有一件更重要的事情——她的生日到了。
 有空的話，來一趟梨多梵諦學院吧。和她一起散散步，和你待在一起的時候，她那個計算不停的大腦才能稍微降低一點運轉速度，這對她的身體和心靈都有好處。
-點心我已經替你準備好了。`},C6={character:"layla",year:2024,sign:"萊依拉 2024-12-19",content:`唉…我知道不該在這個日子唉聲嘆氣。可是這次的題目真的很難很難，不管多努力，還是一點進展都沒有。再這麼下去，我是不是就要退學回家了…
+點心我已經替你準備好了。`},R6={character:"layla",year:2024,sign:"萊依拉 2024-12-19",content:`唉…我知道不該在這個日子唉聲嘆氣。可是這次的題目真的很難很難，不管多努力，還是一點進展都沒有。再這麼下去，我是不是就要退學回家了…
 不、不行。不可以辜負父母和導師！偉大的智慧之神保佑，請讓我的大腦快轉一轉…嗚，眼睛好模糊，撐不住…
 呼，總算睡著了，幾天幾夜不睡覺撐得住就怪了…
 她沒事，你別太擔心。其實她的前期準備已經做得非常充分了，我想我可以替她把關鍵資料放在論文的最上面…
-如果你有空，能請你過來陪陪她嗎？等她醒來後陪她聊天也好，散步也好，至少別讓她再操心下去了…謝啦。`},z6={character:"layla",year:2023,sign:"萊依拉 2023-12-19",content:`真是可喜可賀，研究提前結題，並且一次都沒有讓我插手。
+如果你有空，能請你過來陪陪她嗎？等她醒來後陪她聊天也好，散步也好，至少別讓她再操心下去了…謝啦。`},D6={character:"layla",year:2023,sign:"萊依拉 2023-12-19",content:`真是可喜可賀，研究提前結題，並且一次都沒有讓我插手。
 看得出來她十分努力，整理好文件就睡著了。唔，我還能做些什麼呢？
 思來想去，果然還是要替她把朋友們都約過來，一起慶祝成功結題這件大事。畢竟她醒來之後，想必會立刻為下一個研究煩惱，根本想不到安排這些。這樣的快樂當然應該分享出去啊。
 不過，你就替我保守這個秘密吧。對她自己而言，這將成為一個驚喜。
-招待朋友用的餐點我也準備好了，希望她醒來之後能有你的陪伴。`},R6={character:"layla",year:2022,sign:"萊依拉 2022-12-19",content:`按原計畫，今天我本該向導師匯報研究進度的，不過考慮到今天是我的生日，導師特地延後了匯報日期，還讓我放了一天的假。
+招待朋友用的餐點我也準備好了，希望她醒來之後能有你的陪伴。`},O6={character:"layla",year:2022,sign:"萊依拉 2022-12-19",content:`按原計畫，今天我本該向導師匯報研究進度的，不過考慮到今天是我的生日，導師特地延後了匯報日期，還讓我放了一天的假。
 太好了！這樣一來我就能暫時放下手上的報告，稍稍休息一下了。
 難得的假期，我打算去奧摩斯港逛逛，要不要一起？
 對我來說，悠閒地在奧摩斯港的街頭漫步是最舒心不過的事。當然，能有一兩個知心的好朋友相伴就更好了。
-你有空的話，我們稍後就見！`},D6={character:"dori",year:2025,sign:"多莉 2025-12-21",content:`今天是個好日子，既是我桑歌瑪哈巴依老爺的生日，也是蕈獸觀賞園正式開業的日子！
+你有空的話，我們稍後就見！`},L6={character:"dori",year:2025,sign:"多莉 2025-12-21",content:`今天是個好日子，既是我桑歌瑪哈巴依老爺的生日，也是蕈獸觀賞園正式開業的日子！
 你肯定要問，多莉多莉日理萬機，怎麼還有空變出了個園子？
 哼哼，想不到吧？那可是我在馱獸樂園竣工時立刻開始規劃的！門票價格足足便宜了一半，還提供免費的水和座位，護理蕈獸的工作就交給過來兼職的教令院學生，至於工資嘛…反正足夠他們每個月買書吃飯了，省一省還能出去玩一趟呢。
 說到玩，你也來玩玩吧？我們都那麼熟了，今天蕈獸觀賞園門票算你免費…
-馱獸樂園門票打八折。`},O6={character:"dori",year:2024,sign:"多莉 2024-12-21",content:`咳咳！這位鼎鼎大名的旅行者，請暫時放下手中的工作，來恭喜桑歌瑪哈巴依老爺今天雙喜臨門吧！
+馱獸樂園門票打八折。`},N6={character:"dori",year:2024,sign:"多莉 2024-12-21",content:`咳咳！這位鼎鼎大名的旅行者，請暫時放下手中的工作，來恭喜桑歌瑪哈巴依老爺今天雙喜臨門吧！
 今天不僅是我的生辰，也是我的馱獸樂園擴建工程竣工的大日子！擴建後的樂園足足有原先的三倍大，意味著可以多養三倍的馱獸、多設三倍的商店、多賺三四五六…不知多少倍的摩拉…嘿嘿嘿…
 身為東道主，今天我特地準備了各色美食，還有神秘嘉賓、驚喜演出…為表誠意——門票全免！僅此一天哦，你沒有理由不心動的對吧？快快動身吧！
 
 信末一行極不顯眼的小字：
-（免責聲明：除傳送門處門票外，樂園內一切餐飲、娛樂、服務及馱獸保育費用需賓客自理。）`},L6={character:"dori",year:2023,sign:"多莉 2023-12-21",content:`好消息好消息！我最近談成了一筆特別賺的大生意！光是想想最後能到手的摩拉…嘿嘿…
+（免責聲明：除傳送門處門票外，樂園內一切餐飲、娛樂、服務及馱獸保育費用需賓客自理。）`},V6={character:"dori",year:2023,sign:"多莉 2023-12-21",content:`好消息好消息！我最近談成了一筆特別賺的大生意！光是想想最後能到手的摩拉…嘿嘿…
 不過嘛，富貴險中求，這一單的難度著實不小，要橫穿整個沙漠去運一 。閱歷不夠，找不到路；身手不行，護不住貨。讓我想一想，到底是誰能同時滿足這兩個條件？那當然是大名鼎鼎的旅行者啊！
 至於具體的商務細節…就不勞你費心了，全交給我就行。你只管把貨運到，美美賺一筆！當然，我也理解你遠道而來一定很辛苦。只要住我推薦的店，食宿費用全打八折，還附贈沙漠旅行口糧和大水壺哦，是不是很划算？
-錯過今天，這個機會可就沒了，快快回信吧！`},N6={character:"dori",year:2022,sign:"多莉 2022-12-21",content:`今天是什麼日子，你還記得吧？桑歌瑪哈巴依老爺，即將迎接她一年一度的生日！為了慶賀這個重大的日子，我花費重金，請來了全須彌最有名的重量級甜點師，打造了一個超豪華的巨大蛋糕——簡直比犛犛馱獸還大，你看了一定會嚇一大跳！
+錯過今天，這個機會可就沒了，快快回信吧！`},U6={character:"dori",year:2022,sign:"多莉 2022-12-21",content:`今天是什麼日子，你還記得吧？桑歌瑪哈巴依老爺，即將迎接她一年一度的生日！為了慶賀這個重大的日子，我花費重金，請來了全須彌最有名的重量級甜點師，打造了一個超豪華的巨大蛋糕——簡直比犛犛馱獸還大，你看了一定會嚇一大跳！
 跟往年一樣，我會邀請重要客戶和合作夥伴來我家共同慶祝。一想到…我在宴會上不但能收到數量驚人的禮物，等到大家酒足飯飽、心情愉悅的時候，還能輕鬆談談明年的訂單；嘿嘿，源源不斷的生意，嘿嘿，源源不斷的摩拉…
 如此隆重的宴會、如此珍貴的機會…聰明的你，絕對不會想錯過的吧！我都這樣盛情邀請了，你是不是也應該有所表示呀？
-晚上見喔！`},V6={character:"gaming",year:2025,sign:"嘉明 2025-12-22",content:`喂老友！醒了沒？起身起身，到了起身的時間了！
+晚上見喔！`},B6={character:"gaming",year:2025,sign:"嘉明 2025-12-22",content:`喂老友！醒了沒？起身起身，到了起身的時間了！
 天都沒亮，文仔就把紙筆放在我臉上，催我寫信給你了。照他老人家的意思，說很想你過來玩喔。嘿，他看我寫得慢，急得在桌上轉來轉去，一分鐘之前把茶打翻了，根據經驗，再過兩分鐘，老爸就會來拍門，問我們是不是在房間裡打仗…
 文仔不識字，被他知道我在信裡寫他的這些糗事，那就真的要「打仗」 了，哈哈，幫我保守秘密噢！
 說是要請你過來吃吃喝喝，但其實最要緊的就是想見見老友。聽聞你在處理一個大難題，還是想親眼確認你平安才能放心。
-煽情的話不多說了，彼此心裡都清楚。等你來噢！我先去應付老爸…`},U6={character:"gaming",year:2024,sign:"嘉明 2024-12-22",content:`喂老友！最近怎麼樣啊你？聽說你正在納塔吃「大茶飯」喔…哈哈，不跟你講笑啦，今天我生日，賞臉過來吃餐飯嗎？
+煽情的話不多說了，彼此心裡都清楚。等你來噢！我先去應付老爸…`},k6={character:"gaming",year:2024,sign:"嘉明 2024-12-22",content:`喂老友！最近怎麼樣啊你？聽說你正在納塔吃「大茶飯」喔…哈哈，不跟你講笑啦，今天我生日，賞臉過來吃餐飯嗎？
 最近天寒地凍，打邊爐就最好不過啦！今天一大早，我就被老爸抓住一起去市集買菜了，食材保證新鮮！哦對了，除了打邊爐，老爸還說要親自下廚做九大簋，所以你和派蒙一定要來啊，切記啊，來之前什麼都不要吃，解膩的茶水我都給你們沖好了，這樣來到後才能吃多點！如果沒吃完，明天後天甚至大後天，飯桌上都會出現同樣的菜，很恐怖的…
 不過我老爸做菜很好吃，而且有派蒙在這裡，要清光，小意思啦。
-好了，我去練功先，準備好今晚大吃特吃囉！`},B6={character:"tighnari",year:2025,sign:"提納里 2025-12-29",content:`最近真是好事連連，我剛剛在林子裡發現了幾株狀態很好的濒危植物，回到院裡後，又得知我的第二次納塔調查申請也通過了。
+好了，我去練功先，準備好今晚大吃特吃囉！`},H6={character:"tighnari",year:2025,sign:"提納里 2025-12-29",content:`最近真是好事連連，我剛剛在林子裡發現了幾株狀態很好的濒危植物，回到院裡後，又得知我的第二次納塔調查申請也通過了。
 上次去納塔的時候，我和那位名叫瓦雷莎的女孩交流了一番，配給她幾種肥料。這次再去，除了調查植物生態之外，還想實地看看肥料的功效。
 我原本打算帶著柯萊一起去納塔，但賽諾也想去…說想用這種肥料，幫助他的老師種出厲害的番茄。
 另外，既然柯萊都來了，他也…「可來」。
 …
-呃，總之，隨信寄給你一些蕈子，是我剛摘下來的，味道很不錯，嚐嚐看吧。`},k6={character:"tighnari",year:2024,sign:"提納里 2024-12-29",content:`好久不見，雨林一切安好，願你的納塔之行諸事順利。
+呃，總之，隨信寄給你一些蕈子，是我剛摘下來的，味道很不錯，嚐嚐看吧。`},q6={character:"tighnari",year:2024,sign:"提納里 2024-12-29",content:`好久不見，雨林一切安好，願你的納塔之行諸事順利。
 說到納塔，很久以前我在一些學術文獻中看到不少納塔植物和昆蟲圖譜，我很感興趣，只可惜沒有找到適當的機會。
 等巡林隊的大家都能熟練掌握業務後，我也打算抽空到納塔做些調查，為下一篇論文做準備。到那時，能請你當我在納塔的「巡林員」嗎？從你身上一定能學到很多。
-另，隨信附上一些應季蕈子，希望身處遠方的你也能同享這份鮮美。`},H6={character:"tighnari",year:2023,sign:"提納里 2023-12-29",content:`聽說很多地方這個時候都會降溫，不知你旅行到了何方？有沒有遇到很冷的天氣？
+另，隨信附上一些應季蕈子，希望身處遠方的你也能同享這份鮮美。`},I6={character:"tighnari",year:2023,sign:"提納里 2023-12-29",content:`聽說很多地方這個時候都會降溫，不知你旅行到了何方？有沒有遇到很冷的天氣？
 雨林這邊倒是老樣子，溫暖又溼潤，是個避寒的好去處。
 所以…要不要來化城郭過冬？新鮮水果和蘑菇供應充足，還可以跟著巡林員去打獵（當然，必須在雨林保護條例的允許範圍內），每天都很熱鬧。
-假如你有興趣的話，就來找我吧。期待你讓這裡更加熱鬧。`},q6={character:"tighnari",year:2022,sign:"提納里 2022-12-29",content:`久疏問候，見信安。
+假如你有興趣的話，就來找我吧。期待你讓這裡更加熱鬧。`},Y6={character:"tighnari",year:2022,sign:"提納里 2022-12-29",content:`久疏問候，見信安。
 今天是我的生日，本該邀朋友們一起吃頓便飯，但很不巧，之前答應了阿彌利多學院的系列講座邀請，時間就訂在這幾日，所以實在脫不開身。
 提前為你準備了我覺得最美味的幾種燒菇，希望你喜歡。我做菜的口味比較清淡，你可以按照自己的喜好撒些調味料喔。
 最近雨林的狀態還不錯，你若是想來化城郭暫住的話，隨時歡迎。但冒險時還是要多注意安全，随信附送一些亮晶晶，可以幫你照亮夜路。
-有事記得找巡林員，報我的名字就好！`},I6={character:"zhongli",year:2025,sign:"鍾離 2025-12-31",content:`又是一年歲暮，城裡滿街霄燈，行人絡繹。如此熱火朝天，倒是把凌厲的冬寒驅散了不少。
+有事記得找巡林員，報我的名字就好！`},G6={character:"zhongli",year:2025,sign:"鍾離 2025-12-31",content:`又是一年歲暮，城裡滿街霄燈，行人絡繹。如此熱火朝天，倒是把凌厲的冬寒驅散了不少。
 前些日子聽說書先生說了一段書，裡面有這麼一句：「總務諸司夜不寐，商賈待市遍體寒，日上三竿我未起，想來萬事不如閒。」
 雖是開開玩笑，細思倒也頗有幾分道理。
 人非金石，終日磨礪，恐怕過猶不及。如今恰逢歲末，於此時回顧過往行程，既可賞閒舊事，亦可整理心志，方得從容。
 書裡還說：「忙裡偷閒，才是最閒。」我亦深以為然。
-話至此處，你心中一定早已明瞭。如此好時光，何不同來品茗？`},Y6={character:"zhongli",year:2024,sign:"鍾離 2024-12-31",content:`每逢歲序更新之際，萬物訴寒，璃月港卻比尋常更添幾分熱鬧。
+話至此處，你心中一定早已明瞭。如此好時光，何不同來品茗？`},X6={character:"zhongli",year:2024,sign:"鍾離 2024-12-31",content:`每逢歲序更新之際，萬物訴寒，璃月港卻比尋常更添幾分熱鬧。
 道途人來客往，或僕僕風塵趕往家舍，或嬉笑漫步賞玩風光，又或往來紛紛採辦節禮…各從其志，步履不一，皆為團圓二字。
 慢煮風花，細燉歲月，飯食最能承載著情感與記憶，也是團圓中必不可少的一環。閒暇時分，不妨回璃月走走。如我一般，相信還有諸多親朋都期盼在璃月街頭重遇熟悉的身影。
 想你奔走四方，也積存了不少拿手菜。若你願意一展廚藝，這冬日定能愈加圓滿。
-水已微沸，我們桌邊慢敘。`},G6={character:"zhongli",year:2023,sign:"鍾離 2023-12-31",content:`近日得閒，去了趟翹英莊。一來散心，二來想著年末將至，該給親朋好友備些薄禮了。
+水已微沸，我們桌邊慢敘。`},K6={character:"zhongli",year:2023,sign:"鍾離 2023-12-31",content:`近日得閒，去了趟翹英莊。一來散心，二來想著年末將至，該給親朋好友備些薄禮了。
 沉玉谷山光清奇，水色俊秀，實屬散心漫步之佳地。你若來日有閒，定要親自過去看看。我便是一路緩步行去，回過神來周遭已升起炊煙，飄香入喉。
 歲末天寒，萬物閉藏。此時最應邀兩三親朋圍坐爐火旁，煮上一壺好茶與朋友共敘舊事。
 冬茗入口，想來也能祛濕禦寒，養蓄精力。
-只可惜這茶葉嬌貴，恐經不起路途顛簸，等你來時再沏吧。`},X6={character:"zhongli",year:2022,sign:"鍾離 2022-12-31",content:`又至年未。如此時節，寫信與朋友敘舊乃是傅統。
+只可惜這茶葉嬌貴，恐經不起路途顛簸，等你來時再沏吧。`},Z6={character:"zhongli",year:2022,sign:"鍾離 2022-12-31",content:`又至年未。如此時節，寫信與朋友敘舊乃是傅統。
 近日受堂主所託，到輕策莊走了一趟。如今的輕策莊安寧平和，作物豐饒，諸事順利，觀之如明鏡在心，聞之似雅樂臨身。雅興不可辜負，隨手採了些絕雲椒椒贈予你。
-冬日吃些辣椒對身體有益。若實在不習慣，也可以將它們串成飾物掛在屋間，略增幾分喜慶。`},K6={character:"zhongli",year:2021,sign:"鍾離 2021-12-31",content:`不知不覺，又到了一年最後一日。
+冬日吃些辣椒對身體有益。若實在不習慣，也可以將它們串成飾物掛在屋間，略增幾分喜慶。`},Q6={character:"zhongli",year:2021,sign:"鍾離 2021-12-31",content:`不知不覺，又到了一年最後一日。
 頗為特別的一天，既是結束，也是開始。每逢今日，便會心生感慨。
 時間、故事…塵世間悄然流動著的一切，都會在這日最後一刻首尾相接。
 驚濤巨浪或涓涓細流…總歸是奔湧不息的。
@@ -1274,7 +1283,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 在這般特殊的日子，我也想見見這個世界的明鏡。
 旅行許久的人，也應休憩片刻了。
 若你有空，不妨與我小聚一番。
-共品香茗，定會令人心情愉快。`},Z6={character:"zhongli",year:2020,sign:"鍾離 2020-12-31",content:`今天已是一年最後一日。
+共品香茗，定會令人心情愉快。`},J6={character:"zhongli",year:2020,sign:"鍾離 2020-12-31",content:`今天已是一年最後一日。
 每年此時，當我回顧過往歲月，難免唏嘘。
 「人」之於這個世界，既是激流中的游魚，又是重壓下的植被。
 脆弱也頑強，短暫又雋永⋯不可思議。
@@ -1284,7 +1293,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 常見的那些習俗，我是知道，但你的慶祝方法令我好奇。
 如今的我正在習慣此等充滿塵俗之氣的生活。可惜，閒暇的日子並不比繁忙的日子輕鬆。
 不知可否許我一日空閒？我想四處走走。
-身旁若有你相伴，看慣了的風景或許也能變得新奇。`},bc={wanderer_2026:sT,wanderer_2025:oT,wanderer_2024:uT,wanderer_2023:cT,jahoda_2026:fT,lanyan_2026:hT,thoma_2026:dT,thoma_2025:mT,thoma_2024:gT,thoma_2023:yT,thoma_2022:pT,chevreuse_2026:vT,chevreuse_2025:bT,chevreuse_2024:ST,diona_2026:_T,diona_2025:TT,diona_2024:xT,diona_2023:ET,diona_2022:AT,diona_2021:wT,citlali_2026:MT,citlali_2025:jT,kirara_2026:CT,kirara_2025:zT,kirara_2024:RT,rosaria_2026:DT,rosaria_2025:OT,rosaria_2024:LT,rosaria_2023:NT,rosaria_2022:VT,lyney_2025:UT,lyney_2024:BT,lynette_2025:kT,lynette_2024:HT,alhaitham_2025:qT,alhaitham_2024:IT,alhaitham_2023:YT,beidou_2025:GT,beidou_2024:XT,beidou_2023:KT,beidou_2022:ZT,beidou_2021:QT,"sangonomiya-kokomi_2025":{character:"sangonomiya-kokomi",year:2025,sign:"珊瑚宮心海 2025-02-22",content:`鳴神島正在舉辦「三川花祭」，如你所知，我也參與了遊藝的創作。既能讓海祇島民眾同享人類與妖怪的盛會，又可探討以遊藝為海祇島旅遊方向的可行性。著眼當下和未來，這個祭典正是讓海祇島邁向外界的契機，多投入一些心力無可厚非。
+身旁若有你相伴，看慣了的風景或許也能變得新奇。`},bc={wanderer_2026:sT,wanderer_2025:oT,wanderer_2024:uT,wanderer_2023:cT,jahoda_2026:fT,lanyan_2026:hT,thoma_2026:dT,thoma_2025:mT,thoma_2024:gT,thoma_2023:yT,thoma_2022:pT,chevreuse_2026:vT,chevreuse_2025:bT,chevreuse_2024:ST,diona_2026:_T,diona_2025:TT,diona_2024:xT,diona_2023:ET,diona_2022:AT,diona_2021:wT,citlali_2026:MT,citlali_2025:jT,kirara_2026:CT,kirara_2025:zT,kirara_2024:RT,rosaria_2026:DT,rosaria_2025:OT,rosaria_2024:LT,rosaria_2023:NT,rosaria_2022:VT,lyney_2026:UT,lyney_2025:BT,lyney_2024:kT,lynette_2026:HT,lynette_2025:qT,lynette_2024:IT,alhaitham_2025:YT,alhaitham_2024:GT,alhaitham_2023:XT,beidou_2025:KT,beidou_2024:ZT,beidou_2023:QT,beidou_2022:JT,beidou_2021:FT,"sangonomiya-kokomi_2025":{character:"sangonomiya-kokomi",year:2025,sign:"珊瑚宮心海 2025-02-22",content:`鳴神島正在舉辦「三川花祭」，如你所知，我也參與了遊藝的創作。既能讓海祇島民眾同享人類與妖怪的盛會，又可探討以遊藝為海祇島旅遊方向的可行性。著眼當下和未來，這個祭典正是讓海祇島邁向外界的契機，多投入一些心力無可厚非。
 只是，創作中頻繁的聚議，比預想中更耗費能量…
 所幸，閒聊間，刑部小判提起跟你玩過的追趕遊戲「黃毛，抓住，又抓不住！」。僅僅是想像著這個畫面，心情就歡暢許多…
 不知你有沒有興趣重溫這種遊戲呢？我備了些錦囊，加入新的規則，不為決勝，只為再添相聚之樂。`},"sangonomiya-kokomi_2024":{character:"sangonomiya-kokomi",year:2024,sign:"珊瑚宮心海 2024-02-22",content:`最近這段時間我時常思考，和平來之不易，作為「現人神巫女」，現在我能為大家做的事情應當比過去更多。
@@ -1304,11 +1313,11 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 拿我自己來說吧。就算缺乏能量，我也不是每次都會鑽進書裡。像今天這種日子，我會比較想去海裡潛水。
 被海水輕柔地環抱托起，面對一望無際的蔚藍與自由起舞的魚群，不論是怎樣的煩惱都會消失。
 這份快樂，希望能與你共享。
-不如說…我還挺期待與你的見面。`},bennett_2025:JT,bennett_2024:FT,bennett_2023:PT,bennett_2022:$T,bennett_2021:WT,qiqi_2025:tx,qiqi_2024:ex,qiqi_2023:nx,qiqi_2022:ax,qiqi_2021:ix,yaoyao_2025:lx,yaoyao_2024:rx,yaoyao_2023:sx,shenhe_2025:ox,shenhe_2024:ux,shenhe_2023:cx,shenhe_2022:fx,xilonen_2025:hx,jean_2025:dx,jean_2024:mx,jean_2023:gx,jean_2022:yx,jean_2021:px,"yumemizuki-mizuki_2025":{character:"yumemizuki-mizuki",year:2025,sign:"夢見月瑞希 2025-03-16",content:`心理學上有種說法：「人們意識到自己的存在獨一無二、真切受到他人的重視時，將獲得極大的幸福感，有些煩憂也會隨之消解。」
+不如說…我還挺期待與你的見面。`},bennett_2025:PT,bennett_2024:$T,bennett_2023:WT,bennett_2022:tx,bennett_2021:ex,qiqi_2025:nx,qiqi_2024:ax,qiqi_2023:ix,qiqi_2022:lx,qiqi_2021:rx,yaoyao_2025:sx,yaoyao_2024:ox,yaoyao_2023:ux,shenhe_2025:cx,shenhe_2024:fx,shenhe_2023:hx,shenhe_2022:dx,xilonen_2025:mx,jean_2025:gx,jean_2024:yx,jean_2023:px,jean_2022:vx,jean_2021:bx,"yumemizuki-mizuki_2025":{character:"yumemizuki-mizuki",year:2025,sign:"夢見月瑞希 2025-03-16",content:`心理學上有種說法：「人們意識到自己的存在獨一無二、真切受到他人的重視時，將獲得極大的幸福感，有些煩憂也會隨之消解。」
 每個人誕生的時刻，便是其特別存在的證明之一。
 為此，「秋沙錢湯」預計從明日起開始接受「生日慶典」的承辦委託。根據客人的心意，慶典規模從小到大、從安逸閒適到熱鬧火爆，都可以客製化。若是尚沒有詳細規劃，我也會提供幾種預選方案。對此，我很有自信…
 但要是你今夜願意陪我進行一場「試行」慶典，那就再好不過了。
-料理、點心、香氛和音樂，我都會選用最高規格，應當能讓你享受一段不錯的閒暇時光…`},noelle_2025:vx,noelle_2024:bx,noelle_2023:Sx,noelle_2022:_x,noelle_2021:Tx,"kamisato-ayato_2025":{character:"kamisato-ayato",year:2025,sign:"神里綾人 2025-03-26",content:`前些日子，託人從璃月沉玉谷帶的一批新茶終於到了。
+料理、點心、香氛和音樂，我都會選用最高規格，應當能讓你享受一段不錯的閒暇時光…`},noelle_2025:Sx,noelle_2024:_x,noelle_2023:Tx,noelle_2022:xx,noelle_2021:Ex,"kamisato-ayato_2025":{character:"kamisato-ayato",year:2025,sign:"神里綾人 2025-03-26",content:`前些日子，託人從璃月沉玉谷帶的一批新茶終於到了。
 芽葉初展，色澤青翠，如此好茶自然是要和良友一同品味。
 常聽人說新茶配故知，又聽聞你對各地佳茗均有涉獵…若你方便，不妨來神里屋敷小聚吧。
 放心，今晚是家宴，沒有冗繁贅餘的儀式。綾華和托馬已經做好準備，等著你了。
@@ -1323,7 +1332,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 粗茶淡飯過後，若是還想再尋些雅趣，不妨與我一同坐於廊下，品茗雕花。
 藉由晶核中的元素力，鮮花綻放之姿將得以留存，也算將這滿庭春光留駐片刻。
 至於以劍刻出花型的關鍵一步，我會先做示範。熟能生巧，想必難不倒武藝高強的你。
-我已命人備齊材料，望你來訪。`},sigewinne_2025:xx,dehya_2025:Ex,dehya_2024:Ax,dehya_2023:wx,charlotte_2025:Mx,charlotte_2024:jx,xianyun_2025:Cx,xianyun_2024:zx,xiao_2025:Rx,xiao_2024:Dx,xiao_2023:Ox,xiao_2022:Lx,xiao_2021:Nx,yelan_2025:Vx,yelan_2024:Ux,yelan_2023:Bx,kachina_2025:kx,baizhu_2025:Hx,baizhu_2024:qx,diluc_2025:Ix,diluc_2024:Yx,diluc_2023:Gx,diluc_2022:Xx,diluc_2021:Kx,candace_2025:Zx,candace_2024:Qx,candace_2023:Jx,collei_2025:Fx,collei_2024:Px,collei_2023:$x,gorou_2025:Wx,gorou_2024:tE,gorou_2023:eE,gorou_2022:nE,yunjin_2025:aE,yunjin_2024:iE,yunjin_2023:lE,yunjin_2022:rE,fischl_2025:sE,fischl_2024:oE,fischl_2023:uE,fischl_2022:cE,fischl_2021:fE,sethos_2025:hE,paimon_2025:dE,paimon_2024:mE,paimon_2023:gE,paimon_2022:yE,paimon_2021:pE,"arataki-itto_2025":{character:"arataki-itto",year:2025,sign:"荒瀧一斗 2025-06-01",content:`八重堂的編輯說，購買至尊特典版閒事月刊，就能獲得寫長信給希娜小姐的特權，所以本大爺存了好幾個月摩拉。沒想到信寄出去後，阿忍才提醒我期刊末尾有一行小字「字數請控制在三頁信紙內，溢出部分預設同意裁切」…
+我已命人備齊材料，望你來訪。`},sigewinne_2025:Ax,dehya_2025:wx,dehya_2024:Mx,dehya_2023:jx,charlotte_2025:Cx,charlotte_2024:zx,xianyun_2025:Rx,xianyun_2024:Dx,xiao_2025:Ox,xiao_2024:Lx,xiao_2023:Nx,xiao_2022:Vx,xiao_2021:Ux,yelan_2025:Bx,yelan_2024:kx,yelan_2023:Hx,kachina_2025:qx,baizhu_2025:Ix,baizhu_2024:Yx,diluc_2025:Gx,diluc_2024:Xx,diluc_2023:Kx,diluc_2022:Zx,diluc_2021:Qx,candace_2025:Jx,candace_2024:Fx,candace_2023:Px,collei_2025:$x,collei_2024:Wx,collei_2023:tE,gorou_2025:eE,gorou_2024:nE,gorou_2023:aE,gorou_2022:iE,yunjin_2025:lE,yunjin_2024:rE,yunjin_2023:sE,yunjin_2022:oE,fischl_2025:uE,fischl_2024:cE,fischl_2023:fE,fischl_2022:hE,fischl_2021:dE,sethos_2025:mE,paimon_2025:gE,paimon_2024:yE,paimon_2023:pE,paimon_2022:vE,paimon_2021:bE,"arataki-itto_2025":{character:"arataki-itto",year:2025,sign:"荒瀧一斗 2025-06-01",content:`八重堂的編輯說，購買至尊特典版閒事月刊，就能獲得寫長信給希娜小姐的特權，所以本大爺存了好幾個月摩拉。沒想到信寄出去後，阿忍才提醒我期刊末尾有一行小字「字數請控制在三頁信紙內，溢出部分預設同意裁切」…
 什麼意思？難道說，我寫了三頁鄭重介紹完自己後，叫阿忍教的讚美成語、最真情流露的部分，還有本大爺的帥氣自畫像…希娜小姐完全收不到？對嗎？
 哈哈！不可能！如果希娜小姐沒有從字裡行間讀懂我的內心，今天我又怎麼會收到她的回信呢？這表示她認可我！
 來吧摯友！我要請你跟我一起拆封、一起朗誦、一起見證希娜小姐對我的真心！`},"arataki-itto_2024":{character:"arataki-itto",year:2024,sign:"荒瀧一斗 2024-06-01",content:`韶光荏苒，歲月如俊啊，相信摯友早有耳聞，在本大爺的英明領導者下，荒瀧派銳意堂堂，不論是鬥蟲試合還是豪歌會，都登上了更大的舞臺！
@@ -1335,7 +1344,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 至於慶祝活動嘛，不說什麼驚天動地，至少也要轟轟烈烈吧？
 放煙花就算了，處理起來麻煩。鬥蟲打牌，我是贏定了…但今天誰都別給我輸！
 不如…還是烤堇瓜吧？氣氛十足，還不容易出問題。排場必須火熱，烤十個，我說的！
-哈，荒瀧壽比影向山一斗！`},escoffier_2025:vE,lisa_2025:bE,lisa_2024:SE,lisa_2023:_E,lisa_2022:TE,lisa_2021:xE,venti_2025:EE,venti_2024:AE,venti_2023:wE,venti_2022:ME,venti_2021:jE,yoimiya_2025:CE,yoimiya_2024:zE,yoimiya_2023:RE,yoimiya_2022:DE,cyno_2025:OE,cyno_2024:LE,cyno_2023:NE,"raiden-shogun_2025":{character:"raiden-shogun",year:2025,sign:"雷電影 2025-06-26",content:`前些日子我獨自去了趟「秋沙錢湯」，在湯泉中閉眼冥想，前塵影事輪番湧現，其中不乏與你相關的光景…你的踏足，起初被我視為擾亂，其後卻漾開未曾預料的漣漪，推動著我，乃至稻妻前行至今。三川花祭後，也許你已經感知到我心境的變化，如今憶起故友，比起傷感，我會更懷念她們永不褪色的笑顏。
+哈，荒瀧壽比影向山一斗！`},escoffier_2025:SE,lisa_2025:_E,lisa_2024:TE,lisa_2023:xE,lisa_2022:EE,lisa_2021:AE,venti_2025:wE,venti_2024:ME,venti_2023:jE,venti_2022:CE,venti_2021:zE,yoimiya_2025:RE,yoimiya_2024:DE,yoimiya_2023:OE,yoimiya_2022:LE,cyno_2025:NE,cyno_2024:VE,cyno_2023:UE,"raiden-shogun_2025":{character:"raiden-shogun",year:2025,sign:"雷電影 2025-06-26",content:`前些日子我獨自去了趟「秋沙錢湯」，在湯泉中閉眼冥想，前塵影事輪番湧現，其中不乏與你相關的光景…你的踏足，起初被我視為擾亂，其後卻漾開未曾預料的漣漪，推動著我，乃至稻妻前行至今。三川花祭後，也許你已經感知到我心境的變化，如今憶起故友，比起傷感，我會更懷念她們永不褪色的笑顏。
 也許正是在不斷的「轉變」下，「永恆」的光華才得以逐漸顯現。呵，如此說來，我是否也該試著轉換多年來的口味，嚐嚐別的點心？
 吃食已備好，想聽聽你的意見。
 對了，我指的是，別的甜點。唯有甜味的點心，方能立於永恆之法則中。`},"raiden-shogun_2024":{character:"raiden-shogun",year:2024,sign:"雷電影 2024-06-26",content:`今天一早我收到了神子送來的甜點心，那傢伙說她想趁生日的時候「大鬧一場」，又叫我也要「好好把握現在的機會」。
@@ -1358,7 +1367,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 不如，小傢伙你也來當評審吧？陪在我旁邊聊聊天，順帶享受臺下作家們焦頭爛額構思情節的樣子…不覺得很棒嗎？`},"yae-miko_2022":{character:"yae-miko",year:2022,sign:"八重神子 2022-06-27",content:`呵呵，今天又是我寫信給你呢。一想到明天就收不到我的信了，小傢伙，你該不會連讀都捨不得讀吧？
 放心，讀不讀都沒什麼關係，我是不會把膩人的話用這種形式向你傳達的。有趣的人、有趣的反應…當面接觸才有意思。
 啊，對了，閒著的時候順手摘了點緋櫻繡球。想要永久保存的話，就拿去做成書籤，夾在你最喜歡的輕小說裡吧。
-或者…就由我親自推薦一本給你？`},barbara_2025:VE,barbara_2024:UE,barbara_2023:BE,barbara_2022:kE,barbara_2021:HE,kaveh_2025:qE,kaveh_2024:IE,kaveh_2023:YE,"kujou-sara_2025":{character:"kujou-sara",year:2025,sign:"九條裟羅 2025-07-14",content:`承蒙珊瑚宮軍師此前相邀，近期幕府軍內事務稍緩，得暇赴海祇島一遊。此行未以天領奉行之職示人，僅作尋常旅者遊覽。
+或者…就由我親自推薦一本給你？`},barbara_2025:BE,barbara_2024:kE,barbara_2023:HE,barbara_2022:qE,barbara_2021:IE,kaveh_2025:YE,kaveh_2024:GE,kaveh_2023:XE,"kujou-sara_2025":{character:"kujou-sara",year:2025,sign:"九條裟羅 2025-07-14",content:`承蒙珊瑚宮軍師此前相邀，近期幕府軍內事務稍緩，得暇赴海祇島一遊。此行未以天領奉行之職示人，僅作尋常旅者遊覽。
 海祇風光確如傳聞般奇絕，令人心爽神怡。漁夫邀我同乘小船採珠，老嫗贈我新編的珊瑚手串，孩童赤腳追著浪花嬉鬧，將拾到的鰍鰍寶玉遞進我手心…但因缺乏類似經歷，除卻道謝之語，我並不知曉應當如何回應民眾白浪般盛情。當以摩拉回報？或用禮品回贈？此事屬實失算。
 聽聞你在海祇島的事蹟，想來亦熟知此地風土人情，若得點撥，將來再遊海祇或能少些侷促。`},"kujou-sara_2024":{character:"kujou-sara",year:2024,sign:"九條裟羅 2024-07-14",content:`近日，幕府軍天領奉行一部開始了為期半月的休整，我也空閒下來，得以深入養護常用的戰弓。
 稻妻的古話說「萬物有靈」。弓道大師則會教導弟子：「拭弓護弦時，要將信念注入弓體之中。」
@@ -1376,7 +1385,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 身為天領奉行的大將，我肩負著維護稻妻城安定的重任。與你切磋是一種試煉，我想以此驗證自身武藝是否有所精進。
 既是切磋，我不會使用神之眼，你也無須驅動元素力。
 除此之外，不必手下留情，讓我領教你的實力。
-另：場地的佈置與事後清理均由我負責，你準時到場即可。`},hutao_2025:GE,hutao_2024:XE,hutao_2023:KE,hutao_2022:ZE,hutao_2021:QE,tartaglia_2025:JE,tartaglia_2024:FE,tartaglia_2023:PE,tartaglia_2022:$E,tartaglia_2021:WE,"shikanoin-heizou_2025":{character:"shikanoin-heizou",year:2025,sign:"鹿野院平藏 2025-07-24",content:`在這特別的一天，勤勞的鹿野院同心依舊堅持在花見坂巡邏。或許是某種暗示，油鍋裡的劈啪聲突然傳到他的耳邊——哎呀呀，看來今日的「驚喜」案件在油星飛濺的瞬間就留下決定性證據了呢！
+另：場地的佈置與事後清理均由我負責，你準時到場即可。`},hutao_2025:KE,hutao_2024:ZE,hutao_2023:QE,hutao_2022:JE,hutao_2021:FE,tartaglia_2025:PE,tartaglia_2024:$E,tartaglia_2023:WE,tartaglia_2022:tA,tartaglia_2021:eA,"shikanoin-heizou_2025":{character:"shikanoin-heizou",year:2025,sign:"鹿野院平藏 2025-07-24",content:`在這特別的一天，勤勞的鹿野院同心依舊堅持在花見坂巡邏。或許是某種暗示，油鍋裡的劈啪聲突然傳到他的耳邊——哎呀呀，看來今日的「驚喜」案件在油星飛濺的瞬間就留下決定性證據了呢！
 跟攤主進行了一些口味的提醒後，裹著焦糖色酥脆外衣的大肉排已作為關鍵「證物」被我扣押，連帶的沾料也一起捕獲。沒記錯的話，這個口味正是你喜歡的。
 呵呵，手握信箋的你，能否協助我「結案」呢？有你這位默契十足的「證人」加入，我心目中的完美「生日驚喜」才算成立。
 什麼都不需要準備，謹記空腹前來哦。`},"shikanoin-heizou_2024":{character:"shikanoin-heizou",year:2024,sign:"鹿野院平藏 2024-07-24",content:`哎呀呀，聽聞了你的精彩近況，我被深深感染，一口氣看完了許多疑案卷宗。說到這個——
@@ -1390,7 +1399,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 可是我現在卻很為難，煩惱得連晚餐都要吃不下去了。你看，我不能直接邀請你做客，萬一被你覺得我是在拐彎抹角地索要禮物，那就完蛋了。我們的友誼才剛剛起步，我可不想被你定義成一個過分的人，從此以後敬而遠之。
 哦！不如這樣吧，你幫我解決這個想見你又怕冒犯你的困境，我也幫你處理一個你想要解開的謎題。
 要是覺得一個不夠…兩個也行。我喜歡你多賺一點。
-別愣著哦？你知道能在哪裡見到我的。`},klee_2025:tA,klee_2024:eA,klee_2023:nA,klee_2022:aA,klee_2021:iA,"kuki-shinobu_2025":{character:"kuki-shinobu",year:2025,sign:"久岐忍 2025-07-27",content:`今天，家裡託人帶來了一些用鳴草製作的香囊和掛飾，東西本身不算特別，但捏在手裡的感覺…很不一樣。這是我離家出走後第一次收到他們如此純粹的問候，沒有打壓，也沒有像往常那樣勸我回家，只祝願我順利、平安且健康。曾經的分歧和束縛，此刻變成了小心翼翼的關心…
+別愣著哦？你知道能在哪裡見到我的。`},klee_2025:nA,klee_2024:aA,klee_2023:iA,klee_2022:lA,klee_2021:rA,"kuki-shinobu_2025":{character:"kuki-shinobu",year:2025,sign:"久岐忍 2025-07-27",content:`今天，家裡託人帶來了一些用鳴草製作的香囊和掛飾，東西本身不算特別，但捏在手裡的感覺…很不一樣。這是我離家出走後第一次收到他們如此純粹的問候，沒有打壓，也沒有像往常那樣勸我回家，只祝願我順利、平安且健康。曾經的分歧和束縛，此刻變成了小心翼翼的關心…
 即便有了家人的支持，要做的委託也不會變少，要考的證書難度也不會降低，但內心多了點「堅持下去」的力量，也算一種積極的心理暗示吧。
 我用了其中幾支帶有家人祝福的鳴草，做成輕便的手環。也願它能在你前路迷茫時，為你傳遞支持和力量。`},"kuki-shinobu_2024":{character:"kuki-shinobu",year:2024,sign:"久岐忍 2024-07-27",content:`唉。老闆他們明顯狂熱過頭了，最近總熱衷於把所有事情的排場鬧大，幾天前我就發現他們在偷偷摸摸搭生日會的舞台了…
 不過萬幸的是，為了給我驚喜，他們全程瞞著我。按照近幾次荒瀧派舉辦活動的經驗，缺少我或你的助力，最終計畫失敗也是可預料的結果…
@@ -1402,7 +1411,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 都那麼久了，還真是不長記性啊…算了，這也是他們讓人放心不下的地方。
 說起來，你現在有時間嗎？要不要一起出去走走，就我們兩個。
 平常你對我關照有加，我都記在心裡。感謝的話，還是得當面說才夠誠懇。
-我閒著沒事的時候，又琢磨出了點鳴草的特殊用法，也想向你展示看看…`},yanfei_2025:lA,yanfei_2024:rA,yanfei_2023:sA,yanfei_2022:oA,yanfei_2021:uA,mualani_2025:cA,iansan_2025:fA,amber_2025:hA,amber_2024:dA,amber_2023:mA,amber_2022:gA,amber_2021:yA,mika_2025:pA,mika_2024:vA,mika_2023:bA,navia_2025:SA,navia_2024:_A,chiori_2025:TA,chiori_2024:xA,faruzan_2025:EA,faruzan_2024:AA,faruzan_2023:wA,arlecchino_2025:MA,arlecchino_2024:jA,ningguang_2025:CA,ningguang_2024:zA,ningguang_2023:RA,ningguang_2022:DA,ningguang_2021:OA,mavuika_2025:LA,mona_2025:NA,mona_2024:VA,mona_2023:UA,mona_2022:BA,mona_2021:kA,chongyun_2025:HA,chongyun_2024:qA,chongyun_2023:IA,chongyun_2022:YA,chongyun_2021:GA,razor_2025:XA,razor_2024:KA,razor_2023:ZA,razor_2022:QA,razor_2021:JA,albedo_2025:FA,albedo_2024:PA,albedo_2023:$A,albedo_2022:WA,albedo_2021:tw,clorinde_2025:ew,clorinde_2024:nw,aino_2025:aw,emilie_2025:iw,emilie_2024:lw,freminet_2025:rw,freminet_2024:sw,freminet_2023:ow,"kamisato-ayaka_2025":{character:"kamisato-ayaka",year:2025,sign:"神里綾華 2025-09-28",content:`庭前秋色漸濃，風過迴廊也添上幾分涼意，原來又到生辰了。
+我閒著沒事的時候，又琢磨出了點鳴草的特殊用法，也想向你展示看看…`},yanfei_2025:sA,yanfei_2024:oA,yanfei_2023:uA,yanfei_2022:cA,yanfei_2021:fA,mualani_2025:hA,iansan_2025:dA,amber_2025:mA,amber_2024:gA,amber_2023:yA,amber_2022:pA,amber_2021:vA,mika_2025:bA,mika_2024:SA,mika_2023:_A,navia_2025:TA,navia_2024:xA,chiori_2025:EA,chiori_2024:AA,faruzan_2025:wA,faruzan_2024:MA,faruzan_2023:jA,arlecchino_2025:CA,arlecchino_2024:zA,ningguang_2025:RA,ningguang_2024:DA,ningguang_2023:OA,ningguang_2022:LA,ningguang_2021:NA,mavuika_2025:VA,mona_2025:UA,mona_2024:BA,mona_2023:kA,mona_2022:HA,mona_2021:qA,chongyun_2025:IA,chongyun_2024:YA,chongyun_2023:GA,chongyun_2022:XA,chongyun_2021:KA,razor_2025:ZA,razor_2024:QA,razor_2023:JA,razor_2022:FA,razor_2021:PA,albedo_2025:$A,albedo_2024:WA,albedo_2023:tw,albedo_2022:ew,albedo_2021:nw,clorinde_2025:aw,clorinde_2024:iw,aino_2025:lw,emilie_2025:rw,emilie_2024:sw,freminet_2025:ow,freminet_2024:uw,freminet_2023:cw,"kamisato-ayaka_2025":{character:"kamisato-ayaka",year:2025,sign:"神里綾華 2025-09-28",content:`庭前秋色漸濃，風過迴廊也添上幾分涼意，原來又到生辰了。
 也不知挪德卡萊，那片北境疆域…會受風雪的侵擾嗎？懷著這樣的擔憂，我向托馬請教了異邦的編織技法。略習得一二，便嘗試著織了這條圍巾…
 我唯恐自己技巧生疏，未能來得及在天寒之前完成，便將它日夜帶在身邊，抽空編織。有一日去木漏茶室時，太郎丸乖巧地在一旁望著我編織，彷彿屏息凝神。它像是明白這份禮物的珍貴，這也令我感到寬慰。
 請擇時與我相見吧。願在寒夜迫近時，它能為你攏住一絲暖意。`},"kamisato-ayaka_2024":{character:"kamisato-ayaka",year:2024,sign:"神里綾華 2024-09-28",content:`似乎，從沒找到適合的機會當面詢問…你會在怎樣的日子裡翻看以前的畫片呢？是因為某一日的心血來潮，在翻找東西時瞥見了它們，還是說，你和我有著類似的習慣，會將珍貴的回憶小心翼翼地放在自己的床頭？
@@ -1422,7 +1431,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 還請不要太勞累了，照顧好自己和派蒙。
 另外，有個不情之請…
 或許有些任性，但唯有今天，希望能見你一面。
-若不嫌棄，就請於今夜到櫻樹下與我相見吧。這個時節，月光非常美麗…願有幸與你一同欣賞。`},xingqiu_2025:uw,xingqiu_2024:cw,xingqiu_2023:fw,xingqiu_2022:hw,xingqiu_2021:dw,xingqiu_2020:mw,furina_2025:gw,furina_2024:yw,ororon_2025:pw,xinyan_2025:vw,xinyan_2024:bw,xinyan_2023:Sw,xinyan_2022:_w,xinyan_2021:Tw,sayu_2025:xw,sayu_2024:Ew,sayu_2023:Aw,sayu_2022:ww,sayu_2021:Mw,eula_2025:jw,eula_2024:Cw,eula_2023:zw,eula_2022:Rw,eula_2021:Dw,nahida_2025:Ow,nahida_2024:Lw,nahida_2023:Nw,"kaedehara-kazuha_2025":{character:"kaedehara-kazuha",year:2025,sign:"楓原萬葉 2025-10-29",content:`晨起時分，「死兆星」暫泊於無名岸畔。我將麵包屑撒在甲板，看海鷗爭食後遠翔。心念微動：倦鳥尚有歸巢，蒼茫天地間，何處才能繫住旅人漂泊的塵心？
+若不嫌棄，就請於今夜到櫻樹下與我相見吧。這個時節，月光非常美麗…願有幸與你一同欣賞。`},xingqiu_2025:fw,xingqiu_2024:hw,xingqiu_2023:dw,xingqiu_2022:mw,xingqiu_2021:gw,xingqiu_2020:yw,furina_2025:pw,furina_2024:vw,ororon_2025:bw,xinyan_2025:Sw,xinyan_2024:_w,xinyan_2023:Tw,xinyan_2022:xw,xinyan_2021:Ew,sayu_2025:Aw,sayu_2024:ww,sayu_2023:Mw,sayu_2022:jw,sayu_2021:Cw,eula_2025:zw,eula_2024:Rw,eula_2023:Dw,eula_2022:Ow,eula_2021:Lw,nahida_2025:Nw,nahida_2024:Vw,nahida_2023:Uw,"kaedehara-kazuha_2025":{character:"kaedehara-kazuha",year:2025,sign:"楓原萬葉 2025-10-29",content:`晨起時分，「死兆星」暫泊於無名岸畔。我將麵包屑撒在甲板，看海鷗爭食後遠翔。心念微動：倦鳥尚有歸巢，蒼茫天地間，何處才能繫住旅人漂泊的塵心？
 恰是此時，白帆飲風，錨鏈入水的清響與濤聲相和。此身驟然一輕，恍若浮萍一葉，無根無繫，卻也無礙無滯。行止藏露，去留隨心，本就在方寸一念。若得此心自在，天涯海角，何處不是歸處？
 聽聞你的步履已踏入挪德卡萊，無論何時泊入港灣，抑或何處山林偶遇，都願與你再度並肩，盼你講述月光下的奇遇。
 前路或逢驟雨雷霆，然清風常在，自會拂盡陰雲。
@@ -1444,11 +1453,11 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
 只是旅鳥哀鳴，心中難免惻隱。
 流浪慣了，卻也會渴求停泊的港灣。向光向暖而行，應當是人之常情吧。
 說來，早晨的風告訴我，今日將有貴人來訪。我提前備了好茶，你若能留下用飯就更好了，再烤上一條魚，我們一同享用。這是我所喜愛的、濃縮了海味的菜餚。稍顯簡樸，但願能合你口味。
-既然風說你會來，依循風的指引，必能牽起我你二人之間的「緣」。`},flins_2025:Vw,xiangling_2025:Uw,xiangling_2024:Bw,xiangling_2023:kw,xiangling_2022:Hw,xiangling_2021:qw,xiangling_2020:Iw,skirk_2025:Yw,kinich_2025:Gw,kinich_2024:Xw,varesa_2025:Kw,keqing_2025:Zw,keqing_2024:Qw,keqing_2023:Jw,keqing_2022:Fw,keqing_2021:Pw,keqing_2020:$w,wriothesley_2025:Ww,wriothesley_2024:t6,wriothesley_2023:e6,sucrose_2025:n6,sucrose_2024:a6,sucrose_2023:i6,sucrose_2022:l6,sucrose_2021:r6,sucrose_2020:s6,kaeya_2025:o6,kaeya_2024:u6,kaeya_2023:c6,kaeya_2022:f6,kaeya_2021:h6,kaeya_2020:d6,ganyu_2025:m6,ganyu_2024:g6,ganyu_2023:y6,ganyu_2022:p6,ganyu_2021:v6,nilou_2025:b6,nilou_2024:S6,nilou_2023:_6,nilou_2022:T6,chasca_2025:x6,chasca_2024:E6,neuvillette_2025:A6,neuvillette_2024:w6,neuvillette_2023:M6,layla_2025:j6,layla_2024:C6,layla_2023:z6,layla_2022:R6,dori_2025:D6,dori_2024:O6,dori_2023:L6,dori_2022:N6,gaming_2025:V6,gaming_2024:U6,tighnari_2025:B6,tighnari_2024:k6,tighnari_2023:H6,tighnari_2022:q6,zhongli_2025:I6,zhongli_2024:Y6,zhongli_2023:G6,zhongli_2022:X6,zhongli_2021:K6,zhongli_2020:Z6};function Q6(){E.useEffect(()=>{document.title="原神角色生日信件"},[]);const{regionId:a}=Mb(),i=_i(),[r,s]=E.useState(null),[c,f]=E.useState(!1),[h,y]=E.useState(null),g=Ts.find(O=>O.id===a),m=lT.filter(O=>O.regionId===a),p=m.length,b=6,S=E.useMemo(()=>m,[m]),w=rT.find(O=>O[r])?.[r]||{},z=Object.entries(w).sort(([O],[K])=>Number(K)-Number(O)).flatMap(([,O])=>O),L=z.find(O=>O.letterId===h)||null,U=m.findIndex(O=>O.id===r);let D=0;U<=1?D=0:U>=p-3?D=Math.max(0,p-b):D=U-2;const B=m.slice(D,D+b),H=E.useCallback(()=>{s(O=>{if(!O)return S[0]?.id;const K=S.findIndex(Q=>Q.id===O);if(K===-1)return S[0]?.id;const X=(K-1+S.length)%S.length;return S[X].id})},[S]),J=E.useCallback(()=>{s(O=>{if(!O)return S[0]?.id;const K=S.findIndex(Q=>Q.id===O);if(K===-1)return S[0]?.id;const X=(K+1)%S.length;return S[X].id})},[S]);return E.useEffect(()=>{const O=K=>{K.key==="ArrowLeft"?H():K.key==="ArrowRight"&&J()};return window.addEventListener("keydown",O),()=>{window.removeEventListener("keydown",O)}},[H,J]),Y.jsxs("div",{className:"flex h-screen w-screen text-white relative",children:[Y.jsx(we.div,{className:"absolute top-12 z-20 cursor-pointer",initial:{x:-200,opacity:0},animate:{x:0,opacity:1},transition:{type:"spring",stiffness:100,damping:20,mass:.5},onClick:()=>i("/region"),children:Y.jsxs("div",{className:"relative w-24 h-16",children:[Y.jsx("img",{src:"/GenshinTool/images/icon/return_bg.png",alt:"bg",className:"absolute inset-0 w-full h-full object-contain"}),Y.jsx("img",{src:"/GenshinTool/images/icon/return.png",alt:"home",className:`absolute inset-0 top-2 left-4 w-12 h-12 object-contain\r
+既然風說你會來，依循風的指引，必能牽起我你二人之間的「緣」。`},flins_2025:Bw,xiangling_2025:kw,xiangling_2024:Hw,xiangling_2023:qw,xiangling_2022:Iw,xiangling_2021:Yw,xiangling_2020:Gw,skirk_2025:Xw,kinich_2025:Kw,kinich_2024:Zw,varesa_2025:Qw,keqing_2025:Jw,keqing_2024:Fw,keqing_2023:Pw,keqing_2022:$w,keqing_2021:Ww,keqing_2020:t6,wriothesley_2025:e6,wriothesley_2024:n6,wriothesley_2023:a6,sucrose_2025:i6,sucrose_2024:l6,sucrose_2023:r6,sucrose_2022:s6,sucrose_2021:o6,sucrose_2020:u6,kaeya_2025:c6,kaeya_2024:f6,kaeya_2023:h6,kaeya_2022:d6,kaeya_2021:m6,kaeya_2020:g6,ganyu_2025:y6,ganyu_2024:p6,ganyu_2023:v6,ganyu_2022:b6,ganyu_2021:S6,nilou_2025:_6,nilou_2024:T6,nilou_2023:x6,nilou_2022:E6,chasca_2025:A6,chasca_2024:w6,neuvillette_2025:M6,neuvillette_2024:j6,neuvillette_2023:C6,layla_2025:z6,layla_2024:R6,layla_2023:D6,layla_2022:O6,dori_2025:L6,dori_2024:N6,dori_2023:V6,dori_2022:U6,gaming_2025:B6,gaming_2024:k6,tighnari_2025:H6,tighnari_2024:q6,tighnari_2023:I6,tighnari_2022:Y6,zhongli_2025:G6,zhongli_2024:X6,zhongli_2023:K6,zhongli_2022:Z6,zhongli_2021:Q6,zhongli_2020:J6};function F6(){E.useEffect(()=>{document.title="原神角色生日信件"},[]);const{regionId:a}=Mb(),i=_i(),[r,s]=E.useState(null),[c,f]=E.useState(!1),[h,y]=E.useState(null),g=Ts.find(O=>O.id===a),m=lT.filter(O=>O.regionId===a),p=m.length,b=6,S=E.useMemo(()=>m,[m]),w=rT.find(O=>O[r])?.[r]||{},z=Object.entries(w).sort(([O],[K])=>Number(K)-Number(O)).flatMap(([,O])=>O),L=z.find(O=>O.letterId===h)||null,U=m.findIndex(O=>O.id===r);let D=0;U<=1?D=0:U>=p-3?D=Math.max(0,p-b):D=U-2;const B=m.slice(D,D+b),H=E.useCallback(()=>{s(O=>{if(!O)return S[0]?.id;const K=S.findIndex(Q=>Q.id===O);if(K===-1)return S[0]?.id;const X=(K-1+S.length)%S.length;return S[X].id})},[S]),J=E.useCallback(()=>{s(O=>{if(!O)return S[0]?.id;const K=S.findIndex(Q=>Q.id===O);if(K===-1)return S[0]?.id;const X=(K+1)%S.length;return S[X].id})},[S]);return E.useEffect(()=>{const O=K=>{K.key==="ArrowLeft"?H():K.key==="ArrowRight"&&J()};return window.addEventListener("keydown",O),()=>{window.removeEventListener("keydown",O)}},[H,J]),Y.jsxs("div",{className:"flex h-screen w-screen text-white relative",children:[Y.jsx(we.div,{className:"absolute top-12 z-20 cursor-pointer",initial:{x:-200,opacity:0},animate:{x:0,opacity:1},transition:{type:"spring",stiffness:100,damping:20,mass:.5},onClick:()=>i("/region"),children:Y.jsxs("div",{className:"relative w-24 h-16",children:[Y.jsx("img",{src:"/GenshinTool/images/icon/return_bg.png",alt:"bg",className:"absolute inset-0 w-full h-full object-contain"}),Y.jsx("img",{src:"/GenshinTool/images/icon/return.png",alt:"home",className:`absolute inset-0 top-2 left-4 w-12 h-12 object-contain\r
                  hover:scale-110 transition-transform duration-200`})]})}),g?.bg&&Y.jsx("img",{src:`/GenshinTool/${g.bg}`,alt:`${g.name} bg`,className:"absolute inset-0 w-full h-full object-cover z-0"}),Y.jsx("div",{className:"absolute inset-0 bg-black/20 z-0 backdrop-blur-sm shadow-xl"}),Y.jsx(we.div,{className:"w-48 flex flex-col pt-48 items-start z-10 space-y-6 relative",initial:{x:-200,opacity:0},animate:{x:0,opacity:1},transition:{type:"spring",stiffness:100,damping:20,mass:.5},children:Ts.map(O=>Y.jsxs("div",{className:"relative w-full cursor-pointer flex items-center px-6",onClick:()=>{i(`/character/${O.id}`),f(!1),s(null)},children:[O.id===a&&Y.jsx("div",{className:"absolute inset-0 z-0",style:{top:"-0.75rem",bottom:"-0.75rem",background:"linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0))"}}),Y.jsx("div",{className:"w-6 flex justify-center z-10",children:Y.jsx("div",{className:`w-3 h-3 transform rotate-45
         ${O.id===a?"bg-white":"bg-gray-500"}`})}),Y.jsx(we.div,{className:`text-2xl font-medium ml-4 z-10 ${O.id===a?"text-white":"text-gray-400 hover:text-white"}`,animate:{x:O.id===a?12:0},transition:{type:"spring",stiffness:300,damping:24},children:O.name})]},O.id))}),!c&&Y.jsx("div",{className:"flex-1 flex items-center justify-center p-6 relative z-10",children:Y.jsx("div",{className:"bg-white/30 backdrop-blur-md rounded-xl shadow-xl w-full max-w-6xl overflow-hidden relative h-[76vh] p-6",children:Y.jsx("div",{className:"max-h-full overflow-y-auto hide-scrollbar pt-1 pb-1 px-2",children:Y.jsx("div",{className:"grid grid-cols-6 gap-6",children:m.map(O=>{const K=r===O.id;return Y.jsx("div",{className:"group cursor-pointer",onClick:()=>{s(O.id),f(!0),y(null)},children:Y.jsxs("div",{className:`rounded-lg overflow-hidden transition-all duration-300 ease-out bg-gradient-to-b from-black/40 to-black/70 hover:from-black hover:to-black/20 hover:shadow-2xl hover:ring-2 hover:ring-white ${K?"ring-2 ring-white":""} flex flex-col`,children:[Y.jsx("img",{src:`/GenshinTool/${O.avatar}`,alt:O.name,className:"w-full aspect-square object-cover"}),Y.jsx("div",{className:`
                     text-center text-base font-medium py-1
                     transition-colors duration-200
                     ${K?"bg-white text-black":"bg-black text-white group-hover:bg-white group-hover:text-black"}`,children:O.name})]})},O.id)})})})})}),Y.jsx(ym,{children:c&&Y.jsx(we.div,{className:"fixed bottom-0 left-0 right-0 h-[200px] z-30 bg-white/5 flex items-center justify-center",initial:{y:240,opacity:0},animate:{y:0,opacity:1},exit:{y:240,opacity:0},layout:!0,transition:{type:"spring",stiffness:300,damping:30,mass:.6},children:Y.jsxs("div",{className:"w-full max-w-6xl px-6 flex items-center gap-6",children:[m.length>6&&Y.jsx("button",{className:"w-16 h-16 flex items-center justify-center transition",onClick:H,children:Y.jsx("img",{src:"/GenshinTool/images/icon/leftArrow.png",alt:"previous",className:"w-full h-full object-contain"})}),Y.jsx("div",{className:`flex gap-6 flex-1 ${m.length<=6?"justify-center":"justify-between"}`,children:B.map(O=>{const K=r===O.id;return Y.jsx("div",{className:"w-28 cursor-pointer",onClick:()=>{s(O.id),y(null)},children:Y.jsxs("div",{className:`rounded-lg overflow-hidden bg-black/70 hover:bg-black transition ${K?"ring-2 ring-white":""}`,children:[Y.jsx("img",{src:`/GenshinTool/${O.avatar}`,alt:O.name,className:"w-full aspect-square object-cover"}),Y.jsx("div",{className:`text-center text-base py-2 transition-colors
                           ${K?"bg-white text-black":"bg-black text-white hover:bg-white hover:text-black"}
-                        `,children:O.name})]})},O.id)})}),m.length>6&&Y.jsx("button",{className:"w-16 h-16 flex items-center justify-center transition",onClick:J,children:Y.jsx("img",{src:"/GenshinTool/images/icon/rightArrow.png",alt:"next",className:"w-full h-full object-contain"})})]})},"bottom-bar")}),c&&Y.jsx("div",{className:"flex-1 flex flex-col p-6 relative z-10 space-y-6 items-center mt-4",children:r&&Y.jsxs(Y.Fragment,{children:[Y.jsx("div",{className:"flex gap-4 w-full max-w-screen-md space-y-3 max-h-[60vh]",children:m.filter(O=>O.id===r).map(O=>Y.jsxs("div",{className:"flex items-center gap-12 w-full",children:[Y.jsx("img",{src:`/GenshinTool/${O.element}`,alt:"元素",className:"w-24 h-24"}),Y.jsx("div",{className:"text-6xl",children:O.name}),Y.jsx("img",{src:`/GenshinTool/${O.emoji}`,alt:"圖片",className:"w-32 h-32"}),Y.jsx("span",{className:"ml-auto",children:Y.jsx("div",{className:"text-gray-200 text-3xl",children:O.birthday})})]},O.id))}),Y.jsx("div",{className:"w-full max-w-screen-sm space-y-3 max-h-[100vh] overflow-y-hidden",children:Y.jsx(ym,{initial:!1,children:L?Y.jsxs(we.div,{layout:!0,initial:{opacity:0,y:-10},animate:{opacity:1,y:0},exit:{opacity:0,y:10},transition:{type:"spring",stiffness:200,damping:25},children:[Y.jsxs("div",{className:"cursor-pointer bg-gray-700 px-4 py-4 rounded-md text-2xl font-normal hover:bg-gray-600",onClick:()=>y(h===L.letterId?null:L.letterId),children:[L.title,Y.jsx("span",{className:"float-right",children:"▲"})]}),Y.jsx(we.div,{initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},transition:{duration:.25},className:"overflow-hidden mt-2",children:Y.jsxs("div",{className:"bg-gray-600/70 rounded-md p-3 w-full box-border",children:[Y.jsx("div",{className:"text-xl text-gray-100 whitespace-pre-line antialiased font-normal",children:bc[L.letterId]?.content||"內容缺失"}),bc[L.letterId]?.sign&&Y.jsx("div",{className:"text-right text-base mt-1 text-gray-50",children:bc[L.letterId].sign})]})})]},L.letterId):z.map(O=>Y.jsx(we.div,{layout:!0,initial:!1,animate:{opacity:1,y:0},exit:{opacity:0},transition:{type:"spring",stiffness:300,damping:30},children:Y.jsxs("div",{className:"cursor-pointer bg-gray-700 px-4 py-4 rounded-md text-2xl font-medium hover:bg-gray-600",onClick:()=>y(O.letterId),children:[O.title,Y.jsx("span",{className:"float-right",children:"▼"})]})},O.letterId))})})]})})]})}function J6(){const a=_i(),[i,r]=E.useState(-1),s=[{white:"/GenshinTool/images/icon/elemental/white/火.png",color:"/GenshinTool/images/icon/elemental/color/火.png"},{white:"/GenshinTool/images/icon/elemental/white/水.png",color:"/GenshinTool/images/icon/elemental/color/水.png"},{white:"/GenshinTool/images/icon/elemental/white/風.png",color:"/GenshinTool/images/icon/elemental/color/風.png"},{white:"/GenshinTool/images/icon/elemental/white/雷.png",color:"/GenshinTool/images/icon/elemental/color/雷.png"},{white:"/GenshinTool/images/icon/elemental/white/草.png",color:"/GenshinTool/images/icon/elemental/color/草.png"},{white:"/GenshinTool/images/icon/elemental/white/冰.png",color:"/GenshinTool/images/icon/elemental/color/冰.png"},{white:"/GenshinTool/images/icon/elemental/white/岩.png",color:"/GenshinTool/images/icon/elemental/color/岩.png"}];return E.useEffect(()=>{const h=428.57142857142856,y=[];for(let m=0;m<7;m++)y.push(setTimeout(()=>{r(m)},h*(m+1)));const g=setTimeout(()=>{a("/pre-ani")},3500);return()=>{y.forEach(clearTimeout),clearTimeout(g)}},[a]),Y.jsx("div",{className:"w-screen h-screen flex items-center justify-center",style:{backgroundColor:"#1E1E1E"},children:Y.jsx("div",{className:"flex gap-6",children:s.map((c,f)=>{const h=f<=i;return Y.jsx(we.img,{src:h?c.color:c.white,alt:`logo-${f+1}`,initial:{opacity:0,y:8},animate:{opacity:1,y:0},transition:{duration:.3,ease:"easeOut"},className:"w-20 h-20 object-contain"},f)})})})}function F6(){const a=nT(),i=_i();return E.useEffect(()=>{a.start({scale:[1,1.1,1],opacity:[1,.9,1],transition:{duration:1.5,repeat:1/0,repeatType:"loop",ease:"easeInOut"}})},[a]),Y.jsxs("div",{className:"relative w-screen h-screen overflow-hidden bg-black flex items-center justify-center",children:[Y.jsx("video",{src:"/GenshinTool/images/bg.mp4",autoPlay:!0,muted:!0,loop:!0,className:"absolute inset-0 w-full h-full object-cover z-0"}),Y.jsx("div",{className:"absolute inset-0 bg-black/40 z-10"}),Y.jsx(we.div,{initial:{opacity:0,y:-20},animate:{opacity:1,y:0},transition:{duration:1},className:"text-4xl text-white font-normal text-center leading-none z-20",children:"旅行者，歡迎來到提瓦特大陸"}),Y.jsx("div",{className:"absolute bottom-32 left-1/2 transform -translate-x-1/2 z-20",children:Y.jsx(we.img,{src:"/GenshinTool/images/icon/go.png",alt:"enter",className:"w-48 h-10 object-contain cursor-pointer",onClick:()=>i("/home"),animate:a,initial:{scale:.8,opacity:0},onHoverStart:()=>a.stop(),onHoverEnd:()=>a.start({scale:[1,1.1,1],opacity:[1,.9,1],transition:{duration:1.5,repeat:1/0,repeatType:"loop",ease:"easeInOut"}})})})]})}function P6(){return Y.jsxs(Ib,{children:[Y.jsx(fi,{path:"/",element:Y.jsx(J6,{})}),Y.jsx(fi,{path:"/pre-ani",element:Y.jsx(F6,{})}),Y.jsx(fi,{path:"/home",element:Y.jsx(aT,{})}),Y.jsx(fi,{path:"/region",element:Y.jsx(iT,{})}),Y.jsx(fi,{path:"/character/:regionId",element:Y.jsx(Q6,{})})]})}Gv.createRoot(document.getElementById("root")).render(Y.jsx(Vv.StrictMode,{children:Y.jsx(h3,{children:Y.jsx(P6,{})})}));
+                        `,children:O.name})]})},O.id)})}),m.length>6&&Y.jsx("button",{className:"w-16 h-16 flex items-center justify-center transition",onClick:J,children:Y.jsx("img",{src:"/GenshinTool/images/icon/rightArrow.png",alt:"next",className:"w-full h-full object-contain"})})]})},"bottom-bar")}),c&&Y.jsx("div",{className:"flex-1 flex flex-col p-6 relative z-10 space-y-6 items-center mt-4",children:r&&Y.jsxs(Y.Fragment,{children:[Y.jsx("div",{className:"flex gap-4 w-full max-w-screen-md space-y-3 max-h-[60vh]",children:m.filter(O=>O.id===r).map(O=>Y.jsxs("div",{className:"flex items-center gap-12 w-full",children:[Y.jsx("img",{src:`/GenshinTool/${O.element}`,alt:"元素",className:"w-24 h-24"}),Y.jsx("div",{className:"text-6xl",children:O.name}),Y.jsx("img",{src:`/GenshinTool/${O.emoji}`,alt:"圖片",className:"w-32 h-32"}),Y.jsx("span",{className:"ml-auto",children:Y.jsx("div",{className:"text-gray-200 text-3xl",children:O.birthday})})]},O.id))}),Y.jsx("div",{className:"w-full max-w-screen-sm space-y-3 max-h-[100vh] overflow-y-hidden",children:Y.jsx(ym,{initial:!1,children:L?Y.jsxs(we.div,{layout:!0,initial:{opacity:0,y:-10},animate:{opacity:1,y:0},exit:{opacity:0,y:10},transition:{type:"spring",stiffness:200,damping:25},children:[Y.jsxs("div",{className:"cursor-pointer bg-gray-700 px-4 py-4 rounded-md text-2xl font-normal hover:bg-gray-600",onClick:()=>y(h===L.letterId?null:L.letterId),children:[L.title,Y.jsx("span",{className:"float-right",children:"▲"})]}),Y.jsx(we.div,{initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},transition:{duration:.25},className:"overflow-hidden mt-2",children:Y.jsxs("div",{className:"bg-gray-600/70 rounded-md p-3 w-full box-border",children:[Y.jsx("div",{className:"text-xl text-gray-100 whitespace-pre-line antialiased font-normal",children:bc[L.letterId]?.content||"內容缺失"}),bc[L.letterId]?.sign&&Y.jsx("div",{className:"text-right text-base mt-1 text-gray-50",children:bc[L.letterId].sign})]})})]},L.letterId):z.map(O=>Y.jsx(we.div,{layout:!0,initial:!1,animate:{opacity:1,y:0},exit:{opacity:0},transition:{type:"spring",stiffness:300,damping:30},children:Y.jsxs("div",{className:"cursor-pointer bg-gray-700 px-4 py-4 rounded-md text-2xl font-medium hover:bg-gray-600",onClick:()=>y(O.letterId),children:[O.title,Y.jsx("span",{className:"float-right",children:"▼"})]})},O.letterId))})})]})})]})}function P6(){const a=_i(),[i,r]=E.useState(-1),s=[{white:"/GenshinTool/images/icon/elemental/white/火.png",color:"/GenshinTool/images/icon/elemental/color/火.png"},{white:"/GenshinTool/images/icon/elemental/white/水.png",color:"/GenshinTool/images/icon/elemental/color/水.png"},{white:"/GenshinTool/images/icon/elemental/white/風.png",color:"/GenshinTool/images/icon/elemental/color/風.png"},{white:"/GenshinTool/images/icon/elemental/white/雷.png",color:"/GenshinTool/images/icon/elemental/color/雷.png"},{white:"/GenshinTool/images/icon/elemental/white/草.png",color:"/GenshinTool/images/icon/elemental/color/草.png"},{white:"/GenshinTool/images/icon/elemental/white/冰.png",color:"/GenshinTool/images/icon/elemental/color/冰.png"},{white:"/GenshinTool/images/icon/elemental/white/岩.png",color:"/GenshinTool/images/icon/elemental/color/岩.png"}];return E.useEffect(()=>{const h=428.57142857142856,y=[];for(let m=0;m<7;m++)y.push(setTimeout(()=>{r(m)},h*(m+1)));const g=setTimeout(()=>{a("/pre-ani")},3500);return()=>{y.forEach(clearTimeout),clearTimeout(g)}},[a]),Y.jsx("div",{className:"w-screen h-screen flex items-center justify-center",style:{backgroundColor:"#1E1E1E"},children:Y.jsx("div",{className:"flex gap-6",children:s.map((c,f)=>{const h=f<=i;return Y.jsx(we.img,{src:h?c.color:c.white,alt:`logo-${f+1}`,initial:{opacity:0,y:8},animate:{opacity:1,y:0},transition:{duration:.3,ease:"easeOut"},className:"w-20 h-20 object-contain"},f)})})})}function $6(){const a=nT(),i=_i();return E.useEffect(()=>{a.start({scale:[1,1.1,1],opacity:[1,.9,1],transition:{duration:1.5,repeat:1/0,repeatType:"loop",ease:"easeInOut"}})},[a]),Y.jsxs("div",{className:"relative w-screen h-screen overflow-hidden bg-black flex items-center justify-center",children:[Y.jsx("video",{src:"/GenshinTool/images/bg.mp4",autoPlay:!0,muted:!0,loop:!0,className:"absolute inset-0 w-full h-full object-cover z-0"}),Y.jsx("div",{className:"absolute inset-0 bg-black/40 z-10"}),Y.jsx(we.div,{initial:{opacity:0,y:-20},animate:{opacity:1,y:0},transition:{duration:1},className:"text-4xl text-white font-normal text-center leading-none z-20",children:"旅行者，歡迎來到提瓦特大陸"}),Y.jsx("div",{className:"absolute bottom-32 left-1/2 transform -translate-x-1/2 z-20",children:Y.jsx(we.img,{src:"/GenshinTool/images/icon/go.png",alt:"enter",className:"w-48 h-10 object-contain cursor-pointer",onClick:()=>i("/home"),animate:a,initial:{scale:.8,opacity:0},onHoverStart:()=>a.stop(),onHoverEnd:()=>a.start({scale:[1,1.1,1],opacity:[1,.9,1],transition:{duration:1.5,repeat:1/0,repeatType:"loop",ease:"easeInOut"}})})})]})}function W6(){return Y.jsxs(Ib,{children:[Y.jsx(fi,{path:"/",element:Y.jsx(P6,{})}),Y.jsx(fi,{path:"/pre-ani",element:Y.jsx($6,{})}),Y.jsx(fi,{path:"/home",element:Y.jsx(aT,{})}),Y.jsx(fi,{path:"/region",element:Y.jsx(iT,{})}),Y.jsx(fi,{path:"/character/:regionId",element:Y.jsx(F6,{})})]})}Gv.createRoot(document.getElementById("root")).render(Y.jsx(Vv.StrictMode,{children:Y.jsx(h3,{children:Y.jsx(W6,{})})}));
